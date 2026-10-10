@@ -1,4 +1,4 @@
-# My-Math-Journey
+# My Math Journey
 Website Describing my Math Journey
 
 Polymath (Math Mage / Stats Sorcerer)
