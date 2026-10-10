@@ -23,9 +23,9 @@ My first inflection point in math was when I took AP Calculus AB my junior year 
 
 # Math Stats (the 3rd course in it):
 
-Mathematical Statistics (the intersection of math and statistics). This is the course where you get to derive probability distributions.
+[Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (the intersection of math and statistics). This is the course where you get to derive probability distributions.
 
-During the summer of 2026, I was taking a mathematical statistics course. I was stressing over the course but all that struggling in the end was worth it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be literally applied to everything in the universe. Some sort of philosophical awakening to me. This made me reason everything with formal logic. This ultimately caused me to open up a LinkedIn and this website. I need to make connections with people and much rather do it online. I like texting much more than talking to people in public (specifically, technical writing).
+During the summer of 2026, I was taking a [mathematical statistics](https://online.stat.psu.edu/stat415/) course. I was stressing over the course but all that struggling in the end was worth it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be literally applied to everything in the universe. Some sort of philosophical awakening to me. This made me reason everything with formal logic. This ultimately caused me to open up a LinkedIn and this website. I need to make connections with people and much rather do it online. I like texting much more than talking to people in public (specifically, technical writing).
 Some Insight:
 
 Interdisciplinary math and other subjects are becoming more popular.
@@ -35,7 +35,7 @@ Statistical mechanics (mostly probability) can be applied to aerospace / industr
 It's important to study what you love in this day and age.
 Math & AI:
 
-Shoutout to Dr. Hayford since he nails exactly how I think about AI & math.
+[Shoutout to Dr. Hayford since he nails exactly how I think about AI & math](https://sites.google.com/view/nathanhayford/miscellaneous).
 
 There's so much cool new applied math topics being created.
 
