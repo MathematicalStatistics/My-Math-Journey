@@ -1,13 +1,14 @@
-# My Math Journey
-Website Describing my Math Journey
+## My Math Journey
 
-Polymath (Math Mage / Stats Sorcerer)
+# Website Describing my Math Journey
 
-My math Journey:
+# Polymath (Math Mage / Stats Sorcerer)
+
+# My math Journey:
 
 For as long as I can remember, I’ve always loved math and numbers. I always tried to recognize a pattern into everything. I love methodical steps to problems and writing.
 
-My majors throughout my university experience explain my journey. I first started as a Mathematical Physics major at the UoE because I loved both subjects in high school. Once I took dynamics, I realized that I particularly didn't like that area of physics (I squashed the diagrams that I drew). I then decided to try applied math at USF because I struggled writing my own proofs (which is a decent chunk of pure math). I realized I liked my stats courses more after taking probability and mathematical statistics. I then decided to do the MAS program at PSU to learn about the applications of statistics to other subjects.
+My majors throughout my university experience explain my journey. I first started as a MathPhys major at the UoE because I loved both subjects in high school. Once I took MfP2, I realized that I particularly didn't like that area of physics (I squashed the diagrams that I drew). I then decided to try applied math at USF because I struggled writing my own proofs (which is a decent chunk of pure math). I realized I liked my stats courses more after taking probability and MathStats. I then decided to do the MAS program at PSU to learn about the applications of statistics to other subjects.
 
 I’ve realized how much math and logic is behind the skills I learned too. I think of Excel as one giant matrix from linear algebra; R is a programming language designed specifically for statisticians; technical writing is very methodical in the sense that you first write code, get an output, and then interpret the results; Tableau can make beautiful dashboards with all of the data; Minitab feels like Excel but specifically for statisticians.
 
@@ -18,13 +19,15 @@ Taking courses in other disciplines was also interesting for me too. Like in ISM
 My research interests include the following applied math topics: computational math (quantum computing + theoretical data science), mathematical biology (biostats / bioinformatics), mathematical chemistry (crystallography), mathematical economics (P&C Actuarial Science), mathematical engineering (aerospace + industrial [statistical mechanics]), mathematical physics (magnetohydrodynamics, quantum [chromo / electro] {dynamics}), mathematical statistics (algebraic stats, stat manifolds), and meteorology (statistical mechanics [probability]).
 
 I'm always willing to learn something new. I'm eager to learn math applied to the universe (aspiring polymath). I love helping others learn math.
-My Math / Stats Inflection Points:
-Calculus:
+
+# My Math / Stats [Inflection Points]([https://example.com](https://en.wikipedia.org/wiki/Inflection_point)): 
+# Calculus:
 
 My first inflection point in math was when I took AP Calculus AB my junior year of high school. All of the previous math I learned just stuck together like glue. Algebra and geometry just made sense although I already took courses on those subjects. I loved using the tools of all of the math I used throughout my life.
-Math Stats (the 3rd course in it):
 
-Mathematical statistics (the intersection of math and statistics). This is the course where you get to derive probability distributions.
+# Math Stats (the 3rd course in it):
+
+Mathematical Statistics (the intersection of math and statistics). This is the course where you get to derive probability distributions.
 
 During the summer of 2026, I was taking a mathematical statistics course. I was stressing over the course but all that struggling in the end was worth it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be literally applied to everything in the universe. Some sort of philosophical awakening to me. This made me reason everything with formal logic. This ultimately caused me to open up a LinkedIn and this website. I need to make connections with people and much rather do it online. I like texting much more than talking to people in public (specifically, technical writing).
 Some Insight:
