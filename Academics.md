@@ -9,8 +9,9 @@ Second-year Master's Summer Semester 2026
 
 Second-year Master's Spring Semester 2026
 
-    STAT 506 | Sampling Theory and Methods (TBA)
-    STAT 580: Statistical Consulting Practicum I (TBA)
+   [STAT 506 | Sampling Theory and Methods](https://online.stat.psu.edu/stat506/) (TBA)
+   
+   [STAT 580: Statistical Consulting Practicum I](https://online.stat.psu.edu/stat580/) (TBA)
 
 Second-year Master's Fall Semester 2026 (In-Progress)
 
