@@ -28,7 +28,7 @@ Proofs:
 
 Visual Math:
 
-- 3Blue1Brown
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 Websites:
 
@@ -36,34 +36,34 @@ Websites:
 
 YouTube:
 
-- XerographicPaper
+- [XerographicPaper](https://www.youtube.com/watch?v=-w4QJ1YGKf4)
 
-- ThatMathThing
+- [ThatMathThing](https://www.youtube.com/ThatMathThing)
 
 Minecraft Math:
 
-- Dr. Weselcouch
+- [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch)
 
 Statistics Learning
 Pop-Stats:
 
-- Statology
+- [Statology](https://www.statology.org/)
 
 Time Series Forecasting:
 
-- NumerAI (predicts stock markets)
+- [NumerAI](https://numer.ai/) (predicts stock markets)
 
 Physics Learning
 Cool physics simulations:
 
-- PhET
+- [PhET](https://phet.colorado.edu/)
 
 YouTube Channels:
 
-- Andrew Dotson (Particle Physics)
+- [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 
-- Physics Girl (Physics + EE)
+- [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + EE)
 
-- Storytime With Jeff (Physics)
+- [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
 
-- Tibees (MathPhys)
+- [Tibees](https://www.youtube.com/@tibees) (MathPhys)
