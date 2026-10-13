@@ -11,7 +11,7 @@
 
 - Excel and Tableau Trainee - The Global Tech Experience (May 2023 - Jul 2023)
 
-  Excel was used for the first half of the program and Tableau for the rest of the internship.
+    Excel was used for the first half of the program and Tableau for the rest of the internship.
 
   - Excel:
     
