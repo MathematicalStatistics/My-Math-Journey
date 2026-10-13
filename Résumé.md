@@ -16,9 +16,11 @@
   Excel was used for the first half of the program and Tableau for the rest of the internship.
 
   - Excel:
+    
     Xlookup, A/B (hypothesis) testing, data cleaning.
 
   - Tableau:
+    
     Dashboard creation (drag and drop).
 
     Took through the IDS 3947 course at USF.
@@ -29,7 +31,7 @@
 
 # <h1 align="center">Projects</h1>
 
-APSCP Snap! Portfolio (Aug 2019 - May 2020)
+- APSCP Snap! Portfolio (Aug 2019 - May 2020)
 
 # <h1 align="center">Education</h1>
 
