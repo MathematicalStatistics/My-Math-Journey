@@ -83,7 +83,7 @@
 - R Studio (ggplot2, Tidyverse)
 
 # <h1 align="center">Foreign Languages</h1>
-- English (Native)
+- English (American) [Native]
 
 - Italian (Limited Working Proficiency)
 
