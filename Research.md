@@ -15,19 +15,19 @@
 
 [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) / [Neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) (Cognitive Science)
 
-Data Mining
+[Data Mining](https://en.wikipedia.org/wiki/Data_mining)
 
-Formal Logic for Programming
+[Formal Logic for Programming](https://en.wikipedia.org/wiki/Logic)
 
-Numerical Partial Differential Equations
+[Numerical Partial Differential Equations](https://en.wikipedia.org/wiki/Numerical_methods_for_partial_differential_equations)
 
-Mathematics and Statistics Simulations
+[Mathematics](https://scisimulator.com/en/subject/math) and [Statistics Simulations](https://www.statscalculators.com/resources/simulations)
 
-Modern Cryptography
+[Modern Cryptography](https://people.csail.mit.edu/ddeford/Modern_Cryptography.pdf)
 
-Quantum Computing
+[Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
 
-Theoretical Data Science
+[Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
 
 # Mathematical and Theoretical Biology
 
