@@ -78,11 +78,11 @@ Tablaeu (Dashboard Creation)
 # Foreign Languages
 English (Native)
 
-Italian 
+Italian (Limited Working Proficiency)
 
 Decent at Reading and Understanding
 
 Poor at speaking and Writing
 
-Korean
+Korean (Elementary Proficiency)
 Only know some food and family terms
