@@ -1,15 +1,15 @@
 # <h1 align="center">Lorenzo Schenardi</h1>
-https://www.linkedin.com/in/mathematical-statistics/
+<h1 align="center">https://www.linkedin.com/in/mathematical-statistics/</h1>
 
-lorenzoschenardi@gmail.com
+<h1 align="center">lorenzoschenardi@gmail.com</h1>
 
-# About Me
+# <h1 align="center">About Me</h1>
 
 Aspiring P&C Actuary through MathStats (Probability Distribution Derivations via Calculus Methods)
 
 Former Data Analyst @ the Global Career Accelerator (Remote)
 
-# Experience
+# <h1 align="center">Experience</h1>
 
 Excel and Tableau Trainee - The Global Tech Experience (May 2023 - Jul 2023)
 
@@ -27,11 +27,11 @@ This internship was useful since I learned about new advanced Excel techniques l
 
 I didn’t know about Tableau prior to this.
 
-# Projects
+# <h1 align="center">Projects</h1>
 
 APSCP Snap! Portfolio (Aug 2019 - May 2020)
 
-# Education
+# <h1 align="center">Education</h1>
 
 Pennsylvania State University - World Campus (Aug 2025 - Aug 2027)
 M.A.S. (Master's of Applied Statistics)
@@ -46,19 +46,19 @@ University of Edinburgh (Sep 2021 - May 2022)
 BSc (Honours) Mathematical Physics
 Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
 
-# Programming Skills
+# <h1 align="center">Programming Skills</h1>
 Python (NumPy, Spicy)
 
 R Studio (ggplot2, Tidyverse)
 
-# Soft Skills
+# <h1 align="center">Soft Skills</h1>
 Helping Others / Tutoring
 
 Intercultural Skills / Communication
 
 Teamwork / Leadership
 
-# Technical Skills
+# <h1 align="center">Technical Skills</h1>
 (Applied / Computational) [Math / Stats]
 
 (Inductive / Deductive) Reasoning
@@ -75,7 +75,7 @@ Reverse Engineering (Given an Answer then Work it Backwards)
 
 Tablaeu (Dashboard Creation)
 
-# Foreign Languages
+# <h1 align="center">Foreign Languages</h1>
 English (Native)
 
 Italian (Limited Working Proficiency)
