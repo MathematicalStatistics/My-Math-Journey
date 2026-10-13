@@ -1,96 +1,96 @@
 # My Research Interests Include the Following:
 # [Applied Math](https://en.wikipedia.org/wiki/Applied_mathematics) (Math applied to other subjects)
 
-    [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
+[Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
 
-    [Complex Analysis](https://www.youtube.com/playlist?list=PLDcSwjT2BF_UDdkQ3KQjX5SRQ2DLLwv0R) (Calculus with Imaginary Numbers)
+[Complex Analysis](https://www.youtube.com/playlist?list=PLDcSwjT2BF_UDdkQ3KQjX5SRQ2DLLwv0R) (Calculus with Imaginary Numbers)
 
-    [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
+[Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
 
 # Computational Math (math w/ computer or doing calculations by hand)
 
-    Artificial Intelligence and Machine Learning Algorithms
+ Artificial Intelligence and Machine Learning Algorithms
 
-    Coding Theory
+Coding Theory
 
-    Computational Linguistics / Neuroscience (Cognitive Science)
+Computational Linguistics / Neuroscience (Cognitive Science)
 
-    Data Mining
+Data Mining
 
-    Formal Logic for Programming
+Formal Logic for Programming
 
-    Numerical Partial Differential Equations
+Numerical Partial Differential Equations
 
-    Mathematics and Statistics Simulations
+Mathematics and Statistics Simulations
 
-    Modern Cryptography
+Modern Cryptography
 
-    Quantum Computing
+Quantum Computing
 
-    Theoretical Data Science
+Theoretical Data Science
 
 # Mathematical and Theoretical Biology
 
-    Biostatistics / Bioinformatics
+Biostatistics / Bioinformatics
 
 # Mathematical Chemistry (Intersection of math and chemistry)
 
-    Crystallography 
+Crystallography 
 
-    Organic Chemistry (Want to learn the methodical nomenclature of hexagons)
+Organic Chemistry (Want to learn the methodical nomenclature of hexagons)
 
 # Mathematical Economics
 
-    Actuarial Science (Property & Casualty)
+Actuarial Science (Property & Casualty)
 
-    Black-Scholes Model
+Black-Scholes Model
 
-    Game Theory
+Game Theory
 
-    Martingales
+Martingales
 
-    Mathematical Finance
+Mathematical Finance
 
-    Stochastic Differential Equations
+Stochastic Differential Equations
 
-    Time Series Forecasting (for stock markets)
+Time Series Forecasting (for stock markets)
 
 # Mathematical Engineering (Engineering and math)
 
-    Control Theory and Signal Processing (EE-Adjacent)
+Control Theory and Signal Processing (EE-Adjacent)
 
-    Industrial Engineering (lots of statistics behind it)
+Industrial Engineering (lots of statistics behind it)
 
-    Phased Arrays
+ Phased Arrays
 
-    Prompt Engineering (Figuring out what to Ask AI)
+Prompt Engineering (Figuring out what to Ask AI)
 
-    Reverse Engineering (Given the answer then work it backwards)
+Reverse Engineering (Given the answer then work it backwards)
 
 # Mathematical Physics (Intersection of math and physics)
 
-    Dynamical Systems / Chaos Theory
+Dynamical Systems / Chaos Theory
 
-    Magnetohydrodynamics
+Magnetohydrodynamics
 
-    Physics Simulation (CS + Physics)
+Physics Simulation (CS + Physics)
 
-    Statistical Mechanics 
+Statistical Mechanics 
 
-    Quantum (Chromo / Electro) [dynamics] (QED)
+Quantum (Chromo / Electro) [dynamics] (QED)
 
-    Three-Body Problem
+Three-Body Problem
 
 # Mathematical Statistics (Intersection of math and statistics [subset of applied math])
 
-    Algebraic Statistics (Abstract Algebra applied to Stats)
+ Algebraic Statistics (Abstract Algebra applied to Stats)
 
-    Metropolis-Hastings Algorithm
+Metropolis-Hastings Algorithm
 
-    Monte Carlo Markov Chains (MCMC)
+ Monte Carlo Markov Chains (MCMC)
 
-    Nonparametric Statistics (Kolmogorov-Smirnov)
+Nonparametric Statistics (Kolmogorov-Smirnov)
 
-    Statistical Manifolds (Differentiable Manifolds [calc in higher than 3D] applied to Stats)
+Statistical Manifolds (Differentiable Manifolds [calc in higher than 3D] applied to Stats)
 
 # Meteorology (Statistical Mechanics)
