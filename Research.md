@@ -11,9 +11,9 @@
 
  [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and Machine Learning Algorithms
 
-Coding Theory
+[Coding Theory](https://en.wikipedia.org/wiki/Coding_theory)
 
-Computational Linguistics / Neuroscience (Cognitive Science)
+[Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) / [Neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) (Cognitive Science)
 
 Data Mining
 
