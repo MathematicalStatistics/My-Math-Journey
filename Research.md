@@ -1,5 +1,5 @@
 # My Research Interests Include the Following:
-Applied Math (Math applied to other subjects)
+# Applied Math (Math applied to other subjects)
 
     Business Intelligence
 
@@ -7,7 +7,7 @@ Applied Math (Math applied to other subjects)
 
     Mathematical Modeling (Perturbation Theory)
 
-Computational Math (math w/ computer or doing calculations by hand)
+# Computational Math (math w/ computer or doing calculations by hand)
 
     Artificial Intelligence and Machine Learning Algorithms
 
@@ -29,17 +29,17 @@ Computational Math (math w/ computer or doing calculations by hand)
 
     Theoretical Data Science
 
-Mathematical and Theoretical Biology
+# Mathematical and Theoretical Biology
 
     Biostatistics / Bioinformatics
 
-Mathematical Chemistry (Intersection of math and chemistry)
+# Mathematical Chemistry (Intersection of math and chemistry)
 
     Crystallography 
 
     Organic Chemistry (Want to learn the methodical nomenclature of hexagons)
 
-Mathematical Economics
+# Mathematical Economics
 
     Actuarial Science (Property & Casualty)
 
@@ -55,7 +55,7 @@ Mathematical Economics
 
     Time Series Forecasting (for stock markets)
 
-Mathematical Engineering (Engineering and math)
+# Mathematical Engineering (Engineering and math)
 
     Control Theory and Signal Processing (EE-Adjacent)
 
@@ -67,7 +67,7 @@ Mathematical Engineering (Engineering and math)
 
     Reverse Engineering (Given the answer then work it backwards)
 
-Mathematical Physics (Intersection of math and physics)
+# Mathematical Physics (Intersection of math and physics)
 
     Dynamical Systems / Chaos Theory
 
@@ -81,7 +81,7 @@ Mathematical Physics (Intersection of math and physics)
 
     Three-Body Problem
 
-Mathematical Statistics (Intersection of math and statistics [subset of applied math])
+# Mathematical Statistics (Intersection of math and statistics [subset of applied math])
 
     Algebraic Statistics (Abstract Algebra applied to Stats)
 
@@ -93,4 +93,4 @@ Mathematical Statistics (Intersection of math and statistics [subset of applied 
 
     Statistical Manifolds (Differentiable Manifolds [calc in higher than 3D] applied to Stats)
 
-Meteorology (Statistical Mechanics)
+# Meteorology (Statistical Mechanics)
