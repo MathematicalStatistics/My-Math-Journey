@@ -7,9 +7,9 @@
 
 [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
 
-# Computational Math (math w/ computer or doing calculations by hand)
+# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (math w/ computer or doing calculations by hand)
 
- Artificial Intelligence and Machine Learning Algorithms
+ [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and Machine Learning Algorithms
 
 Coding Theory
 
