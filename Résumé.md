@@ -74,3 +74,14 @@ Results-Driven
 Reverse Engineering (Given an Answer then Work it Backwards)
 
 Tablaeu (Dashboard Creation)
+
+# Foreign Languages
+English (Native)
+
+Italian 
+
+Decent at Reading and Understanding
+Poor at speaking and Writing
+
+Korean
+Only know some food and family terms
