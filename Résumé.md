@@ -1,4 +1,4 @@
-# Lorenzo Schenardi
+# <h1 align="center">Lorenzo Schenardi</h1>
 https://www.linkedin.com/in/mathematical-statistics/
 
 lorenzoschenardi@gmail.com
