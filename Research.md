@@ -55,17 +55,17 @@
 
 [Time Series Forecasting](https://en.wikipedia.org/wiki/Time_series) (for stock markets)
 
-# Mathematical Engineering (Engineering and math)
+# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering) (Engineering and math)
 
-Control Theory and Signal Processing (EE-Adjacent)
+[Control Theory](https://en.wikipedia.org/wiki/Control_theory) and [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) (EE-Adjacent)
 
-Industrial Engineering (lots of statistics behind it)
+[Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering) (lots of statistics behind it)
 
- Phased Arrays
+[Phased Arrays](https://en.wikipedia.org/wiki/Phased_array)
 
-Prompt Engineering (Figuring out what to Ask AI)
+[Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering) (Figuring out what to Ask AI)
 
-Reverse Engineering (Given the answer then work it backwards)
+[Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering) (Given the answer then work it backwards)
 
 # Mathematical Physics (Intersection of math and physics)
 
