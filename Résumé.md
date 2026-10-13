@@ -81,6 +81,7 @@ English (Native)
 Italian 
 
 Decent at Reading and Understanding
+
 Poor at speaking and Writing
 
 Korean
