@@ -1,11 +1,11 @@
 # My Research Interests Include the Following:
-# Applied Math (Math applied to other subjects)
+# [Applied Math](https://en.wikipedia.org/wiki/Applied_mathematics) (Math applied to other subjects)
 
-    Business Intelligence
+    [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
 
-    Complex Analysis (Calculus with Imaginary Numbers)
+    [Complex Analysis](https://www.youtube.com/playlist?list=PLDcSwjT2BF_UDdkQ3KQjX5SRQ2DLLwv0R) (Calculus with Imaginary Numbers)
 
-    Mathematical Modeling (Perturbation Theory)
+    [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
 
 # Computational Math (math w/ computer or doing calculations by hand)
 
