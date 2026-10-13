@@ -81,16 +81,16 @@ Quantum (Chromo / [Electro](https://en.wikipedia.org/wiki/Quantum_electrodynamic
 
 [Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
-# Mathematical Statistics (Intersection of math and statistics [subset of applied math])
+# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (Intersection of math and statistics [subset of applied math])
 
- Algebraic Statistics (Abstract Algebra applied to Stats)
+[Algebraic Statistics](https://en.wikipedia.org/wiki/Dynamical_system) (Abstract Algebra applied to Stats)
 
-Metropolis-Hastings Algorithm
+[Metropolis-Hastings Algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)
 
- Monte Carlo Markov Chains (MCMC)
+[Monte Carlo Markov Chains (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 
-Nonparametric Statistics (Kolmogorov-Smirnov)
+[Nonparametric Statistics](https://en.wikipedia.org/wiki/Nonparametric_statistics) [(Kolmogorov-Smirnov)](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test)
 
-Statistical Manifolds (Differentiable Manifolds [calc in higher than 3D] applied to Stats)
+[Statistical Manifolds](https://en.wikipedia.org/wiki/Statistical_manifold) ([Differentiable Manifolds](https://en.wikipedia.org/wiki/Differentiable_manifold) [calc in higher than 3D] applied to Stats)
 
-# Meteorology (Statistical Mechanics)
+# [Meteorology](https://en.wikipedia.org/wiki/Meteorology) (Statistical Mechanics)
