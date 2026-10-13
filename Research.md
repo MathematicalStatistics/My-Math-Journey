@@ -31,29 +31,29 @@
 
 # Mathematical and Theoretical Biology
 
-Biostatistics / Bioinformatics
+[Biostatistics](https://en.wikipedia.org/wiki/Biostatistics) / [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
 
 # Mathematical Chemistry (Intersection of math and chemistry)
 
-Crystallography 
+[Crystallography](https://en.wikipedia.org/wiki/Crystallography) 
 
-Organic Chemistry (Want to learn the methodical nomenclature of hexagons)
+[Organic Chemistry](https://en.wikipedia.org/wiki/Organic_chemistry) (Want to learn the methodical nomenclature of hexagons)
 
 # Mathematical Economics
 
-Actuarial Science (Property & Casualty)
+[Actuarial Science](https://en.wikipedia.org/wiki/Actuarial_science) (Property & Casualty)
 
-Black-Scholes Model
+[Black-Scholes Model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 
-Game Theory
+[Game Theory](https://en.wikipedia.org/wiki/Game_theory)
 
-Martingales
+[Martingales](https://en.wikipedia.org/wiki/Martingale_%28probability_theory%29)
 
-Mathematical Finance
+[Mathematical Finance](https://en.wikipedia.org/wiki/Mathematical_finance)
 
-Stochastic Differential Equations
+[Stochastic Differential Equations](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
 
-Time Series Forecasting (for stock markets)
+[Time Series Forecasting](https://en.wikipedia.org/wiki/Time_series) (for stock markets)
 
 # Mathematical Engineering (Engineering and math)
 
