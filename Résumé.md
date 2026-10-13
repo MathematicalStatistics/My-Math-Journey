@@ -34,16 +34,23 @@ APSCP Snap! Portfolio (Aug 2019 - May 2020)
 # <h1 align="center">Education</h1>
 
 Pennsylvania State University - World Campus (Aug 2025 - Aug 2027)
+
 M.A.S. (Master's of Applied Statistics)
+
 Relevant Courses: Data Mining and Time Series
 
 University of South Florida (Jan 2023 - May 2025)
+
 B.S. Mathematics: Computational & Applied
+
 Data Analytics & Business Intelligence (Deprecated Concentration)
+
 Relevant Courses: Intro to MathStats 1 & 2, Intro to Probability Theory, Math Modeling
 
 University of Edinburgh (Sep 2021 - May 2022)
+
 BSc (Honours) Mathematical Physics
+
 Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
 
 # <h1 align="center">Programming Skills</h1>
