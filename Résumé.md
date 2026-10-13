@@ -41,3 +41,25 @@ B.S. Mathematics: Computational & Applied
 Data Analytics & Business Intelligence (Deprecated Concentration)
 Relevant Courses: Intro to MathStats 1 & 2, Intro to Probability Theory, Math Modeling
 
+University of Edinburgh (Sep 2021 - May 2022)
+BSc (Honours) Mathematical Physics
+Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
+
+# Programming Skills
+Python (NumPy, Spicy)
+R Studio (ggplot2, Tidyverse)
+
+# Soft Skills
+Helping Others / Tutoring
+Intercultural Skills / Communication
+Teamwork / Leadership
+
+# Technical Skills
+(Applied / Computational) [Math / Stats]
+(Inductive / Deductive) Reasoning
+Mathematical Engineering
+Microsoft (Word, Excel, and Powerpoint)
+Probability & MathStats
+Results-Driven
+Reverse Engineering (Given an Answer then Work it Backwards)
+Tablaeu (Dashboard Creation)
