@@ -7,8 +7,6 @@
 
 - Aspiring P&C Actuary through MathStats (Probability Distribution Derivations via Calculus Methods)
 
-- Former Data Analyst @ the Global Career Accelerator (Remote)
-
 # <h1 align="center">Experience</h1>
 
 - Excel and Tableau Trainee - The Global Tech Experience (May 2023 - Jul 2023)
@@ -17,17 +15,17 @@
 
   - Excel:
     
-    Xlookup, A/B (hypothesis) testing, data cleaning.
+      Xlookup, A/B (hypothesis) testing, data cleaning.
 
   - Tableau:
     
-    Dashboard creation (drag and drop).
+      Dashboard creation (drag and drop).
 
-    Took through the IDS 3947 course at USF.
+      Took through the IDS 3947 course at USF.
 
-    - This internship was useful since I learned about new advanced Excel techniques like ANOVA.
+        - This internship was useful since I learned about new advanced Excel techniques like ANOVA.
 
-    - I didn’t know about Tableau prior to this.
+        - I didn’t know about Tableau prior to this.
 
 # <h1 align="center">Projects</h1>
 
@@ -89,10 +87,10 @@
 
 - Italian (Limited Working Proficiency)
 
-    Decent at Reading and Understanding
+      Decent at Reading and Understanding
 
-    Poor at speaking and Writing
+      Poor at speaking and Writing
 
 - Korean (Elementary Proficiency)
 
-    Only know some food and family terms
+      Only know some food and family terms
