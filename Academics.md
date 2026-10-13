@@ -46,37 +46,43 @@ Junior Year Summer 2024
 
    [CGS 2100](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115103) [(Professor Walpole)](https://usfcourseresources.z13.web.core.windows.net/bus/cgs2100/videos/transcript/cgs2100_walpole_transcript.pdf)
    
-   [EME 4390 - Digital Identity]() (Discontinued) (Dr. Hatten)
+   [EME 4390 - Digital Identity] (Discontinued) [(Dr. Hatten)](https://www.usf.edu/education/faculty-staff/faculty-directory/hatten-james.aspx)
 
 Junior Year Spring 2024
 
-    AMH 2020 (Dr. Adkins)
-    MAP 4103 (Dr. Rothstein)
-    STA 4102 (Dr. Sanders)
-    STA 4442 (Dr. Skrzypek)
+   [AMH 2020](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114299) (Dr. Adkins)
+   
+   [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846) [(Dr. Rothstein)](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/ivan-rothstein.aspx)
+   
+   [STA 4102](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114499) [(Dr. Sanders)](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/houston-sanders.aspx)
 
 Junior Year Fall 2023
 
-    SOW 3802 (Professor Paterson)
-    STA 3024 (Dr. Tetteh-Bator)
+   [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728) (Professor Paterson)
+    
+   [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497) [(Dr. Tetteh-Bator)](https://www.jsums.edu/math2/personnel/dr-erasmus-tetteh-bator/)
 
 Sophomore Year Summer 2023
 
-    IDS 3947 - Cooperative Internship (Global Tech Experience)
+   [IDS 3947 - Cooperative Internship](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116344) [(Global Tech Experience)](https://www.globalcareeraccelerator.usf.edu/)
 
 Sophomore Year Spring 2023
 
-    ARH 2000 (Professor Slaughter)
-    CGS 2060  (Dr. Anderson)
-    ENC 1102 (Professor Kelley)
-    STA 2023 (Professor Bieske)
+   ARH 2000 [(Professor Slaughter)](https://www.usf.edu/innovative-education/digital-learning/discover-digital-learning/marta_slaughter.aspx)
+    
+   [CGS 2060](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)  [(Dr. Anderson)](https://www.usf.edu/ai-cybersecurity-computing/people/faculty/james-anderson.aspx)
+    
+   [ENC 1102](https://cloud.usf.edu/academic-programs/details/prefix/ENC/code/1102) (Professor Kelley)
+    
+   [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496) [(Professor Bieske)](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/amber-bieske.aspx)
 
 Mathematical Physics at the University of Edinburgh:
 Freshman Year Spring 2022
 
-    Proofs and Problem Solving (MATH08059) (Chris S.)
+   [Proofs and Problem Solving (MATH08059)](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm) [(Chris S.)](https://www.linkedin.com/in/chris-sangwin-9930b0b)
 
 Freshman Year Fall 2021
 
-    Introduction to Linear Algebra (MATH08057) (Chris S.)
-    Physics 1A: Foundations (PHYS08016) (Ross G.)
+   [Introduction to Linear Algebra (MATH08057)](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm) [(Chris S.)](https://www.linkedin.com/in/chris-sangwin-9930b0b)
+    
+   [Physics 1A: Foundations (PHYS08016)](https://www.drps.ed.ac.uk/21-22/dpt/cxphys08016.htm) [(Ross G.)](https://www.ph.ed.ac.uk/people/ross-galloway)
