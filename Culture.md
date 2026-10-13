@@ -16,7 +16,7 @@ An application of [computational linguistics](https://en.wikipedia.org/wiki/Comp
 
 [Italian brainrot](https://en.wikipedia.org/wiki/Italian_brainrot) [word of caution: it can say hurtful things depending on who makes the prompts (good way to know if someone is insulting you in Italian)] makes me want to re-learn the Italian language. {please don't take the website down because of this}.
 
-Tung tung tung sahur is my personal favorite.
+Tung Tung Tung Sahur is my personal favorite.
 
 <img width="1170" height="1180" alt="image" src="https://github.com/user-attachments/assets/b8c365d4-4957-438b-9091-b63a3c8ea601" />
 
