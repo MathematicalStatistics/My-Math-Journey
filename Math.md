@@ -2,68 +2,68 @@
 
 Math from scratch:
 
-    [Khan Academy](https://www.khanacademy.org/) (from counting all the way to calc 3 / diff eq / linear algebra) [there's many other subjects too, not just math]
+- [Khan Academy](https://www.khanacademy.org/) (from counting all the way to calc 3 / diff eq / linear algebra) [there's many other subjects too, not just math]
 
 Calculus:
 
-    blackpenredpen (crazy calc videos)
+- blackpenredpen (crazy calc videos)
 
-    MathWithMrWood
+- MathWithMrWood
 
-    Professor Leonard
+- Professor Leonard
 
 Nomenclature Patterns:
 
-    Metrix Prefix
+- Metrix Prefix
 
-    Names of Large Numbers
+- Names of Large Numbers
 
 Proofs:
 
-    How to Prove It
+- How to Prove It
 
-    Proof without words (visual proofs)
+- Proof without words (visual proofs)
 
-    Terence Tao (uses AI for proofs, really cool)
+- Terence Tao (uses AI for proofs, really cool)
 
 Visual Math:
 
-    3Blue1Brown
+- 3Blue1Brown
 
 Websites:
 
-    XerographicPaper
+- XerographicPaper
 
 YouTube:
 
-    XerographicPaper
+- XerographicPaper
 
-    ThatMathThing
+- ThatMathThing
 
 Minecraft Math:
 
-    Dr. Weselcouch
+- Dr. Weselcouch
 
 Statistics Learning
 Pop-Stats:
 
-    Statology
+- Statology
 
 Time Series Forecasting:
 
-    NumerAI (predicts stock markets)
+- NumerAI (predicts stock markets)
 
 Physics Learning
 Cool physics simulations:
 
-    PhET
+- PhET
 
 YouTube Channels:
 
-    Andrew Dotson (Particle Physics)
+- Andrew Dotson (Particle Physics)
 
-    Physics Girl (Physics + EE)
+- Physics Girl (Physics + EE)
 
-    Storytime With Jeff (Physics)
+- Storytime With Jeff (Physics)
 
-    Tibees (MathPhys)
+- Tibees (MathPhys)
