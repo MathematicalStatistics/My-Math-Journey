@@ -20,3 +20,4 @@ Tung Tung Tung Sahur is my personal favorite.
 
 <img width="1170" height="1180" alt="image" src="https://github.com/user-attachments/assets/b8c365d4-4957-438b-9091-b63a3c8ea601" />
 
+[Algebraic Topology Italian Brainrot](https://www.reddit.com/r/okbuddyphd/comments/1kd4b8q/topologicooo_algebriooooo/)
