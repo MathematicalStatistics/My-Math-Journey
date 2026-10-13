@@ -5,13 +5,13 @@
 
 # <h1 align="center">About Me</h1>
 
-Aspiring P&C Actuary through MathStats (Probability Distribution Derivations via Calculus Methods)
+- Aspiring P&C Actuary through MathStats (Probability Distribution Derivations via Calculus Methods)
 
-Former Data Analyst @ the Global Career Accelerator (Remote)
+- Former Data Analyst @ the Global Career Accelerator (Remote)
 
 # <h1 align="center">Experience</h1>
 
-Excel and Tableau Trainee - The Global Tech Experience (May 2023 - Jul 2023)
+- Excel and Tableau Trainee - The Global Tech Experience (May 2023 - Jul 2023)
 
 Excel was used for the first half of the program and Tableau for the rest of the internship.
 
@@ -33,7 +33,7 @@ APSCP Snap! Portfolio (Aug 2019 - May 2020)
 
 # <h1 align="center">Education</h1>
 
-Pennsylvania State University - World Campus (Aug 2025 - Aug 2027)
+- Pennsylvania State University - World Campus (Aug 2025 - Aug 2027)
 
 M.A.S. (Master's of Applied Statistics)
 
@@ -41,7 +41,7 @@ Relevant Courses: Data Mining and Time Series
 
 University of South Florida (Jan 2023 - May 2025)
 
-B.S. Mathematics: Computational & Applied
+- B.S. Mathematics: Computational & Applied
 
 Data Analytics & Business Intelligence (Deprecated Concentration)
 
@@ -54,42 +54,42 @@ BSc (Honours) Mathematical Physics
 Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
 
 # <h1 align="center">Programming Skills</h1>
-Python (NumPy, Spicy)
+- Python (NumPy, Spicy)
 
-R Studio (ggplot2, Tidyverse)
+- R Studio (ggplot2, Tidyverse)
 
 # <h1 align="center">Soft Skills</h1>
-Helping Others / Tutoring
+- Helping Others / Tutoring
 
-Intercultural Skills / Communication
+- Intercultural Skills / Communication
 
-Teamwork / Leadership
+- Teamwork / Leadership
 
 # <h1 align="center">Technical Skills</h1>
-(Applied / Computational) [Math / Stats]
+- (Applied / Computational) [Math / Stats]
 
-(Inductive / Deductive) Reasoning
+- (Inductive / Deductive) Reasoning
 
-Mathematical Engineering
+- Mathematical Engineering
 
-Microsoft (Word, Excel, and Powerpoint)
+- Microsoft (Word, Excel, and Powerpoint)
 
-Probability & MathStats
+- Probability Theory & MathStats
 
-Results-Driven
+- Results-Driven
 
-Reverse Engineering (Given an Answer then Work it Backwards)
+- Reverse Engineering (Given an Answer then Work it Backwards)
 
-Tablaeu (Dashboard Creation)
+- Tablaeu (Dashboard Creation)
 
 # <h1 align="center">Foreign Languages</h1>
-English (Native)
+- English (Native)
 
-Italian (Limited Working Proficiency)
+- Italian (Limited Working Proficiency)
 
 Decent at Reading and Understanding
 
 Poor at speaking and Writing
 
-Korean (Elementary Proficiency)
+- Korean (Elementary Proficiency)
 Only know some food and family terms
