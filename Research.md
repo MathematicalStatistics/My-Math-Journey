@@ -67,19 +67,19 @@
 
 [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering) (Given the answer then work it backwards)
 
-# Mathematical Physics (Intersection of math and physics)
+# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be) (Intersection of math and physics)
 
-Dynamical Systems / Chaos Theory
+[Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) / [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
-Magnetohydrodynamics
+[Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
 
-Physics Simulation (CS + Physics)
+[Physics Simulation](https://phet.colorado.edu/) (CS + Physics)
 
-Statistical Mechanics 
+[Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) 
 
-Quantum (Chromo / Electro) [dynamics] (QED)
+Quantum (Chromo / [Electro](https://en.wikipedia.org/wiki/Quantum_electrodynamics)) [dynamics] (QED)
 
-Three-Body Problem
+[Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
 # Mathematical Statistics (Intersection of math and statistics [subset of applied math])
 
