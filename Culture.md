@@ -1,0 +1,4 @@
+# Patterns in Languages: 
+
+Korean:
+
