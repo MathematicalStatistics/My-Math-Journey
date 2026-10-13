@@ -53,11 +53,6 @@
 
     Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
 
-# <h1 align="center">Programming Skills</h1>
-- Python (NumPy, Spicy)
-
-- R Studio (ggplot2, Tidyverse)
-
 # <h1 align="center">Soft Skills</h1>
 - Helping Others / Tutoring
 
@@ -81,6 +76,11 @@
 - Reverse Engineering (Given an Answer then Work it Backwards)
 
 - Tablaeu (Dashboard Creation)
+
+# <h1 align="center">Programming Languages</h1>
+- Python (NumPy, Spicy)
+
+- R Studio (ggplot2, Tidyverse)
 
 # <h1 align="center">Foreign Languages</h1>
 - English (Native)
