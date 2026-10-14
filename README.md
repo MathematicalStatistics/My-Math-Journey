@@ -37,8 +37,10 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
 - [Mathematical Physics](https://en.wikipedia.org/wiki/Mathematical_physics)
   - [Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
   - [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
-  - Quantum Electrodynamics
-- Mathematical statistics (algebraic stats, stat manifolds)
+  - [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
+- Mathematical Statistics
+  - Algebraic Stats
+  - Stat Manifolds
 - Meteorology (statistical mechanics [probability]).
 
 I'm always willing to learn something new. I'm eager to learn math applied to the universe (aspiring polymath). I love helping others learn math.
