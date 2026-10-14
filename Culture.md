@@ -70,7 +70,51 @@ Has both European and Asian influences on their food. Ceviche is the Peruvian ve
 
 Italian cuisine is simple but it also has a very clean taste. Spaghetti alle vongole (clam pasta) is my personal favorite.
 
+Fusion is Confusion? (Or Genius?)
 
+Fusion is something everyone should try at least once but it could be a disaster.
 
+# Pop Culture:
 
+Books:
+
+- Catcher in the Rye (I feel similar to Holden Caulfield since I isolated myself from society by studying math this long).
+- Fermat Kitchen (Gaku quits studying math to become a cook)
+- Infinite Jest (looks like the website I made)
+- One Piece [Monkey D. Luffy] (good way to introduce yourself)
+- Manga Guide to [Insert Topic] (Can help people learn various topics)
+- The Biggest Bluff (Psychology behind poker as well as probability theory)
+  
+Movies:
+
+- Good Will Hunting (polymath who wants to learn organic chemistry) [Srinivasa Ramanujan: the guy who dreamed math]
+- M3GAN (When AI goes rogue)
+- Oppenheimer (Theory can only get you so far [I realized this after taking 3 courses in math stats])
+- The Imitation Game (Alan Turing)
+  
+News:
+- Aljazera 
+- DW News
+- NHK World Japan
+- SkyNews
+
+People:
+- Albert Camus (Philosophy)
+- Enrico Fermi (Physics)
+- Ettore Majorana (Physics)
+- Jim Simons (solved the market)
+- Gary Stevenson (wrote The Trading Game: A Confession)
+
+Shows:
+- Agent Kim Reactivated (Kim Bu-Jang is a secret double-agent for North and South Korea)
+- Black Mirror (Mostly accurate way to predict the future)
+- Stranger Things [Will does a presentation about Alan Turing]
+- The Queen's Gambit (Probability behind chess movements)
+- The Umbrella Academy (Quantum somewhere)
+- Young Sheldon (I feel like the theoretical statistician version of him)
+- 3 Body Problem
+
+YouTube:
+- Papa Flammy (can be a bit edgy, not the most appropriate) [he has a woodworking channel too]
+- Walter Lewin (caution: there was a harassment case with him) [Physics lectures]
 
