@@ -24,3 +24,7 @@ Base entrance
 Inside the base
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1641b820-3f49-4085-820c-89ac9e7f5b6c" />
+
+Steam machines
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/865ae0a9-4889-497c-8e76-a6b2100a418a" />
