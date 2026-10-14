@@ -1,6 +1,6 @@
-# Polymath (Math Mage / Stats Sorcerer)
+# <h1 align="center">Polymath (Math Mage / Stats Sorcerer)</h1>
 
-# My math Journey:
+# <h1 align="center">My math Journey:</h1>
 
 For as long as I can remember, I’ve always loved math and numbers. I always tried to recognize a pattern into everything. I love methodical steps to problems and writing.
 
@@ -72,7 +72,7 @@ Statistical mechanics (mostly probability) can be applied to aerospace / industr
 
 It's important to study what you love in this day and age.
 
-Math & AI:
+<h1 align="center">Math & AI:</h1>
 
 - [Shoutout to Dr. Hayford since he nails exactly how I think about AI & math](https://sites.google.com/view/nathanhayford/miscellaneous).
 
