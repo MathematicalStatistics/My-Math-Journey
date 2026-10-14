@@ -21,3 +21,15 @@ Tung Tung Tung Sahur is my personal favorite.
 <img width="1170" height="1180" alt="image" src="https://github.com/user-attachments/assets/b8c365d4-4957-438b-9091-b63a3c8ea601" />
 
 [Algebraic Topology Italian Brainrot](https://www.reddit.com/r/okbuddyphd/comments/1kd4b8q/topologicooo_algebriooooo/)
+
+Rough Translation:
+
+Algebraic topology, algebraic topology, algebraic topology is a branch of math that applies instruments of abstract algebra that studies topological spaces. There are two principal areas of [unintelligible translation error (I can’t figure it out)]. Or more generally, the theory of homeopathy or use the homologous group. And [comology?]. Before starting algebraic topology, [proetio spazio?]. Klein flask. [Nastro ???]
+
+I tried my best (also I think the AI hallucinated when trying to translate it).
+
+# International Cuisine:
+
+Korean:
+
+I enjoy the complexity of the food that is prepared and it has a spicy twist to most of their dishes. [Jjamppong](https://en.wikipedia.org/wiki/Jjamppong) (spicy seafood noodle soup) is my favorite dish (it's actually [Korean-Chinese](https://en.wikipedia.org/wiki/Korean_Chinese_cuisine)).
