@@ -17,11 +17,17 @@ taught me you can’t accurately model all physical phenomena through math equat
 
 Taking courses in other disciplines was also interesting for me too. Like in [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878), the course had lots of stats
 behind the data analysis. Using [regression methods](https://en.wikipedia.org/wiki/Regression_analysis) to predict new values in business settings. 
-My programming courses felt similar to formal logic.
+My programming courses felt similar to [formal logic](https://en.wikipedia.org/wiki/Logic).
 
-My research interests include the following applied math topics: computational math (quantum computing + theoretical data science), mathematical biology (biostats / bioinformatics),
-mathematical chemistry (crystallography), mathematical economics (P&C Actuarial Science), mathematical engineering (aerospace + industrial [statistical mechanics]), mathematical physics
-(magnetohydrodynamics, quantum [chromo / electro] {dynamics}), mathematical statistics (algebraic stats, stat manifolds), and meteorology (statistical mechanics [probability]).
+# Some of My research interests include the following applied math topics: 
+- Computational math (quantum computing + theoretical data science)
+- Mathematical biology (biostats / bioinformatics)
+- Mathematical chemistry (crystallography)
+- Mathematical economics (P&C Actuarial Science)
+- Mathematical engineering (aerospace + industrial [statistical mechanics])
+- Mathematical physics (magnetohydrodynamics, quantum [chromo / electro] {dynamics})
+- Mathematical statistics (algebraic stats, stat manifolds)
+- Meteorology (statistical mechanics [probability]).
 
 I'm always willing to learn something new. I'm eager to learn math applied to the universe (aspiring polymath). I love helping others learn math.
 
