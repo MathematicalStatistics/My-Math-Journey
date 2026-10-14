@@ -45,3 +45,5 @@ I love how each region has a unique taste in their food. I like the Sichuan regi
 # Uzbek
 
 A mixture of Russian, Arab, and Chinese influences. [Laghman]() is my favorite dish which is noodles served in a wok.
+
+<img width="269" height="270" alt="image" src="https://github.com/user-attachments/assets/e420f5c0-c231-4996-bf3e-f56e74c12d71" />
