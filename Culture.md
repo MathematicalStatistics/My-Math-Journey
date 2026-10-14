@@ -106,15 +106,15 @@ People:
 - [Gary Stevenson](https://en.wikipedia.org/wiki/Gary_Stevenson_(campaigner)) [(wrote The Trading Game: A Confession)](https://www.amazon.com/dp/B0CBRBVVQR?lv=shuf&channelId=500&plpRedirect=mhFallback)
 
 Shows:
-- Agent Kim Reactivated (Kim Bu-Jang is a secret double-agent for North and South Korea)
-- Black Mirror (Mostly accurate way to predict the future)
-- Stranger Things [Will does a presentation about Alan Turing]
-- The Queen's Gambit (Probability behind chess movements)
-- The Umbrella Academy (Quantum somewhere)
-- Young Sheldon (I feel like the theoretical statistician version of him)
-- 3 Body Problem
+- [Agent Kim Reactivated](https://en.wikipedia.org/wiki/Agent_Kim_Reactivated) (Kim Bu-Jang is a secret double-agent for North and South Korea)
+- [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror) (Mostly accurate way to predict the future)
+- [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) [Will does a presentation about [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)]
+- [The Queen's Gambit](https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)) (Probability behind chess movements)
+- [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)) (Quantum somewhere)
+- [Young Sheldon](https://en.wikipedia.org/wiki/Young_Sheldon) (I feel like the theoretical statistician version of him)
+- [3 Body Problem](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series))
 
 YouTube:
-- Papa Flammy (can be a bit edgy, not the most appropriate) [he has a woodworking channel too]
-- Walter Lewin (caution: there was a harassment case with him) [Physics lectures]
+- [Papa Flammy](https://www.youtube.com/@PapaFlammy69) (can be a bit edgy, not the most appropriate) [he has a woodworking channel too](https://www.youtube.com/@RockHardWoodDaddy)
+- [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) (caution: there was a harassment case with him) [Physics lectures]
 
