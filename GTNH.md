@@ -36,3 +36,7 @@ Steam multis
 Kitchen
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/03655ee0-1002-465f-8826-340291da7e2c" />
+
+LV Machines
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/f51cc9f3-409f-4bd7-9aa7-0093490eab3e" />
