@@ -32,8 +32,12 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
   - [P&C Actuarial Science](https://www.casstudentcentral.org/about-our-profession/what-is-a-property-and-casualty-actuary/)
 - [Mathematical engineering](https://en.wikipedia.org/wiki/Mathematical_engineering)
   - [Aerospace Engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
-  - [Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering) [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
-- Mathematical physics (magnetohydrodynamics, quantum [chromo / electro] {dynamics})
+  - [Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering)
+    - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
+- Mathematical physics
+  - Magnetohydrodynamics
+  - Quantum Chromodynamics
+  - Quantum Electrodynamics
 - Mathematical statistics (algebraic stats, stat manifolds)
 - Meteorology (statistical mechanics [probability]).
 
