@@ -35,25 +35,23 @@
 
 # <h1 align="center">Education</h1>
 
-- Pennsylvania State University - World Campus (Aug 2025 - Aug 2027)
+- [Pennsylvania State University - World Campus](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics) (Aug 2025 - Aug 2027)
 
-    M.A.S. (Master's of Applied Statistics)
+    - M.A.S. (Master's of Applied Statistics)
+    - Relevant Courses: [Data Mining](https://online.stat.psu.edu/stat508/) and [Time Series](https://online.stat.psu.edu/stat510/)
+    - University of South Florida (Jan 2023 - May 2025)
 
-    Relevant Courses: Data Mining and Time Series
-
-    University of South Florida (Jan 2023 - May 2025)
-
+- [University of South Florida](https://www.usf.edu/)
+  
 - B.S. Mathematics: Computational & Applied
-
-    Data Analytics & Business Intelligence (Deprecated Concentration)
-
-    Relevant Courses: Intro to MathStats 1 & 2, Intro to Probability Theory, Math Modeling
+- Data Analytics & Business Intelligence (Deprecated Concentration)
+- Relevant Courses: Intro to [MathStats 1](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501) & [2](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
+  [Intro to Probability Theory](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#), [Math Modeling](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
 
 - University of Edinburgh (Sep 2021 - May 2022)
-
-    BSc (Honours) Mathematical Physics
-
-    Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
+  
+- [BSc (Honours) Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)
+- Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
 
 # <h1 align="center">Soft Skills</h1>
 - Helping Others / Tutoring
