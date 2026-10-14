@@ -13,6 +13,7 @@ This time, I think journaling will help me reach the ultimate goal of the [starg
 
 Here's my current progress:
 
-
+[Coke Ovens](https://wiki.gtnewhorizons.com/wiki/Coke_Oven)
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8f998269-2488-458c-9034-002683a9bb76" />
+
