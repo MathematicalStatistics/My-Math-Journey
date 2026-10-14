@@ -11,24 +11,32 @@ en.wikipedia.org/wiki/RStudio] is a programming language designed specifically f
 then interpret the results; [Tableau](https://www.tableau.com/) can make beautiful dashboards with all of the data; [Minitab](https://en.wikipedia.org/wiki/Minitab) feels like Excel but
 specifically for statisticians.
 
-I’ve also learned real-world applications to other subjects. In time series, I can apply it to stock markets. For data mining, I can apply that to AI and ML algorithms. Mathematical modeling taught me you can’t accurately model all physical phenomena through math equations (there is always some error or epsilon term).
+I’ve also learned real-world applications to other subjects. In time series, I can apply it to stock markets. For data mining, I can apply that to AI and ML algorithms. Mathematical modeling
+taught me you can’t accurately model all physical phenomena through math equations (there is always some error or epsilon term).
 
-Taking courses in other disciplines was also interesting for me too. Like in ISM 4641, the course had lots of stats behind the data analysis. Using regression methods to predict new values in business settings. My programming courses felt similar to formal logic.
+Taking courses in other disciplines was also interesting for me too. Like in ISM 4641, the course had lots of stats behind the data analysis. Using regression methods to predict new values in
+business settings. My programming courses felt similar to formal logic.
 
-My research interests include the following applied math topics: computational math (quantum computing + theoretical data science), mathematical biology (biostats / bioinformatics), mathematical chemistry (crystallography), mathematical economics (P&C Actuarial Science), mathematical engineering (aerospace + industrial [statistical mechanics]), mathematical physics (magnetohydrodynamics, quantum [chromo / electro] {dynamics}), mathematical statistics (algebraic stats, stat manifolds), and meteorology (statistical mechanics [probability]).
+My research interests include the following applied math topics: computational math (quantum computing + theoretical data science), mathematical biology (biostats / bioinformatics),
+mathematical chemistry (crystallography), mathematical economics (P&C Actuarial Science), mathematical engineering (aerospace + industrial [statistical mechanics]), mathematical physics
+(magnetohydrodynamics, quantum [chromo / electro] {dynamics}), mathematical statistics (algebraic stats, stat manifolds), and meteorology (statistical mechanics [probability]).
 
 I'm always willing to learn something new. I'm eager to learn math applied to the universe (aspiring polymath). I love helping others learn math.
 
 # My Math / Stats [Inflection Points](https://en.wikipedia.org/wiki/Inflection_point): 
 # Calculus:
 
-My first inflection point in math was when I took AP Calculus AB my junior year of high school. All of the previous math I learned just stuck together like glue. Algebra and geometry just made sense although I already took courses on those subjects. I loved using the tools of all of the math I used throughout my life.
+My first inflection point in math was when I took AP Calculus AB my junior year of high school. All of the previous math I learned just stuck together like glue. Algebra and geometry just made
+sense although I already took courses on those subjects. I loved using the tools of all of the math I used throughout my life.
 
 # Math Stats (the 3rd course in it):
 
 [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (the intersection of math and statistics). This is the course where you get to derive probability distributions.
 
-During the summer of 2026, I was taking a [mathematical statistics](https://online.stat.psu.edu/stat415/) course. I was stressing over the course but all that struggling in the end was worth it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be literally applied to everything in the universe. Some sort of philosophical awakening to me. This made me reason everything with formal logic. This ultimately caused me to open up a LinkedIn and this website. I need to make connections with people and much rather do it online. I like texting much more than talking to people in public (specifically, technical writing).
+During the summer of 2026, I was taking a [mathematical statistics](https://online.stat.psu.edu/stat415/) course. I was stressing over the course but all that struggling in the end was worth
+it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be literally applied to everything in the universe. Some sort of
+philosophical awakening to me. This made me reason everything with formal logic. This ultimately caused me to open up a LinkedIn and this website. I need to make connections with people and
+much rather do it online. I like texting much more than talking to people in public (specifically, technical writing).
 Some Insight:
 
 Interdisciplinary math and other subjects are becoming more popular.
@@ -36,26 +44,27 @@ Interdisciplinary math and other subjects are becoming more popular.
 Statistical mechanics (mostly probability) can be applied to aerospace / industrial engineering. Also to meteorology.
 
 It's important to study what you love in this day and age.
+
 Math & AI:
 
-[Shoutout to Dr. Hayford since he nails exactly how I think about AI & math](https://sites.google.com/view/nathanhayford/miscellaneous).
+- [Shoutout to Dr. Hayford since he nails exactly how I think about AI & math](https://sites.google.com/view/nathanhayford/miscellaneous).
 
-There's so much cool new applied math topics being created.
+- There's so much cool new applied math topics being created.
 
-Math is starting to fuse with so many other subjects, making more interdisciplinary subjects.
+- Math is starting to fuse with so many other subjects, making more interdisciplinary subjects.
 
-It's important to specialize early on, and hyper-specialization can wait.
+- It's important to specialize early on, and hyper-specialization can wait.
 
-Make sure to study what you're passionate about since AI doesn't know empathy or creativity.
+- Make sure to study what you're passionate about since AI doesn't know empathy or creativity.
 
-AI fuses articles together and it's important to judge whether or not it is correct.
+- AI fuses articles together and it's important to judge whether or not it is correct.
 
-Probability Theory and MathStats are the foundations for all things data and engineering.
+- Probability Theory and MathStats are the foundations for all things data and engineering.
 
-AI does well with programming languages with lots of documentation and poor with little.
+- AI does well with programming languages with lots of documentation and poor with little.
 
-This is similar to areas in applied math.
+- This is similar to areas in applied math.
 
-That's why so many new niche topics in STEM are being created.
+- That's why so many new niche topics in STEM are being created.
 
-I'm a mad theoretical statistician!
+- I'm a mad theoretical statistician!
