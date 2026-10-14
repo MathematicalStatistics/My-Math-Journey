@@ -1,4 +1,4 @@
-# Minecraft
+# <h1 align="center">Minecraft</h1>
 
 [Minecraft](https://en.wikipedia.org/wiki/Minecraft) is a [sandbox game](https://en.wikipedia.org/wiki/Sandbox_game) 
 where you can choose any adventure you'd like. Think of it like 3D simulation Legos.
