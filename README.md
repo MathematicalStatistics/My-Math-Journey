@@ -62,8 +62,8 @@ I used throughout my life.
 
 During the summer of 2026, I was taking a [mathematical statistics](https://online.stat.psu.edu/stat415/) course. I was stressing over the course but all that struggling in the end was worth
 it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be literally applied to everything in the universe. Some sort of
-philosophical awakening to me. This made me reason everything with formal logic. This ultimately caused me to open up a LinkedIn and this website. I need to make connections with people and
-much rather do it online. I like texting much more than talking to people in public (specifically, technical writing).
+philosophical awakening to me. This made me reason everything with [formal logic](https://en.wikipedia.org/wiki/Logic). 
+
 Some Insight:
 
 Interdisciplinary math and other subjects are becoming more popular.
