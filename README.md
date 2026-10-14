@@ -28,8 +28,11 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
   - [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
 - [Mathematical Chemistry](https://en.wikipedia.org/wiki/Mathematical_chemistry)
   - [Crystallography](https://en.wikipedia.org/wiki/Crystallography)
-- Mathematical economics (P&C Actuarial Science)
-- Mathematical engineering (aerospace + industrial [statistical mechanics])
+- [Mathematical Economics](https://en.wikipedia.org/wiki/Mathematical_economics)
+  - [P&C Actuarial Science](https://www.casstudentcentral.org/about-our-profession/what-is-a-property-and-casualty-actuary/)
+- [Mathematical engineering](https://en.wikipedia.org/wiki/Mathematical_engineering)
+  - [Aerospace Engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
+  - [Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering) [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
 - Mathematical physics (magnetohydrodynamics, quantum [chromo / electro] {dynamics})
 - Mathematical statistics (algebraic stats, stat manifolds)
 - Meteorology (statistical mechanics [probability]).
