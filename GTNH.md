@@ -20,3 +20,7 @@ Here's my current progress:
 Base entrance
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/777bfe4c-0a81-4c14-9483-9faab97a9691" />
+
+Inside the base
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1641b820-3f49-4085-820c-89ac9e7f5b6c" />
