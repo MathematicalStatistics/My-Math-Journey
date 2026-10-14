@@ -11,11 +11,13 @@ en.wikipedia.org/wiki/RStudio] is a programming language designed specifically f
 then interpret the results; [Tableau](https://www.tableau.com/) can make beautiful dashboards with all of the data; [Minitab](https://en.wikipedia.org/wiki/Minitab) feels like Excel but
 specifically for statisticians.
 
-I’ve also learned real-world applications to other subjects. In time series, I can apply it to stock markets. For data mining, I can apply that to AI and ML algorithms. Mathematical modeling
+I’ve also learned real-world applications to other subjects. In [time series](https://online.stat.psu.edu/stat510/), I can apply it to stock markets. 
+For [data mining](https:/online.stat.psu.edu/stat508/), I can apply that to AI and ML algorithms. [Mathematical modeling](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
 taught me you can’t accurately model all physical phenomena through math equations (there is always some error or epsilon term).
 
-Taking courses in other disciplines was also interesting for me too. Like in ISM 4641, the course had lots of stats behind the data analysis. Using regression methods to predict new values in
-business settings. My programming courses felt similar to formal logic.
+Taking courses in other disciplines was also interesting for me too. Like in [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878), the course had lots of stats
+behind the data analysis. Using [regression methods](https://en.wikipedia.org/wiki/Regression_analysis) to predict new values in business settings. 
+My programming courses felt similar to formal logic.
 
 My research interests include the following applied math topics: computational math (quantum computing + theoretical data science), mathematical biology (biostats / bioinformatics),
 mathematical chemistry (crystallography), mathematical economics (P&C Actuarial Science), mathematical engineering (aerospace + industrial [statistical mechanics]), mathematical physics
