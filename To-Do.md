@@ -1,0 +1,19 @@
+- Need to make my passwords super complex (worried AI might hack my accounts).
+
+- Add multi-factor authentications and finger prints.
+
+- Leave minimal digital footprints.
+
+- Keep this website as cryptic as possible (also update it).
+
+- Transfer this website to GitHub when I have the chance (resume too from Canva).
+
+- [Torino Polytechnic](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning) (has some really cool programs) [I realized I did a mathematical engineering degree more or less] {do the lifelong learning program at some point?}.
+
+- Become a Seonbi (Joseon Scholar).
+
+- Hibernate my LinkedIn soon.
+
+- Transfer CV from LinkedIn to GitHub.
+
+- Speed through actuarial exams after master's.
