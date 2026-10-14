@@ -20,8 +20,12 @@ behind the data analysis. Using [regression methods](https://en.wikipedia.org/wi
 My programming courses felt similar to [formal logic](https://en.wikipedia.org/wiki/Logic).
 
 # Some of My research interests include the following applied math topics: 
-- Computational math (quantum computing + theoretical data science)
-- Mathematical biology (biostats / bioinformatics)
+- [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics)
+  - [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
+  - [Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
+- Mathematical Biology
+  - [Biostats]
+  - [Bioinformatics]
 - Mathematical chemistry (crystallography)
 - Mathematical economics (P&C Actuarial Science)
 - Mathematical engineering (aerospace + industrial [statistical mechanics])
