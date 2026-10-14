@@ -17,3 +17,6 @@ Here's my current progress:
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8f998269-2488-458c-9034-002683a9bb76" />
 
+Base entrance
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/777bfe4c-0a81-4c14-9483-9faab97a9691" />
