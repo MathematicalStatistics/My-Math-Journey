@@ -99,11 +99,11 @@ News:
 - SkyNews
 
 People:
-- Albert Camus (Philosophy)
-- Enrico Fermi (Physics)
-- Ettore Majorana (Physics)
-- Jim Simons (solved the market)
-- Gary Stevenson (wrote The Trading Game: A Confession)
+- [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (Philosophy)
+- [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) (Physics)
+- [Ettore Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana) (Physics)
+- [Jim Simons](https://en.wikipedia.org/wiki/Jim_Simons) [(solved the market)](https://quartr.com/insights/investment-strategy/jim-simons-the-man-who-solved-the-market)
+- [Gary Stevenson](https://en.wikipedia.org/wiki/Gary_Stevenson_(campaigner)) [(wrote The Trading Game: A Confession)](https://www.amazon.com/dp/B0CBRBVVQR?lv=shuf&channelId=500&plpRedirect=mhFallback)
 
 Shows:
 - Agent Kim Reactivated (Kim Bu-Jang is a secret double-agent for North and South Korea)
