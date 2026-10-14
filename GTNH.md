@@ -40,3 +40,5 @@ Kitchen
 LV Machines
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/f51cc9f3-409f-4bd7-9aa7-0093490eab3e" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/dc1b501c-d200-436b-ad55-3c5871af10a1" />
