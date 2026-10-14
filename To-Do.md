@@ -10,7 +10,7 @@
 
 - [Torino Polytechnic](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning) (has some really cool programs) [I realized I did a mathematical engineering degree more or less] {do the lifelong learning program at some point?}.
 
-- Become a Seonbi (Joseon Scholar).
+- Become a [Seonbi](https://en.wikipedia.org/wiki/Seonbi) (Joseon Scholar).
 
 - Hibernate my LinkedIn soon.
 
