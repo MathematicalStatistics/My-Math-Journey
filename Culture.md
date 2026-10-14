@@ -40,3 +40,8 @@ I enjoy the complexity of the food that is prepared and it has a spicy twist to 
 
 I love how each region has a unique taste in their food. I like the Sichuan region the most because of the peppercorns that have a numbing sensation.
 
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/df7e73b5-7987-47fa-a1ff-ad8290611d6b" />
+
+# Uzbek
+
+A mixture of Russian, Arab, and Chinese influences. [Laghman]() is my favorite dish which is noodles served in a wok.
