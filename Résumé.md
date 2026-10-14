@@ -1,4 +1,4 @@
-# <h1 align="center">Lorenzo Schenardi</h1>
+# <h1 align="center">Lorenzo Y. Schenardi</h1>
 <h1 align="center">https://www.linkedin.com/in/mathematical-statistics/</h1>
 
 <h1 align="center">lorenzoschenardi@gmail.com</h1>
