@@ -51,3 +51,11 @@ A mixture of Russian, Arab, and Chinese influences. [Laghman]() is my favorite d
 # Indian
 
 I love all the spices that are put in the food. It has great flavor and also tastes good when it's spicy. [Jalfrezi](https://en.wikipedia.org/wiki/Jalfrezi) is my favorite.
+
+<img width="2560" height="1721" alt="image" src="https://github.com/user-attachments/assets/fba6aae3-a143-466e-b8f5-e1165bf19ac0" />
+
+# Arabic
+
+Tastes similar to Indian cuisine but a lot less spicy. Mixed grill has a good variety of meat.
+
+
