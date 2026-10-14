@@ -34,9 +34,9 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
   - [Aerospace Engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
   - [Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering)
     - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
-- Mathematical physics
-  - Magnetohydrodynamics
-  - Quantum Chromodynamics
+- [Mathematical Physics](https://en.wikipedia.org/wiki/Mathematical_physics)
+  - [Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
+  - [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
   - Quantum Electrodynamics
 - Mathematical statistics (algebraic stats, stat manifolds)
 - Meteorology (statistical mechanics [probability]).
