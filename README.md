@@ -23,10 +23,11 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
 - [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics)
   - [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   - [Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
-- Mathematical Biology
-  - [Biostats]
-  - [Bioinformatics]
-- Mathematical chemistry (crystallography)
+- [Mathematical Biology](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology)
+  - [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
+  - [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
+- [Mathematical Chemistry](https://en.wikipedia.org/wiki/Mathematical_chemistry)
+  - [Crystallography](https://en.wikipedia.org/wiki/Crystallography)
 - Mathematical economics (P&C Actuarial Science)
 - Mathematical engineering (aerospace + industrial [statistical mechanics])
 - Mathematical physics (magnetohydrodynamics, quantum [chromo / electro] {dynamics})
