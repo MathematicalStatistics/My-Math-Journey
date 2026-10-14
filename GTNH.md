@@ -54,3 +54,29 @@ The special mods just for GTNH is mostly developed from the Chinese community.
 Here's a YouTube video explaining most of those mods:
 
 [GTNH Addons](https://www.youtube.com/watch?v=QIcd7f2xWII)
+
+GATA GoG:
+
+[GATA GoG](https://www.youtube.com/watch?v=73hHuJtMAD4)
+
+10k EoH:
+
+[10k EoH](https://www.youtube.com/live/RW-RjN9Ya30?si=xRXPNmzVnZPzaYGw)
+
+Chemical Engineer:
+
+[Chemical Engineer](https://www.youtube.com/@Aspectsounds/featured)
+
+Feels like my website:
+
+[Neurotic Goose](https://www.youtube.com/@NeuroticGoose/videos)
+
+3 time stargate:
+
+[Average Gregtech Player](https://www.youtube.com/@averagegregtechplayer)
+
+# Game Dev:
+
+Planning on coding quest books and multiblock structures with the help of AI in Java for GTNH.
+
+[YueSha](https://github.com/yuesha-yc)([Computational Neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience))(made [Terra Firma Rescue](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack))
