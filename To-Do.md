@@ -1,4 +1,4 @@
-To-Do:
+<h1 align="center">To-Do:</h1>
 - Need to make my passwords super complex (worried AI might hack my accounts).
 - Add multi-factor authentications and finger prints.
 - Leave minimal digital footprints.
