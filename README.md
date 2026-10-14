@@ -52,8 +52,9 @@ I'm always willing to learn something new. I'm eager to learn math applied to th
 # My Math / Stats [Inflection Points](https://en.wikipedia.org/wiki/Inflection_point): 
 # Calculus:
 
-My first inflection point in math was when I took AP Calculus AB my junior year of high school. All of the previous math I learned just stuck together like glue. Algebra and geometry just made
-sense although I already took courses on those subjects. I loved using the tools of all of the math I used throughout my life.
+My first inflection point in math was when I took [AP Calculus AB](https://apcentral.collegeboard.org/courses/ap-calculus-ab) my junior year of high school. All of the previous math I learned
+just stuck together like glue. Algebra and geometry just made sense although I already took courses on those subjects. I loved using the tools from the previous math courses
+I used throughout my life.
 
 # Math Stats (the 3rd course in it):
 
