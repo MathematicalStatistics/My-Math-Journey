@@ -1,4 +1,4 @@
-My GTNH Journey:
+# My [GTNH](https://www.gtnewhorizons.com/) Journey:
 
 GTNH is a modpack that I keep coming back to eventually.
 
