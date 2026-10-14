@@ -79,4 +79,4 @@ Feels like my website:
 
 Planning on coding quest books and multiblock structures with the help of AI in Java for GTNH.
 
-[YueSha](https://github.com/yuesha-yc)([Computational Neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience))(made [Terra Firma Rescue](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack))
+[YueSha](https://github.com/yuesha-yc) [[Computational Neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience)] [made [Terra Firma Rescue](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack)]
