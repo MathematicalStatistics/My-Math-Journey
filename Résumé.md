@@ -43,9 +43,10 @@
 
 - [University of South Florida](https://www.usf.edu/)
   
-- B.S. Mathematics: Computational & Applied
-- Data Analytics & Business Intelligence (Deprecated Concentration)
-- Relevant Courses: Intro to [MathStats 1](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501) & [2](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
+    - B.S. Mathematics: Computational & Applied
+    - Data Analytics & Business Intelligence (Deprecated Concentration)
+    - Graduated Summa Cum Laude
+    - Relevant Courses: Intro to [MathStats 1](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501) & [2](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
   [Intro to Probability Theory](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#), [Math Modeling](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
 
 - University of Edinburgh (Sep 2021 - May 2022)
@@ -62,29 +63,20 @@
 
 # <h1 align="center">Technical Skills</h1>
 - (Applied / Computational) [Math / Stats]
-
 - (Inductive / Deductive) Reasoning
-
 - Mathematical Engineering
-
 - Microsoft (Word, Excel, and Powerpoint)
-
 - Probability Theory & MathStats
-
 - Results-Driven
-
 - Reverse Engineering (Given an Answer then Work it Backwards)
-
 - Tablaeu (Dashboard Creation)
 
 # <h1 align="center">Programming Languages</h1>
 - Python (NumPy, Spicy)
-
 - R Studio (ggplot2, Tidyverse)
 
 # <h1 align="center">Foreign Languages</h1>
 - English (American) [Native]
-
 - Italian (Limited Working Proficiency)
 
       Decent at Reading and Understanding
