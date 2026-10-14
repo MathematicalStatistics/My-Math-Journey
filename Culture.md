@@ -58,4 +58,9 @@ I love all the spices that are put in the food. It has great flavor and also tas
 
 Tastes similar to Indian cuisine but a lot less spicy. Mixed grill has a good variety of meat.
 
+<img width="2940" height="1960" alt="image" src="https://github.com/user-attachments/assets/e6d18588-cead-4596-8ea0-2578bb6aed15" />
+
+# Peruvian:
+
+Has both European and Asian influences on their food. Ceviche is the Peruvian version of Sashimi but they cure it with citrus (normally lemon or lime).
 
