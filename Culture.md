@@ -33,3 +33,10 @@ I tried my best (also I think the AI hallucinated when trying to translate it).
 Korean:
 
 I enjoy the complexity of the food that is prepared and it has a spicy twist to most of their dishes. [Jjamppong](https://en.wikipedia.org/wiki/Jjamppong) (spicy seafood noodle soup) is my favorite dish (it's actually [Korean-Chinese](https://en.wikipedia.org/wiki/Korean_Chinese_cuisine)).
+
+<img width="996" height="947" alt="image" src="https://github.com/user-attachments/assets/c3fe1801-a44f-42fd-8dcc-bcaf61d68bbc" />
+
+# Chinese:
+
+I love how each region has a unique taste in their food. I like the Sichuan region the most because of the peppercorns that have a numbing sensation.
+
