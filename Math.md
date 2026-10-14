@@ -4,6 +4,12 @@ Math from scratch:
 
 - [Khan Academy](https://www.khanacademy.org/) (from counting all the way to calc 3 / diff eq / linear algebra) [there's many other subjects too, not just math]
 
+Calculators:
+
+- [3D Desmos](https://www.desmos.com/3d)
+- [Desmos](https://www.desmos.com/calculator)
+- [Integral Calculator](https://www.integral-calculator.com/)
+
 Calculus:
 
 - [blackpenredpen](https://www.youtube.com/@blackpenredpen) (crazy calc videos)
