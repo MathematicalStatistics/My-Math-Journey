@@ -44,3 +44,13 @@ LV Machines
 Magic Area
 
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/dc1b501c-d200-436b-ad55-3c5871af10a1" />
+
+GTNH Addon Mods and Challenges:
+
+On YouTube and GitHub, there's even more insanity within GTNH.
+
+The special mods just for GTNH is mostly developed from the Chinese community.
+
+Here's a YouTube video explaining most of those mods:
+
+[GTNH Addons](https://www.youtube.com/watch?v=QIcd7f2xWII)
