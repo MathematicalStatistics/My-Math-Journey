@@ -16,6 +16,11 @@ Calculus:
 - [MathWithMrWood](https://sites.google.com/view/mathwithmrwood/ap-calculus)
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
 
+Chatbots:
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fchats%3F)
+- [Google Gemini](https://gemini.google.com/app)
+
 Nomenclature Patterns:
 
 - [Metric Prefix](https://en.wikipedia.org/wiki/Metric_prefix)
