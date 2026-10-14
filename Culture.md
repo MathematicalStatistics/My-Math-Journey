@@ -1,6 +1,6 @@
-# Patterns in Languages: 
+# <h1 align="center">Patterns in Languages:</h1>
 
-Korean:
+<h1 align="center">Korean:</h1>
 
 <img width="1399" height="804" alt="image" src="https://github.com/user-attachments/assets/fc06ab08-91d0-4e94-99dc-791b6762e4d6" />
 
@@ -12,7 +12,7 @@ An application of [computational linguistics](https://en.wikipedia.org/wiki/Comp
 
 [Romanizing](https://en.wikipedia.org/wiki/Romanization) the Korean language also gives it many different spellings.
 
-# Italian
+# <h1 align="center">Italian</h1>
 
 [Italian brainrot](https://en.wikipedia.org/wiki/Italian_brainrot) [word of caution: it can say hurtful things depending on who makes the prompts (good way to know if someone is insulting you in Italian)] makes me want to re-learn the Italian language. {please don't take the website down because of this}.
 
@@ -30,43 +30,43 @@ I tried my best (also I think the AI hallucinated when trying to translate it).
 
 # International Cuisine:
 
-Korean:
+# <h1 align="center">Korean:</h1>
 
 I enjoy the complexity of the food that is prepared and it has a spicy twist to most of their dishes. [Jjamppong](https://en.wikipedia.org/wiki/Jjamppong) (spicy seafood noodle soup) is my favorite dish (it's actually [Korean-Chinese](https://en.wikipedia.org/wiki/Korean_Chinese_cuisine)).
 
 <img width="996" height="947" alt="image" src="https://github.com/user-attachments/assets/c3fe1801-a44f-42fd-8dcc-bcaf61d68bbc" />
 
-# Chinese:
+# <h1 align="center">Chinese:</h1>
 
 I love how each region has a unique taste in their food. I like the Sichuan region the most because of the peppercorns that have a numbing sensation.
 
 <img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/df7e73b5-7987-47fa-a1ff-ad8290611d6b" />
 
-# Uzbek
+# <h1 align="center">Uzbek</h1>
 
 A mixture of Russian, Arab, and Chinese influences. [Laghman]() is my favorite dish which is noodles served in a wok.
 
 <img width="269" height="270" alt="image" src="https://github.com/user-attachments/assets/e420f5c0-c231-4996-bf3e-f56e74c12d71" />
 
-# Indian
+# <h1 align="center">Indian</h1>
 
 I love all the spices that are put in the food. It has great flavor and also tastes good when it's spicy. [Jalfrezi](https://en.wikipedia.org/wiki/Jalfrezi) is my favorite.
 
 <img width="2560" height="1721" alt="image" src="https://github.com/user-attachments/assets/fba6aae3-a143-466e-b8f5-e1165bf19ac0" />
 
-# Arabic
+# <h1 align="center">Arabic</h1>
 
 Tastes similar to Indian cuisine but a lot less spicy. Mixed grill has a good variety of meat.
 
 <img width="2940" height="1960" alt="image" src="https://github.com/user-attachments/assets/e6d18588-cead-4596-8ea0-2578bb6aed15" />
 
-# Peruvian:
+# <h1 align="center">Peruvian:</h1>
 
 Has both European and Asian influences on their food. Ceviche is the Peruvian version of Sashimi but they cure it with citrus (normally lemon or lime).
 
 <img width="1200" height="1800" alt="image" src="https://github.com/user-attachments/assets/c7c73c7d-c74f-4c6c-99ed-665fd77bdc4b" />
 
-# Italian:
+# <h1 align="center">Italian:</h1>
 
 Italian cuisine is simple but it also has a very clean taste. Spaghetti alle vongole (clam pasta) is my personal favorite.
 
@@ -74,7 +74,7 @@ Fusion is Confusion? (Or Genius?)
 
 Fusion is something everyone should try at least once but it could be a disaster.
 
-# Pop Culture:
+# <h1 align="center">Pop Culture:</h1>
 
 Books:
 
