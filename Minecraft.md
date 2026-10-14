@@ -21,4 +21,14 @@ behind this game such as energy consumption in EU/t for electricity. Applied Ene
 modpack which is like a computer simulator for auto-crafting complex recipes. It does take some time for the recipes but there are ways to speed them up such as upgrading machines. It also 
 taught me the basics of chemical engineering (petrochem) [also organic chemistry] and electrical engineering circuit building.
 
-Around February 2020, I discovered Hypixel Skyblock (HSB). Hypixel is one of the largest Minecraft servers that exist. HSB is inspired by many other games such as Runescape. HSB has elements of an MMORPG and a little bit of an incremental game via minions you can craft that work even when you're offline. There are many random number generator (RNG) drops in the game that actually have probability theory behind it. Take dyes, for example, they are cosmetics but they have a nearly infinitesimal rate to drop from doing certain tasks. Archfiend dye has a 1 / 6.6k chance of dropping when rolling an archfiend dice. Here's my Skyblock profile if you're interested (see all of the stats; put around 1.8k hours into the profile).
+Around February 2020, I discovered [Hypixel Skyblock (HSB).](https://hypixelskyblock.minecraft.wiki/) Hypixel is one of the largest Minecraft servers that exist. HSB is inspired by many other
+games such as [Runescape](https://play.runescape.com/). HSB has elements of 
+an [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)
+and a little bit of an [incremental game](https://en.wikipedia.org/wiki/Incremental_game) via [minions](https://hypixel-skyblock.fandom.com/wiki/Minions)
+you can craft that work even when you're offline. 
+There are many [random number generator (RNG)](https://en.wikipedia.org/wiki/Random_number_generation) drops in the game that actually have 
+[probability theory](https://en.wikipedia.org/wiki/Probability_theory) behind it. Take dyes, for example, 
+they are cosmetics but they have a nearly [infinitesimal](https://en.wikipedia.org/wiki/Infinitesimal) rate to drop from doing certain tasks. 
+[Archfiend dye](https://hypixel-skyblock.fandom.com/wiki/Archfiend_Dye) has a 1 / 6.6k chance of 
+dropping when rolling an [archfiend dice](https://hypixel-skyblock.fandom.com/wiki/Archfiend_Dice). 
+Here's [my Skyblock profile](https://sky.shiiyu.moe/stats/MathStats/Tomato) if you're interested (see all of the stats; put around 1.8k hours into the profile).
