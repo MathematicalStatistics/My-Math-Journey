@@ -49,9 +49,8 @@
   [Intro to Probability Theory](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#), [Math Modeling](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
 
 - University of Edinburgh (Sep 2021 - May 2022)
-  
-- [BSc (Honours) Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)
-- Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
+    - [BSc (Honours) Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)
+    - Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
 
 # <h1 align="center">Soft Skills</h1>
 - Helping Others / Tutoring
