@@ -39,9 +39,8 @@
 
     - M.A.S. (Master's of Applied Statistics)
     - Relevant Courses: [Data Mining](https://online.stat.psu.edu/stat508/) and [Time Series](https://online.stat.psu.edu/stat510/)
-    - University of South Florida (Jan 2023 - May 2025)
 
-- [University of South Florida](https://www.usf.edu/)
+- [University of South Florida](https://www.usf.edu/) (Jan 2023 - May 2025)
   
     - B.S. Mathematics: Computational & Applied
     - Data Analytics & Business Intelligence (Deprecated Concentration)
