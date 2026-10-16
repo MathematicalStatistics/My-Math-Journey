@@ -73,6 +73,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 # <h1 align="center">Platforms I'm Active On:</h1>
 
 - Discord
+- Facebook
 - Instagram
 - Kakao
 - WhatsApp
