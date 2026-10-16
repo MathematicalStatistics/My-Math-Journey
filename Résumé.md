@@ -1,5 +1,5 @@
 # <h1 align="center">Lorenzo Y. Schenardi</h1>
-<h1 align="center">[LinkedIn](www.linkedin.com/in/mathematical-statistics/)</h1>
+<h1 align="center">www.linkedin.com/in/mathematical-statistics/</h1>
 
 <h1 align="center">lorenzoschenardi@gmail.com</h1>
 
