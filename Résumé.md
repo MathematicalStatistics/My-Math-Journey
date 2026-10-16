@@ -5,7 +5,7 @@
 
 # <h1 align="center">About Me</h1>
 
-- Aspiring P&C Actuary through MathStats (Probability Distribution Derivations via Calculus Methods)
+- Aspiring P&C Actuary through [MathStats](https://online.stat.psu.edu/stat415/) ([Probability Distribution](https://online.stat.psu.edu/stat414/) Derivations via Calculus Methods)
 
 # <h1 align="center">Experience</h1>
 
