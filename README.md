@@ -73,7 +73,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 
 # <h1 align="center">Phone Number:</h1>
 
-- (407) 635-6701
+- +1 (407) 635-6701
 
 # <h1 align="center">Platforms I'm Active On:</h1>
 
