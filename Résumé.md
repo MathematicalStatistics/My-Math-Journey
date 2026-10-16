@@ -50,7 +50,7 @@
 
 - University of Edinburgh (Sep 2021 - May 2022)
     - [BSc (Honours) Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)
-    - Relevant Courses: Proofs & Problem Solving, Intro to Linear Algebra
+    - Relevant Courses: [Proofs & Problem Solving](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm), [Intro to Linear Algebra](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm)
 
 # <h1 align="center">Soft Skills</h1>
 - Helping Others / Tutoring
