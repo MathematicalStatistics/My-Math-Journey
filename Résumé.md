@@ -84,3 +84,5 @@
 - Korean (Elementary Proficiency)
 
       Only know some food and family terms
+
+      Can't read or write Korean
