@@ -65,3 +65,7 @@ it. This made me realize I can study abstract concepts in math as well. All the 
 philosophical awakening to me. This made me reason everything with [formal logic](https://en.wikipedia.org/wiki/Logic). 
 
 - I'm a mad theoretical statistician!
+
+# <h1 align="center">Phone Number:</h1>
+
+- (407) 635-6701
