@@ -78,7 +78,5 @@ philosophical awakening to me. This made me reason everything with [formal logic
 # <h1 align="center">Platforms I'm Active On:</h1>
 
 - [Discord](https://discord.com/invite/2hYx625gd)
-- [Facebook](https://www.facebook.com/people/Mathematical-Statistics/pfbid0UxrscUAS2FT39WJ1nhVFz5ZRPqiti4eRhxgS1T2mAbxxguqXCm6CbvRiEHru7ot5l/?mibextid=wwXIfr&rdid=AMZGc9U4MbeWPdaL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HVY2uyCvX%2F%3Fmibextid%3DwwXIfr)
-- [Instagram](https://www.instagram.com/polymathstatssorcerer)
 - Kakao
 - WhatsApp
