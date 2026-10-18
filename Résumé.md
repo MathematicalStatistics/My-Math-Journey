@@ -29,9 +29,9 @@
 
 # <h1 align="center">Projects</h1>
 
-- APSCP Snap! Portfolio (Aug 2019 - May 2020)
-- Microblocks (Jan 2024 - May 2025)
 - My Math Journey (Oct 2026 - Present)
+- Microblocks (Jan 2024 - May 2025)
+- APSCP Snap! Portfolio (Aug 2019 - May 2020)
 
 # <h1 align="center">Education</h1>
 
