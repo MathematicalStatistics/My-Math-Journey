@@ -69,6 +69,6 @@ Cool physics simulations:
 YouTube Channels:
 
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
-- [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + EE)
+- [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
-- [Tibees](https://www.youtube.com/@tibees) (MathPhys)
+- [Tibees](https://www.youtube.com/@tibees) ([MathPhys](https://www.youtube.com/watch?v=goNv6hRVaLU))
