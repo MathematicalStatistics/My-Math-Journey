@@ -1,4 +1,4 @@
-# <h1 align="center">[Polymath](https://en.wikipedia.org/wiki/Polymath) (Math Mage / Stats Sorcerer)</h1>
+# <h1 align="center">[Polymath](https://en.wikipedia.org/wiki/Polymath) (Math Mage / [Stats Sorcerer](https://www.youtube.com/@themathsorcerer))</h1>
 
 # <h1 align="center">My math Journey:</h1>
 
