@@ -1,1 +1,1 @@
-# <h1 align="center">What is MathStats?:</h1>
+# <h1 align="center">What is MathStats?</h1>
