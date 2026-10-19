@@ -6,6 +6,8 @@
 
 The magic Korean language formula sheet (no derivation needed).
 
+Korean names have 3 syllables.
+
 [YouTube Video](https://www.youtube.com/watch?v=TE4eplsFSms) 
 
 An application of [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics). Could be why Korea is so advanced with AI.
