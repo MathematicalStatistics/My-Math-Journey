@@ -89,3 +89,4 @@ philosophical awakening to me. This made me reason everything with [formal logic
 - [Culture](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Culture.md)
 - [Math](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Math.md)
 - [GTNH](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/GTNH.md)
+- [Quotes](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Quotes.md)
