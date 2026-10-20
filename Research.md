@@ -7,6 +7,10 @@
 
 - [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
 
+# [Bio Math](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology) (Math applied to other subjects)
+
+- [Molecular Set Theory](https://en.wikipedia.org/wiki/Anthony_Bartholomay)
+
 # [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (math w/ computer or doing calculations by hand)
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and Machine Learning Algorithms
