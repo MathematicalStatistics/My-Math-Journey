@@ -80,3 +80,5 @@ philosophical awakening to me. This made me reason everything with [formal logic
 - [Discord](https://discord.com/invite/2hYx625gd)
 - Kakao
 - WhatsApp
+
+# <h1 align="center">Pages:</h1>
