@@ -92,3 +92,4 @@ philosophical awakening to me. This made me reason everything with [formal logic
 - [GTNH](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/GTNH.md)
 - [Quotes](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Quotes.md)
 - [Projects (WIP)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Projects%20(WIP).md)
+- [To-Do](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/To-Do.md)
