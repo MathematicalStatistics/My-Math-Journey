@@ -2,6 +2,10 @@
 
 Probability distribution derivations via calculus methods.
 
+Why is it important?
+
+Fuses all of the STEM and humanities subjects together to understand the universe.
+
 Foundation of thermo.
 
 Quantum mechanics has probability theory notation.
