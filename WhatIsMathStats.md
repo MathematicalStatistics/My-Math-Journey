@@ -3,3 +3,4 @@
 Probability distribution derivations via calculus methods
 
 [MathStats](https://online.stat.psu.edu/stat415/)
+
