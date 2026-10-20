@@ -87,3 +87,4 @@ philosophical awakening to me. This made me reason everything with [formal logic
 - [Academics](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Academics.md)
 - [Résumé](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/R%C3%A9sum%C3%A9.md)
 - [Math](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Math.md)
+- [GTNH](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/GTNH.md)
