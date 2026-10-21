@@ -7,7 +7,7 @@
 
 - [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
 
-# [Bio Math](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology) (Math applied to other subjects)
+# [Bio Math](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology) 
 
 - [Molecular Set Theory](https://en.wikipedia.org/wiki/Anthony_Bartholomay)
 
