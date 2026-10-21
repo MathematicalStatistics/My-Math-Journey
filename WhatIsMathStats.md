@@ -1,14 +1,17 @@
 # <h1 align="center">What is MathStats?</h1>
 
-Probability distribution derivations via calculus methods.
+- Probability distribution derivations via calculus methods.
 
 Why is it important?
 
-Fuses all of the STEM and humanities subjects together to understand the universe.
+- Fuses all of the STEM and humanities subjects together to understand the universe.
 
-Foundation of thermo.
+- Psychology is half stats.
 
-Quantum mechanics has probability theory notation.
+- Can be tied to philosophy too.
+
+- Foundation of thermo.
+
+- Quantum mechanics has probability theory notation.
 
 [MathStats](https://online.stat.psu.edu/stat415/)
-
