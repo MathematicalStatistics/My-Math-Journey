@@ -55,6 +55,14 @@ Here's a YouTube video explaining most of those mods:
 
 [GTNH Addons](https://www.youtube.com/watch?v=QIcd7f2xWII)
 
+Addon repositories:
+
+- [Twist Space Technology](https://github.com/Nxer/Twist-Space-Technology-Mod/releases)
+
+- [GTNL](https://github.com/ABKQPO/GT-Not-Leisure)
+
+- [123Tech](https://github.com/CallmeSHaobe/123Technology)
+
 GATA GoG:
 
 [GATA GoG](https://www.youtube.com/watch?v=73hHuJtMAD4)
