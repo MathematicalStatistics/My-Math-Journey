@@ -113,6 +113,7 @@ Shows:
 - [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) [Will does a presentation about [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)]
 - [The Queen's Gambit](https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)) (Probability behind chess movements)
 - [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)) (Quantum somewhere)
+- [Vincenzo](https://en.wikipedia.org/wiki/Vincenzo_(TV_series))
 - [Young Sheldon](https://en.wikipedia.org/wiki/Young_Sheldon) (I feel like the theoretical statistician version of him)
 - [3 Body Problem](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series))
 
