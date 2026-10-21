@@ -77,9 +77,9 @@
 - English (American) [Native]
 - Italian (Tuscan Dialect) [Limited Working Proficiency] {I Speak Broken Italian}
 
-      Decent at Reading and Understanding
+      Decent at reading and understanding
 
-      Poor at speaking and Writing
+      Poor at speaking and writing
 
 - Korean (Elementary Proficiency)
 
