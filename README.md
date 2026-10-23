@@ -83,12 +83,27 @@ philosophical awakening to me. This made me reason everything with [formal logic
 # <h1 align="center">Pages:</h1>
 
 - [What is MathStats?](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/WhatIsMathStats.md)
+
+# <h1 align="center">Academics:</h1>
+  
 - [Academics](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Academics.md)
 - [Research](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Research.md)
 - [Résumé](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/R%C3%A9sum%C3%A9.md)
+
+# <h1 align="center">Culture:</h1>
+
 - [Culture](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Culture.md)
+
+# <h1 align="center">Subjects:</h1>
+  
 - [Math](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Math.md)
+
+# <h1 align="center">Minecraft:</h1>
+  
 - [GTNH](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/GTNH.md)
+
+# <h1 align="center">Misc:</h1>
+  
 - [Quotes](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Quotes.md)
 - [Projects (WIP)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Projects%20(WIP).md)
 - [To-Do](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/To-Do.md)
