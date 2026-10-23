@@ -97,7 +97,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 # <h1 align="center">Subjects:</h1>
   
 - [Humanities](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Humanities.md)
-- [Math](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Math.md)
+- [STEM](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Math.md)
 
 # <h1 align="center">Minecraft:</h1>
 
