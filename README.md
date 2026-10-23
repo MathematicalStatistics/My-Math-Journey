@@ -80,7 +80,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 - Kakao
 - WhatsApp
 
-# <h1 align="center">Pages:</h1>
+# <h1 align="center">MathStats:</h1>
 
 - [What is MathStats?](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/WhatIsMathStats.md)
 
