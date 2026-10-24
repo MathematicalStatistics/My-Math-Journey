@@ -71,15 +71,6 @@ philosophical awakening to me. This made me reason everything with [formal logic
 
 - I'm a mad theoretical statistician!
 
-# <h1 align="center">Phone Number:</h1>
-
-- +1 (407) 635-6701
-
-# <h1 align="center">Platforms I'm Active On:</h1>
-
-- Kakao
-- WhatsApp
-
 # <h1 align="center">MathStats:</h1>
 
 - [What is MathStats?](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/WhatIsMathStats.md)
