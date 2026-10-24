@@ -81,7 +81,9 @@
 
 - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) 
 
-- Quantum ([Chromo](https://en.wikipedia.org/wiki/Quantum_chromodynamics) / [Electro](https://en.wikipedia.org/wiki/Quantum_electrodynamics)) [dynamics] (QED)
+- [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
+
+- [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
 
 - [Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
