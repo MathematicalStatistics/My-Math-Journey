@@ -1,5 +1,3 @@
-# I'm planning on emailing some past profs to get access to my archived projects.
-
 # <h1 align="center">Planning:</h1>
 Second-year Master's Summer Semester 2026
 
