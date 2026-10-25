@@ -77,7 +77,7 @@
 
 - [Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
 
-- [Physics Simulation](https://phet.colorado.edu/) (CS + Physics)
+- [Physics Simulations](https://phet.colorado.edu/) (CS + Physics)
 
 - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) 
 
