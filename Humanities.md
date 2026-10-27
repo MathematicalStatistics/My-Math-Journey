@@ -4,6 +4,10 @@
 - [Polymatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg)
 - [Vexillology](https://www.reddit.com/r/vexillologycirclejerk/)
 
+<h1 align="center">History:</h1>
+
+- [History Memes](https://www.reddit.com/r/historymemes/)
+
 <h1 align="center">World History:</h1>
 
 - [Apop World History](https://www.youtube.com/channel/UC6KTWOZ_bqibjA9PbMBHxRA)
