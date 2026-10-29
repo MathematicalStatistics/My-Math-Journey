@@ -24,6 +24,10 @@ Chatbots:
 - [Claude](https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fchats%3F)
 - [Google Gemini](https://gemini.google.com/app)
 
+Games:
+- [Coolmath](https://www.coolmathgames.com/)
+- [GitHub](https://githubgames.gitlab.io/)
+
 Nomenclature Patterns:
 
 - [Metric Prefix](https://en.wikipedia.org/wiki/Metric_prefix)
