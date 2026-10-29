@@ -87,6 +87,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 
 # <h1 align="center">Subjects:</h1>
   
+- [Everything](https://github.com/standardgalactic)
 - [Humanities](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Humanities.md)
 - [STEM](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Math.md)
 
