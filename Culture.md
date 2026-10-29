@@ -89,6 +89,7 @@ Books:
   
 Movies:
 
+- [Barbie](https://en.wikipedia.org/wiki/Barbie)
 - [Good Will Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting) ([polymath](https://en.wikipedia.org/wiki/Polymath) who wants to learn organic chemistry) [[Srinivasa Ramanujan:](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) the guy who dreamed math]
 - [M3GAN](https://en.wikipedia.org/wiki/M3GAN) (When AI goes rogue)
 - [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film)) (Theory can only get you so far [I realized this after taking 3 courses in math stats])
