@@ -72,10 +72,6 @@ Has both European and Asian influences on their food. Ceviche is the Peruvian ve
 
 Italian cuisine is simple but it also has a very clean taste. Spaghetti alle vongole (clam pasta) is my personal favorite.
 
-Fusion is Confusion? (Or Genius?)
-
-Fusion is something everyone should try at least once but it could be a disaster.
-
 # <h1 align="center">Pop Culture:</h1>
 
 Books:
@@ -89,7 +85,7 @@ Books:
   
 Movies:
 
-- [Barbie](https://en.wikipedia.org/wiki/Barbie)
+- [Barbie](https://en.wikipedia.org/wiki/Barbie) (Gender differences)
 - [Good Will Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting) ([polymath](https://en.wikipedia.org/wiki/Polymath) who wants to learn organic chemistry) [[Srinivasa Ramanujan:](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) the guy who dreamed math]
 - [M3GAN](https://en.wikipedia.org/wiki/M3GAN) (When AI goes rogue)
 - [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film)) (Theory can only get you so far [I realized this after taking 3 courses in math stats])
