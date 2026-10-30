@@ -1,8 +1,9 @@
 Some Insight:
 
 - Interdisciplinary math and other subjects are becoming more popular.
-- Statistical mechanics (mostly probability) can be applied to aerospace / industrial engineering. Also to meteorology.
+- MathStats is one of the best subjects to study.
 - It's important to study what you love in this day and age.
+- Theory or practical trades are good to study nowadays.
 
 <h1 align="center">Math & AI:</h1>
 
