@@ -45,7 +45,7 @@
     - B.S. Mathematics: Computational & Applied
     - Data Analytics & Business Intelligence (Deprecated Concentration)
     - Graduated Summa Cum Laude
-    - Relevant Courses: Intro to [MathStats 1](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501) & [2](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
+    - Relevant Courses: Intro to [MathStats 1](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501) & [2](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#),
   [Intro to Probability Theory](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#), [Math Modeling](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
 
 - University of Edinburgh (Sep 2021 - May 2022)
