@@ -65,7 +65,7 @@
 - (Inductive / Deductive) Reasoning
 - Mathematical Engineering
 - Microsoft (Word, Excel, and Powerpoint)
-- Probability Theory & MathStats
+- [Probability Theory](https://online.stat.psu.edu/stat414/) & [MathStats](https://online.stat.psu.edu/stat415/)
 - Results-Driven
 - Reverse Engineering (Given an Answer then Work it Backwards)
 - Tablaeu (Dashboard Creation)
