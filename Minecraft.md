@@ -12,6 +12,9 @@ There's another mod called [Industrial Craft 2 (IC2)](https://wiki.industrial-cr
 [Factorio](https://en.wikipedia.org/wiki/Factorio) is another game that was actually inspired by modded Minecraft. [Gregtech](https://gregtech.overminddl1.com/) is an addon for 
 IC2 that is made by GregoriousT.
 
+I found [Hexxit](https://www.technicpack.net/modpack/hexxit.552552) around 5th grade. I enjoyed the [chocobos](https://www.curseforge.com/minecraft/mc-mods/chococraft) that it added. There were 
+also many places to explore like battle towers.
+
 I did make a passion project for Minecraft when I was in 6th grade but it is gone.
 
 In 8th grade, I discovered a modpack called [Gregtech: New Horizons (GTNH).](https://www.gtnewhorizons.com/) It is supposed to be the most complex modpack 
