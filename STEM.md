@@ -47,16 +47,31 @@
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
 
+<h1 align="center">Minecraft Math:</h1>
+
+- [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch)
+
 <h1 align="center">Nomenclature Patterns:</h1>
 
 - [Metric Prefix](https://en.wikipedia.org/wiki/Metric_prefix)
 - [Names of Large Numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers)
+
+<h1 align="center">Physics:</h1>
+
+- [PhET](https://phet.colorado.edu/)
+- [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
+- [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
 
 <h1 align="center">Proofs:</h1>
 
 - [How to Prove It](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf)
 - [Proof without words](https://en.wikipedia.org/wiki/Proof_without_words) (visual proofs)
 - [Terence Tao](https://www.youtube.com/@TerenceTao27) (uses AI for proofs, really cool)
+
+<h1 align="center">Statistics:</h1>
+
+- [NumerAI](https://numer.ai/) (predicts stock markets)
+- [Statology](https://www.statology.org/)
 
 <h1 align="center">Technology:</h1>
 
@@ -75,21 +90,6 @@
 
 - [XerographicPaper](https://www.youtube.com/watch?v=-w4QJ1YGKf4)
 - [ThatMathThing](https://www.youtube.com/ThatMathThing)
-
-<h1 align="center">Minecraft Math:</h1>
-
-- [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch)
-
-<h1 align="center">Physics:</h1>
-
-- [PhET](https://phet.colorado.edu/)
-- [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
-- [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
-
-<h1 align="center">Statistics:</h1>
-
-- [NumerAI](https://numer.ai/) (predicts stock markets)
-- [Statology](https://www.statology.org/)
 
 <h1 align="center">YouTube Channels:</h1>
 
