@@ -4,6 +4,10 @@
 
 - [Khan Academy](https://www.khanacademy.org/) (from counting all the way to calc 3 / diff eq / linear algebra) [there's many other subjects too, not just math]
 
+<h1 align="center">Astronomy:</h1>
+
+- [Vectorspace Explorer](https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-3208&cy=-8930&cz=2898&lx=-0.1627&ly=-0.5223&lz=-0.5957&lw=0.5881&ml=300&s=1.75&l=1&v=d50_clean)
+
 <h1 align="center">Biology:</h1>
 
 - [Amoeba Sisters](https://www.youtube.com/c/AmoebaSisters)
