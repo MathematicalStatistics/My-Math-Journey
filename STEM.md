@@ -46,6 +46,7 @@
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Geometry of Distinction](https://standardgalactic.github.io/calculus/geometry-of-distinction.pdf)
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
+- [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
 
 <h1 align="center">Minecraft Math:</h1>
