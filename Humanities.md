@@ -40,6 +40,8 @@
 
 <h1 align="center">Languages:</h1>
 
+- [Arabic in English](https://standardgalactic.github.io/linguistics/arabglish-cheatsheet.pdf)
+
 <h1 align="center">Music Theory:</h1>
 
 - [AP Music Theory](https://www.youtube.com/watch?v=GWIMqqVV1L4)
