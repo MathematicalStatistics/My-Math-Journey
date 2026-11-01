@@ -34,6 +34,10 @@
 
 - [History Memes](https://www.reddit.com/r/historymemes/)
 
+<h1 align="center">International Relations:</h1>
+
+- [International Relations](https://en.wikipedia.org/wiki/International_relations)
+
 <h1 align="center">Music Theory:</h1>
 
 - [AP Music Theory](https://www.youtube.com/watch?v=GWIMqqVV1L4)
