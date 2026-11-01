@@ -1,5 +1,7 @@
 <h1 align="center">Economics:</h1>
 
+- [Jacob Clifford](https://www.youtube.com/@jacobaclifford)
+
 <h1 align="center">Geopolitics:</h1>
 
 - [AP Human Geography](https://villageprep.net/urp/human-geography/practice-exams/Practice%20Exam%201.pdf)
