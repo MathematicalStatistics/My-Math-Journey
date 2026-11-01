@@ -2,6 +2,10 @@
 
 - [African American Studies](https://fiveable.me/ap-african-american-studies)
 
+<h1 align="center">Art History:</h1>
+
+- [AP Art History](https://www.youtube.com/@APArtHistoryByMrB/videos)
+
 <h1 align="center">Economics:</h1>
 
 - [Jacob Clifford](https://www.youtube.com/@jacobaclifford)
