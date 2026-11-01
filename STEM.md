@@ -24,9 +24,9 @@ Chemistry:
 - [NileRed](https://www.youtube.com/@nilered)
 
 Chatbots:
-- [ChatGPT](https://chatgpt.com/)
+- [ChatGPT](https://chatgpt.com/) (I like asking brainrot prompts for math)
 - [Claude](https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fchats%3F)
-- [Google Gemini](https://gemini.google.com/app)
+- [Google Gemini](https://gemini.google.com/app) (good w/ Python & R)
 
 Games:
 - [Coolmath](https://www.coolmathgames.com/)
