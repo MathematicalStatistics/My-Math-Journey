@@ -57,6 +57,11 @@
 - [Proof without words](https://en.wikipedia.org/wiki/Proof_without_words) (visual proofs)
 - [Terence Tao](https://www.youtube.com/@TerenceTao27) (uses AI for proofs, really cool)
 
+<h1 align="center">Technology:</h1>
+
+- [Digital Analog Clock](https://standardgalactic.github.io/dactyl-clock.html)
+- [Digital Oscilloscope](https://standardgalactic.github.io/alphabet/research/oscilloscope.html)
+
 <h1 align="center">Visual Math:</h1>
 
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
