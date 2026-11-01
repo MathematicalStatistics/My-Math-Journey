@@ -64,15 +64,10 @@
 
 - [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch)
 
-<h1 align="center">Statistics Learning:</h1>
-
-<h1 align="center">Pop-Stats:</h1>
-
-- [Statology](https://www.statology.org/)
-
-<h1 align="center">Time Series Forecasting:</h1>
+<h1 align="center">Statistics:</h1>
 
 - [NumerAI](https://numer.ai/) (predicts stock markets)
+- [Statology](https://www.statology.org/)
 
 <h1 align="center">Physics Learning</h1>
 
