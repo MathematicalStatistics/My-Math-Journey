@@ -2,6 +2,10 @@
 
 - [Jacob Clifford](https://www.youtube.com/@jacobaclifford)
 
+<h1 align="center">European History:</h1>
+
+- [European History](https://www.youtube.com/watch?v=Sr7AO_GiP98)
+
 <h1 align="center">Government:</h1>
 
 - [AP Comparative Government](https://www.youtube.com/watch?v=JhZsVoPOP9I)
