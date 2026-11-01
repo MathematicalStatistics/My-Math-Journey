@@ -5,7 +5,7 @@
 <h1 align="center">Government:</h1>
 
 - [AP Comparative Government](https://www.youtube.com/watch?v=JhZsVoPOP9I)
-- [US Government](https://www.youtube.com/channel/UCSuVLOQ3q6xKDgzb1Dpor9w)
+- [AP US Government](https://www.youtube.com/channel/UCSuVLOQ3q6xKDgzb1Dpor9w)
 
 <h1 align="center">Geopolitics:</h1>
 
