@@ -38,6 +38,8 @@
 
 - [International Relations](https://en.wikipedia.org/wiki/International_relations)
 
+<h1 align="center">Languages:</h1>
+
 <h1 align="center">Music Theory:</h1>
 
 - [AP Music Theory](https://www.youtube.com/watch?v=GWIMqqVV1L4)
