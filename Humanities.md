@@ -11,3 +11,4 @@
 <h1 align="center">World History:</h1>
 
 - [Apop World History](https://www.youtube.com/channel/UC6KTWOZ_bqibjA9PbMBHxRA)
+- [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
