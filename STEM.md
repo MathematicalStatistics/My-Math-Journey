@@ -4,6 +4,10 @@ Math from scratch:
 
 - [Khan Academy](https://www.khanacademy.org/) (from counting all the way to calc 3 / diff eq / linear algebra) [there's many other subjects too, not just math]
 
+Biology:
+
+- [Amoeba Sisters](https://www.youtube.com/c/AmoebaSisters)
+
 Calculators:
 
 - [3D Desmos](https://www.desmos.com/3d)
