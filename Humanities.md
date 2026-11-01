@@ -41,6 +41,7 @@
 <h1 align="center">Languages:</h1>
 
 - [Arabic in English](https://standardgalactic.github.io/linguistics/arabglish-cheatsheet.pdf)
+- [Korean in 5 minutes](https://www.youtube.com/watch?v=TE4eplsFSms)
 
 <h1 align="center">Music Theory:</h1>
 
