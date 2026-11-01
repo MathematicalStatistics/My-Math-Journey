@@ -69,9 +69,7 @@
 - [NumerAI](https://numer.ai/) (predicts stock markets)
 - [Statology](https://www.statology.org/)
 
-<h1 align="center">Physics Learning</h1>
-
-<h1 align="center">Cool physics simulations:</h1>
+<h1 align="center">Physics</h1>
 
 - [PhET](https://phet.colorado.edu/)
 
