@@ -75,7 +75,7 @@ Chemical Engineer:
 
 [Chemical Engineer](https://www.youtube.com/@Aspectsounds/featured)
 
-Feels like my website:
+Feels like my repo:
 
 [Neurotic Goose](https://www.youtube.com/@NeuroticGoose/videos)
 
