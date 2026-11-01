@@ -21,6 +21,7 @@ Calculus:
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
 
 Chemistry:
+- [AP Chemistry](https://www.youtube.com/watch?v=wgPt8fP0IKg)
 - [NileRed](https://www.youtube.com/@nilered)
 
 Chatbots:
