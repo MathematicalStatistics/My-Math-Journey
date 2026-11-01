@@ -1,81 +1,86 @@
 # Math Learning
 
-Math from scratch:
+<h1 align="center">Math from scratch:</h1>
 
 - [Khan Academy](https://www.khanacademy.org/) (from counting all the way to calc 3 / diff eq / linear algebra) [there's many other subjects too, not just math]
 
-Biology:
+<h1 align="center">Biology:</h1>
 
 - [Amoeba Sisters](https://www.youtube.com/c/AmoebaSisters)
 
-Calculators:
+<h1 align="center">Calculators:</h1>
 
 - [3D Desmos](https://www.desmos.com/3d)
 - [Desmos](https://www.desmos.com/calculator)
 - [Integral Calculator](https://www.integral-calculator.com/)
 
-Calculus:
+<h1 align="center">Calculus:</h1>
 
 - [blackpenredpen](https://www.youtube.com/@blackpenredpen) (crazy calc videos)
 - [MathWithMrWood](https://sites.google.com/view/mathwithmrwood/ap-calculus)
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
 
-Chemistry:
+<h1 align="center">Chemistry:</h1>
+
 - [AP Chemistry](https://www.youtube.com/watch?v=wgPt8fP0IKg)
 - [NileRed](https://www.youtube.com/@nilered)
 
-Chatbots:
+<h1 align="center">Chatbots:</h1>
+
 - [ChatGPT](https://chatgpt.com/) (I like asking brainrot prompts for math)
 - [Claude](https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fchats%3F)
 - [Google Gemini](https://gemini.google.com/app) (good w/ Python & R)
 
-Games:
+<h1 align="center">Games:</h1>
+
 - [Coolmath](https://www.coolmathgames.com/)
 - [GitHub](https://githubgames.gitlab.io/)
 
-Nomenclature Patterns:
+<h1 align="center">Nomenclature Patterns:</h1>
 
 - [Metric Prefix](https://en.wikipedia.org/wiki/Metric_prefix)
 - [Names of Large Numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers)
 
-Proofs:
+<h1 align="center">Proofs:</h1>
 
 - [How to Prove It](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf)
 - [Proof without words](https://en.wikipedia.org/wiki/Proof_without_words) (visual proofs)
 - [Terence Tao](https://www.youtube.com/@TerenceTao27) (uses AI for proofs, really cool)
 
-Visual Math:
+<h1 align="center">Visual Math:</h1>
 
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
-Websites:
+<h1 align="center">Websites:</h1>
 
 - XerographicPaper
 
-YouTube:
+<h1 align="center">YouTube:</h1>
 
 - [XerographicPaper](https://www.youtube.com/watch?v=-w4QJ1YGKf4)
 - [ThatMathThing](https://www.youtube.com/ThatMathThing)
 
-Minecraft Math:
+<h1 align="center">Minecraft Math:</h1>
 
 - [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch)
 
-Statistics Learning
-Pop-Stats:
+<h1 align="center">Statistics Learning:</h1>
+
+<h1 align="center">Pop-Stats:</h1>
 
 - [Statology](https://www.statology.org/)
 
-Time Series Forecasting:
+<h1 align="center">Time Series Forecasting:</h1>
 
 - [NumerAI](https://numer.ai/) (predicts stock markets)
 
-Physics Learning
-Cool physics simulations:
+<h1 align="center">Physics Learning</h1>
+
+<h1 align="center">Cool physics simulations:</h1>
 
 - [PhET](https://phet.colorado.edu/)
 
-YouTube Channels:
+<h1 align="center">YouTube Channels:</h1>
 
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
