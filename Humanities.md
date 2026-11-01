@@ -26,6 +26,10 @@
 
 - [History Memes](https://www.reddit.com/r/historymemes/)
 
+<h1 align="center">Psychology:</h1>
+
+- [AP Psychology](https://fiveable.me/ap-psych-revised)
+
 <h1 align="center">World History:</h1>
 
 - [Apop World History](https://www.youtube.com/channel/UC6KTWOZ_bqibjA9PbMBHxRA)
