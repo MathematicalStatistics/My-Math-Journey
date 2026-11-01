@@ -72,6 +72,7 @@
 <h1 align="center">Physics:</h1>
 
 - [PhET](https://phet.colorado.edu/)
+- [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
 
 <h1 align="center">YouTube Channels:</h1>
 
