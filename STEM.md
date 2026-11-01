@@ -42,6 +42,7 @@
 
 <h1 align="center">Math:</h1>
 
+- [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 
 <h1 align="center">Nomenclature Patterns:</h1>
