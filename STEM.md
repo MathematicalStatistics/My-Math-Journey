@@ -43,6 +43,7 @@
 <h1 align="center">Math:</h1>
 
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
+- [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
 
