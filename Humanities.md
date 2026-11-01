@@ -31,9 +31,10 @@
 - [Polymatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg)
 - [Vexillology](https://www.reddit.com/r/vexillologycirclejerk/)
 
-<h1 align="center">History:</h1>
+<h1 align="center">History (General):</h1>
 
 - [History Memes](https://www.reddit.com/r/historymemes/)
+- [Learn to Reason About History](https://standardgalactic.github.io/computation/version-control/git-series-plan.pdf)
 
 <h1 align="center">International Relations:</h1>
 
