@@ -37,7 +37,7 @@
 
 - [Pennsylvania State University - World Campus](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics) (Aug 2025 - Aug 2027)
 
-    - M.A.S. (Master's of Applied Statistics)
+    - [M.A.S. (Master's of Applied Statistics)](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics)
     - Relevant Courses: [Data Mining](https://online.stat.psu.edu/stat508/) and [Time Series](https://online.stat.psu.edu/stat510/)
 
 - [University of South Florida](https://www.usf.edu/) (Jan 2023 - May 2025)
