@@ -38,6 +38,10 @@
 
 - [AP Music Theory](https://www.youtube.com/watch?v=GWIMqqVV1L4)
 
+<h1 align="center">Philosophy:</h1>
+
+- [Philosophy](https://en.wikipedia.org/wiki/Philosophy)
+
 <h1 align="center">Psychology:</h1>
 
 - [AP Psychology](https://fiveable.me/ap-psych-revised)
