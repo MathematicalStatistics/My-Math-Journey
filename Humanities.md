@@ -30,6 +30,10 @@
 
 - [History Memes](https://www.reddit.com/r/historymemes/)
 
+<h1 align="center">Music Theory:</h1>
+
+- [AP Music Theory](https://www.youtube.com/watch?v=GWIMqqVV1L4)
+
 <h1 align="center">Psychology:</h1>
 
 - [AP Psychology](https://fiveable.me/ap-psych-revised)
