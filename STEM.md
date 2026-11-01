@@ -40,6 +40,10 @@
 - [Coolmath](https://www.coolmathgames.com/)
 - [GitHub](https://githubgames.gitlab.io/)
 
+<h1 align="center">Math:</h1>
+
+- [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
+
 <h1 align="center">Nomenclature Patterns:</h1>
 
 - [Metric Prefix](https://en.wikipedia.org/wiki/Metric_prefix)
