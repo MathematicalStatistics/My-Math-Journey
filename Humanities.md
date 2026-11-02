@@ -45,6 +45,7 @@
 
 - [Arabic in English](https://standardgalactic.github.io/linguistics/arabglish-cheatsheet.pdf)
 - [AP Italian](https://fiveable.me/ap-italian)
+- [Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - [Korean in 5 minutes](https://www.youtube.com/watch?v=TE4eplsFSms)
 
 <h1 align="center">Music Theory:</h1>
