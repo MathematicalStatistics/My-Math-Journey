@@ -48,6 +48,7 @@
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
+- [Papa Flammy](https://www.youtube.com/c/papaflammy)
 
 <h1 align="center">Minecraft Math:</h1>
 
