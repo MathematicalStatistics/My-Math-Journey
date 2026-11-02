@@ -9,6 +9,7 @@
 <h1 align="center">Economics:</h1>
 
 - [Jacob Clifford](https://www.youtube.com/@jacobaclifford)
+- [Quant Trading](https://drive.google.com/drive/shared-with-me)
 
 <h1 align="center">European History:</h1>
 
