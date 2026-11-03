@@ -10,7 +10,7 @@ I first found out about modded (additional 3-rd party content) Minecraft through
 [Project E](https://www.curseforge.com/minecraft/mc-mods/projecte) has EMC values for every item which you can kind of think of it as some sort of currency. 
 There's another mod called [Industrial Craft 2 (IC2)](https://wiki.industrial-craft.net/index.php?title=Main_Page) which adds many new machines (kind of like working in a factory). 
 [Factorio](https://en.wikipedia.org/wiki/Factorio) is another game that was actually inspired by modded Minecraft. [Gregtech](https://gregtech.overminddl1.com/) is an addon for 
-IC2 that is made by GregoriousT.
+IC2 that is made by [GregoriousT](https://gregtech.overminddl1.com/aboutme/).
 
 I found [Hexxit](https://www.technicpack.net/modpack/hexxit.552552) around 5th grade. I enjoyed the [chocobos](https://www.curseforge.com/minecraft/mc-mods/chococraft) that it added. There were 
 also many places to explore like battle towers.
