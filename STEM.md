@@ -96,7 +96,7 @@
 
 <h1 align="center">YouTube:</h1>
 
-- [XerographicPaper](https://www.youtube.com/watch?v=-w4QJ1YGKf4)
+- [XerographicPaper](https://www.youtube.com/@XerographicPaper)
 - [ThatMathThing](https://www.youtube.com/ThatMathThing)
 
 <h1 align="center">YouTube Channels:</h1>
