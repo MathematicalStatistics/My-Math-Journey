@@ -60,6 +60,10 @@
 - [Metric Prefix](https://en.wikipedia.org/wiki/Metric_prefix)
 - [Names of Large Numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers)
 
+<h1 align="center">Notation:</h1>
+
+- [Algebraic Notation (Chess)](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
+
 <h1 align="center">Numbers:</h1>
 
 - [Country Codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
