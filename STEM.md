@@ -27,6 +27,7 @@
 <h1 align="center">Chemistry:</h1>
 
 - [AP Chemistry](https://www.youtube.com/watch?v=wgPt8fP0IKg)
+- [Chemistryball](https://www.reddit.com/r/ChemistryballOfficial/s/vX9HLfYmyR)
 - [NileRed](https://www.youtube.com/@nilered)
 
 <h1 align="center">Chatbots:</h1>
