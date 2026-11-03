@@ -92,7 +92,7 @@
 
 <h1 align="center">Websites:</h1>
 
-- XerographicPaper
+- [XerographicPaper](https://xpaper.neocities.org/)
 
 <h1 align="center">YouTube:</h1>
 
