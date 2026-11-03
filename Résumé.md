@@ -38,19 +38,25 @@
 - [Pennsylvania State University - World Campus](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics) (Aug 2025 - Aug 2027)
 
     - [M.A.S. (Master's of Applied Statistics)](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics)
-    - Relevant Courses: [Data Mining](https://online.stat.psu.edu/stat508/) and [Time Series](https://online.stat.psu.edu/stat510/)
+    - Relevant Courses:
+        - [Data Mining](https://online.stat.psu.edu/stat508/)
+        - [Time Series](https://online.stat.psu.edu/stat510/)
 
 - [University of South Florida](https://www.usf.edu/) (Jan 2023 - May 2025)
   
     - B.S. Mathematics: Computational & Applied
     - Data Analytics & Business Intelligence (Deprecated Concentration)
     - Graduated Summa Cum Laude
-    - Relevant Courses: Intro to [MathStats 1](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501) & [2](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#),
-  [Intro to Probability Theory](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#), [Math Modeling](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
+    - Relevant Courses:
+        - Intro to [MathStats 1](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501) & [2](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
+        - [Intro to Probability Theory](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
+        -  [Math Modeling](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237#)
 
 - University of Edinburgh (Sep 2021 - May 2022)
     - [BSc (Honours) Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)
-    - Relevant Courses: [Proofs & Problem Solving](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm), [Intro to Linear Algebra](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm)
+    - Relevant Courses:
+        - [Proofs & Problem Solving](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm)
+        - [Intro to Linear Algebra](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm)
     - Transferred to USF after a year.
 
 # <h1 align="center">Soft Skills</h1>
