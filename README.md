@@ -30,24 +30,31 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
 - [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics)
   - [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   - [Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
+    
 - [Mathematical Biology](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology)
   - [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
   - [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
+    
 - [Mathematical Chemistry](https://en.wikipedia.org/wiki/Mathematical_chemistry)
   - [Crystallography](https://en.wikipedia.org/wiki/Crystallography)
+    
 - [Mathematical Economics](https://en.wikipedia.org/wiki/Mathematical_economics)
   - [P&C Actuarial Science](https://www.casstudentcentral.org/about-our-profession/what-is-a-property-and-casualty-actuary/)
+    
 - [Mathematical engineering](https://en.wikipedia.org/wiki/Mathematical_engineering)
   - [Aerospace Engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
   - [Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering)
     - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
+      
 - [Mathematical Physics](https://en.wikipedia.org/wiki/Mathematical_physics)
   - [Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
   - [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
   - [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
+    
 - [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics)
   - [Algebraic Stats](https://en.wikipedia.org/wiki/Algebraic_statistics)
   - [Stat Manifolds](https://en.wikipedia.org/wiki/Statistical_manifold)
+    
 - [Meteorology](https://en.wikipedia.org/wiki/Meteorology)
   - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
     - [Probability](https://online.stat.psu.edu/stat414/)
