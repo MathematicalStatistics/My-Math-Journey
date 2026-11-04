@@ -11,6 +11,10 @@
 
 - [Molecular Set Theory](https://en.wikipedia.org/wiki/Anthony_Bartholomay)
 
+- [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
+
+- [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
+
 # [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (math w/ computer or doing calculations by hand)
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and Machine Learning Algorithms
