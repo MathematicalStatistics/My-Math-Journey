@@ -84,7 +84,7 @@ Books:
 
 - [Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) (I feel similar to Holden Caulfield since I isolated myself from society by studying math this long)
 - [Fermat Kitchen](https://en.wikipedia.org/wiki/Fermat_Kitchen) (Gaku quits studying math to become a cook)
-- [Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) (looks like the website I made)
+- [Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) (feels like the repository I made)
 - [One Piece](https://en.wikipedia.org/wiki/One_Piece) [Monkey D. Luffy](https://en.wikipedia.org/wiki/Monkey_D._Luffy) (good way to introduce yourself)
 - [Manga Guide](https://en.wikipedia.org/wiki/The_Manga_Guides) to [Insert Topic] (Can help people learn various topics)
 - [Plastic: a Toxic Love Story](https://books.google.com/books/about/Plastic.html?id=9LyGHqqIKT4C) (talks about how microplastics cause hormone imbalance)
@@ -95,7 +95,7 @@ Movies:
 - [Barbie](https://en.wikipedia.org/wiki/Barbie) (Gender differences)
 - [Good Will Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting) ([polymath](https://en.wikipedia.org/wiki/Polymath) who wants to learn organic chemistry) [[Srinivasa Ramanujan:](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) the guy who dreamed math]
 - [M3GAN](https://en.wikipedia.org/wiki/M3GAN) (When AI goes rogue)
-- [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film)) (Theory can only get you so far [I realized this after taking 3 courses in math stats])
+- [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film)) (Theory can only get you so far [I realized this after taking 3 courses in MathStats])
 - [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) [(Alan Turing)](https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma)
   
 News:
@@ -117,11 +117,6 @@ Shows:
 - [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) [Will does a presentation about [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)]
 - [The Queen's Gambit](https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)) (Probability behind chess movements)
 - [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)) (Quantum somewhere)
-- [Vincenzo](https://en.wikipedia.org/wiki/Vincenzo_(TV_series))
+- [Vincenzo](https://en.wikipedia.org/wiki/Vincenzo_(TV_series)) (Korean-Italian)
 - [Young Sheldon](https://en.wikipedia.org/wiki/Young_Sheldon) (I feel like the theoretical statistician version of him)
 - [3 Body Problem](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series))
-
-YouTube:
-- [Papa Flammy](https://www.youtube.com/@PapaFlammy69) (can be a bit edgy, not the most appropriate) [he has a woodworking channel too](https://www.youtube.com/@RockHardWoodDaddy)
-- [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) (caution: there was a harassment case with him) [Physics lectures]
-
