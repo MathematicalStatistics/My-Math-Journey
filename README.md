@@ -108,3 +108,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 - [Quotes](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Quotes.md)
 - [Projects (WIP)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Projects%20(WIP).md)
 - [To-Do](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/To-Do.md)
+
+# <h1 align="center">Repositories:</h1>
+
+- [My Math Journey](https://github.com/MathematicalStatistics/My-Math-Journey)
