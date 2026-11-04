@@ -110,3 +110,4 @@
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
 - [Papa Flammy](https://www.youtube.com/c/papaflammy)
 - [Tibees](https://www.youtube.com/@tibees) ([MathPhys](https://www.youtube.com/watch?v=goNv6hRVaLU))
+- [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) (Physics)
