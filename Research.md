@@ -1,5 +1,5 @@
 # My Research Interests Include the Following:
-# [Applied Math](https://en.wikipedia.org/wiki/Applied_mathematics) (Math applied to other subjects)
+# [Applied Math](https://en.wikipedia.org/wiki/Applied_mathematics) (Math applied to other subjects) [Misc]
 
 - [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
 
