@@ -37,10 +37,6 @@
 
 - [Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
 
-# Mathematical and Theoretical Biology
-
-- [Biostatistics](https://en.wikipedia.org/wiki/Biostatistics) / [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
-
 # Mathematical Chemistry (Intersection of math and chemistry)
 
 - [Crystallography](https://en.wikipedia.org/wiki/Crystallography) 
