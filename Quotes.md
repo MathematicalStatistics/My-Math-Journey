@@ -16,6 +16,5 @@ Some Insight:
 - AI fuses articles together and it's important to judge whether or not it is correct.
 - Probability Theory and MathStats are the foundations for all things data and engineering.
 - AI does well with programming languages with lots of documentation and poor with little.
-- This is similar to areas in applied math.
 - That's why so many new niche topics in STEM are being created.
 - "The universe is mathematically modeled slop w/ an error term afterall (epsilon is the slop term)" 
