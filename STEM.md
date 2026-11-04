@@ -11,6 +11,7 @@
 <h1 align="center">Biology:</h1>
 
 - [Amoeba Sisters](https://www.youtube.com/c/AmoebaSisters)
+- [Biocomputers](https://youtu.be/HCtwZoJ6_dw?si=cp-eAACBlgtrHGhF)
 
 <h1 align="center">Calculators:</h1>
 
