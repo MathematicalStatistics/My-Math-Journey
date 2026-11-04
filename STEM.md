@@ -49,7 +49,6 @@
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
-- [Papa Flammy](https://www.youtube.com/c/papaflammy)
 
 <h1 align="center">Minecraft Math:</h1>
 
@@ -108,4 +107,5 @@
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
+- [Papa Flammy](https://www.youtube.com/c/papaflammy)
 - [Tibees](https://www.youtube.com/@tibees) ([MathPhys](https://www.youtube.com/watch?v=goNv6hRVaLU))
