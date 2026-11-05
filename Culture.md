@@ -18,11 +18,11 @@
 
 [Italian brainrot](https://en.wikipedia.org/wiki/Italian_brainrot) 
 
-[word of caution: it can say hurtful things depending on who makes the prompts 
+- Word of caution: it can say hurtful things depending on who makes the prompts 
 
-(good way to know if someone is insulting you in Italian)] 
+- Good way to know if someone is insulting you in Italian
 
-makes me want to re-learn the Italian language. {please don't take the website down because of this}.
+- It makes me want to re-learn the Italian language
 
 Tung Tung Tung Sahur is my personal favorite.
 
