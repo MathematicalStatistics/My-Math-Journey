@@ -1,5 +1,5 @@
 # My Research Interests Include the Following:
-# [Applied Math](https://en.wikipedia.org/wiki/Applied_mathematics) (Math applied to other subjects) [Misc]
+# [Applied Math](https://en.wikipedia.org/wiki/Applied_mathematics) (Math Applied to Other Subjects) [Misc]:
 
 - [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
 
@@ -7,7 +7,7 @@
 
 - [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
 
-# [Bio Math](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology) 
+# [Bio Math](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology): 
 
 - [Molecular Set Theory](https://en.wikipedia.org/wiki/Anthony_Bartholomay)
 
@@ -15,7 +15,7 @@
 
 - [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
 
-# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (math w/ computer or doing calculations by hand)
+# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (math w/ computer or doing calculations by hand):
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning Algorithms](https://en.wikipedia.org/wiki/Machine_learning)
 
@@ -37,13 +37,13 @@
 
 - [Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
 
-# Mathematical Chemistry (Intersection of math and chemistry)
+# Mathematical Chemistry (Intersection of Math and Chemistry):
 
 - [Crystallography](https://en.wikipedia.org/wiki/Crystallography) 
 
 - [Organic Chemistry](https://en.wikipedia.org/wiki/Organic_chemistry) (Want to learn the methodical nomenclature of hexagons)
 
-# Mathematical Economics
+# Mathematical Economics:
 
 - [Actuarial Science](https://en.wikipedia.org/wiki/Actuarial_science) (Property & Casualty)
 
@@ -59,7 +59,7 @@
 
 - [Time Series Forecasting](https://en.wikipedia.org/wiki/Time_series) (for stock markets)
 
-# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering) (Engineering and math)
+# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering) (Engineering and math):
 
 - [Control Theory](https://en.wikipedia.org/wiki/Control_theory) and [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) (EE-Adjacent)
 
@@ -71,7 +71,7 @@
 
 - [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering) (Given the answer then work it backwards)
 
-# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be) (Intersection of math and physics)
+# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be) (Intersection of math and physics):
 
 - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) / [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
@@ -87,7 +87,7 @@
 
 - [Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
-# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (Intersection of math and statistics [subset of applied math])
+# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (Intersection of math and statistics [subset of applied math]):
 
 - [Algebraic Statistics](https://en.wikipedia.org/wiki/Dynamical_system) (Abstract Algebra applied to Stats)
 
