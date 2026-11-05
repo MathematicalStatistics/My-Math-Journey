@@ -21,7 +21,7 @@
 
 - [Coding Theory](https://en.wikipedia.org/wiki/Coding_theory)
 
-- [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) / [Neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) (Cognitive Science)
+- [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) / [Neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) ([Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science))
 
 - [Data Mining](https://en.wikipedia.org/wiki/Data_mining)
 
