@@ -15,7 +15,7 @@
 
 - [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
 
-# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (math w/ computer or doing calculations by hand):
+# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (Math w/ Computer or Doing Calculations by hand):
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning Algorithms](https://en.wikipedia.org/wiki/Machine_learning)
 
@@ -59,7 +59,7 @@
 
 - [Time Series Forecasting](https://en.wikipedia.org/wiki/Time_series) (for stock markets)
 
-# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering) (Engineering and math):
+# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering) (Engineering and Math):
 
 - [Control Theory](https://en.wikipedia.org/wiki/Control_theory) and [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) (EE-Adjacent)
 
@@ -71,7 +71,7 @@
 
 - [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering) (Given the answer then work it backwards)
 
-# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be) (Intersection of math and physics):
+# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be) (Intersection of Math and Physics):
 
 - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) / [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
@@ -87,7 +87,7 @@
 
 - [Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
-# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (Intersection of math and statistics [subset of applied math]):
+# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (Intersection of Math and Statistics [Subset of Applied Math]):
 
 - [Algebraic Statistics](https://en.wikipedia.org/wiki/Dynamical_system) (Abstract Algebra applied to Stats)
 
