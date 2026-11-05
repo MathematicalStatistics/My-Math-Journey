@@ -1,4 +1,4 @@
-# <h1 align="center">Lorenzo (로랜조) Schenardi</h1>
+# <h1 align="center">Lorenzo (로랜조) Schenardi 🇰🇷🇮🇹</h1>
 <h1 align="center">https://www.linkedin.com/in/mathstats-gtnh/</h1>
 
 <h1 align="center">lorenzoschenardi@gmail.com</h1>
