@@ -17,7 +17,7 @@
 
 # [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (math w/ computer or doing calculations by hand)
 
-- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and Machine Learning Algorithms
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning Algorithms](https://en.wikipedia.org/wiki/Machine_learning)
 
 - [Coding Theory](https://en.wikipedia.org/wiki/Coding_theory)
 
