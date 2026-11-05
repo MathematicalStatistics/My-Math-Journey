@@ -7,4 +7,4 @@
 - [Torino Polytechnic](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning) (has some really cool programs) [I realized I did a mathematical engineering degree more or less] {do the lifelong learning program at some point?}.
 - Become a [선비](https://en.wikipedia.org/wiki/Seonbi) (Joseon Scholar).
 - Speed through actuarial exams after master's.
-- Polymath (선비) Tutoring
+- Polymath ([선비](https://en.wikipedia.org/wiki/Seonbi)) Tutoring
