@@ -39,6 +39,10 @@
 - [Claude](https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fchats%3F)
 - [Google Gemini](https://gemini.google.com/app) (good w/ Python & R)
 
+<h1 align="center">Engineering:</h1>
+
+- [Sine Waves](https://mwmeyers03.github.io/)
+
 <h1 align="center">Games:</h1>
 
 - [Coolmath](https://www.coolmathgames.com/)
