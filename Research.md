@@ -114,3 +114,5 @@
 - [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy)
 
 - [Real Analysis](https://en.wikipedia.org/wiki/Real_analysis)
+
+- [Ring Theory](https://en.wikipedia.org/wiki/Ring_theory)
