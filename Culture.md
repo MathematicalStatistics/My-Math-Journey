@@ -82,6 +82,7 @@ Italian cuisine is simple but it also has a very clean taste. Spaghetti alle von
 
 Books:
 
+- [A Doll's House](https://en.wikipedia.org/wiki/A_Doll's_House) (Torvold is an [incel](https://en.wikipedia.org/wiki/Incel))
 - [Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) (I feel similar to Holden Caulfield since I isolated myself from society by studying math this long)
 - [Fermat Kitchen](https://en.wikipedia.org/wiki/Fermat_Kitchen) (Gaku quits studying math to become a cook)
 - [Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) (feels like the repository I made)
