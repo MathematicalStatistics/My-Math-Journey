@@ -81,7 +81,7 @@
 
 # <h1 align="center">Foreign Languages</h1>
 - English (American) [Native]
-- Italian (Tuscan Dialect) [Limited Working Proficiency] {I Speak Broken Italian}
+- Italian (Tuscan Dialect[Default]) [Limited Working Proficiency] {I Speak Broken Italian}
 
       Decent at reading and understanding
 
