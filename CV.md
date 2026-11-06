@@ -185,16 +185,16 @@
   - [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
  
 - Physics 1A: Foundations (Calc-Based Newtonian Mechanics)
-  - [PHYS08016](
+  - [PHYS08016](https://www.drps.ed.ac.uk/21-22/dpt/cxphys08016.htm)
  
 - Programming Concepts (Java)
-  - COP 2030
+  - [COP 2030](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116438)
  
 - Proofs and Problem Solving (Discrete Math)
-  - MATH08059
+  - [MATH08059](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm)
  
 - Python for Business Analytics (Regression)
-  - ISM 4641
+  - [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878)
  
 - Regression Methods (Minitab)
-  - STAT 501                                          
+  - [STAT 501](https://online.stat.psu.edu/stat501/)                                          
