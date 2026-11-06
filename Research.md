@@ -105,6 +105,8 @@
 
 - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 
+- [Clifford Algebra](https://en.wikipedia.org/wiki/Clifford_algebra)
+
 - [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
 
 - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
