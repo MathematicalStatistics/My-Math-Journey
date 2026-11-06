@@ -104,3 +104,5 @@
 # [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
 
 - [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
+
+- [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
