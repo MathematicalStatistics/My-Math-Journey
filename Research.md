@@ -102,3 +102,5 @@
 # [Meteorology](https://en.wikipedia.org/wiki/Meteorology) (Statistical Mechanics)
 
 # [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
+
+- [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
