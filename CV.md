@@ -103,3 +103,20 @@
 - Thermodynamics (Probability Distributions)
 
 - YouTube
+
+# <h1 align="center">Courses:</h1>
+
+- American History II (1877-Present)
+  - AMH 2020
+
+- Analysis of Variance and Design of Experiments (SAS)
+  - STAT 502
+ 
+- Applied Data Mining and Statistical Learning (ML Theory) [R Studio]
+  - STAT 508
+ 
+- Applied Statistics (Minitab)
+  - STA 500
+ 
+- Applied Time Series Analysis (Statistical Economics) [R Studio]
+  - STAT 510     
