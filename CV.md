@@ -152,40 +152,40 @@
   - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
  
 - Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra)
-  - [MATH07003](
+  - [MATH07003](https://www.drps.ed.ac.uk/21-22/dpt/cxmath07003.htm)
  
 - Happiness and Well-Being (Social Work Psychology)
-  - SOW 3802
+  - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
  
 - Introduction to Computers and Computer Programming (Python)
-  - CGS 2060
+  - [CGS 2060](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
  
 - Introduction to Cryptography and Its Applications (Linux)
-  - MAD 2470
+  - [MAD 2470](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116938)
  
 - Introduction to Linear Algebra (Matrices & Proofs)
-  - MATH08057
+  - [MATH08057](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm)
  
 - Introduction to Mathematical Statistics (MathStats 3)
-  - STAT 415
+  - [STAT 415](https://online.stat.psu.edu/stat415/)
  
 - Introduction to Mathematical Statistics 1 & 2 (Stat Theory w/ Calc 3) [Stat Inference]
-  - STA 4321, STA 4322
+  - [STA 4321](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501), [STA 4322](https://www.coursicle.com/usf/courses/STA/4322/)
  
 - Introduction to Probability Theory (Discrete Math Notation)
-  - STA 4442
+  - [STA 4442](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503)
  
 - Introduction to Probability Theory (Probability 2)
-  - STAT 414
+  - [STAT 414](https://online.stat.psu.edu/stat414/)
  
 - Introductory Statistics 1 & 2 (Algebra-Based)
-  - STA 2023, STA 3024
+  - [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496), [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497)
  
 - Mathematical Modeling (MathPhys)
-  - MAP 4103
+  - [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
  
 - Physics 1A: Foundations (Calc-Based Newtonian Mechanics)
-  - PHYS08016
+  - [PHYS08016](
  
 - Programming Concepts (Java)
   - COP 2030
