@@ -70,7 +70,7 @@ Tastes similar to Indian cuisine but a lot less spicy. Mixed grill has a good va
 
 # <h1 align="center">Peruvian:</h1>
 
-Has both European and Asian influences on their food. Ceviche is the Peruvian version of Sashimi but they cure it with citrus (normally lemon or lime).
+Has both European and Asian influences in their food. Ceviche is the Peruvian version of Sashimi but they cure it with citrus (normally lemon or lime).
 
 <img width="1200" height="1800" alt="image" src="https://github.com/user-attachments/assets/c7c73c7d-c74f-4c6c-99ed-665fd77bdc4b" />
 
