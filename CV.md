@@ -120,3 +120,38 @@
  
 - Applied Time Series Analysis (Statistical Economics) [R Studio]
   - STAT 510     
+
+- Art and Culture (Art History)
+  - ARH 2000
+ 
+- Calculus 3 (Multi-Variate Calc) + Vector Calculus (Calc 3.5)
+  - MAC 2313, MAS 3156
+ 
+- Calculus and its Applications (Calc 1 & 2)
+  - MATH08058
+ 
+- Climate Studies (Intro Meteorology)
+  - MET 4106C
+ 
+- Composition II (Technical Writing)
+  - ENC 1102
+ 
+- Computational Methods for Applied Statistics (R Studio)
+  - STA 4102
+ 
+- Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint])
+  - CGS 2100
+ 
+- Cooperative Internship (Global Tech Experience)
+  - IDS 3947
+ 
+- Differential Equations (ODEs)
+  - MAP 2302
+ 
+- Digital Identity (Discontinued) [Digital Footprints]
+  - EME 4390
+ 
+- Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra)
+  - MATH07003
+ 
+-                    
