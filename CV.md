@@ -13,3 +13,17 @@
 - Business Analytics
 
 - Computer Software / Technology (General)
+
+- Cryptograpgy (Linux)
+
+- Data Mining
+
+- Discrete Mathematics
+
+- Discord
+
+- Extremely Detail-Orientated / Organized / Methodical
+
+- GitHub (HTML / Markdown)
+
+- Helping Others / Teaching / Tutoring
