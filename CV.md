@@ -128,31 +128,31 @@
   - [MAC 2313](https://catalog.southflorida.edu/preview_course_nopop.php?catoid=2&coid=1437&print), [MAS 3156](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114479)
  
 - Calculus and its Applications (Calc 1 & 2)
-  - [MATH08058](
+  - [MATH08058](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08058.htm)
  
 - Climate Studies (Intro Meteorology)
-  - MET 4106C
+  - [MET 4106C](https://cloud.usf.edu/academic-programs/details/prefix/MET/code/4106C)
  
 - Composition II (Technical Writing)
-  - ENC 1102
+  - [ENC 1102](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202308&subj_code_in=ENC&crse_numb_in=1102)
  
 - Computational Methods for Applied Statistics (R Studio)
-  - STA 4102
+  - [STA 4102](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114499)
  
 - Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint])
-  - CGS 2100
+  - [CGS 2100](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
  
 - Cooperative Internship (Global Tech Experience)
-  - IDS 3947
+  - [IDS 3947](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116344)
  
 - Differential Equations (ODEs)
-  - MAP 2302
+  - [MAP 2302](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114474)
  
 - Digital Identity (Discontinued) [Digital Footprints]
-  - EME 4390
+  - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
  
 - Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra)
-  - MATH07003
+  - [MATH07003](
  
 - Happiness and Well-Being (Social Work Psychology)
   - SOW 3802
