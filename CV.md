@@ -55,3 +55,15 @@
 - Philosophy (MathStats)
 
 - Problem Solving / Analytical Thinking / Logistical
+
+- Microsoft Office (Word, Excel, PowerPoint)
+
+- (Mathematical / Theoretical) Stats [Advanced Calc Methods]
+
+- R Studio (ggplot2, Tidyverse)
+
+- Resume Writing (GitHub)
+
+- Reverse Engineering (Given an Answer and then work it Backwards)
+
+- P&C Actuarial Science: Theory
