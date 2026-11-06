@@ -100,10 +100,10 @@ Movies:
 - [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) [(Alan Turing)](https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma)
   
 News:
-- Aljazera 
-- DW News
+- Aljazera (Arab)
+- DW News (Dutch)
 - NHK World Japan
-- SkyNews
+- SkyNews (UK / Austrailia)
 
 People:
 - [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (Philosophy)
