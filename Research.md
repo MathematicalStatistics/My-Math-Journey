@@ -100,3 +100,5 @@
 - [Statistical Manifolds](https://en.wikipedia.org/wiki/Statistical_manifold) ([Differentiable Manifolds](https://en.wikipedia.org/wiki/Differentiable_manifold) [calc in higher than 3D] applied to Stats)
 
 # [Meteorology](https://en.wikipedia.org/wiki/Meteorology) (Statistical Mechanics)
+
+# [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
