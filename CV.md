@@ -27,3 +27,15 @@
 - GitHub (HTML / Markdown)
 
 - Helping Others / Teaching / Tutoring
+
+- Inductive / Deductive Reasoning
+
+- Intercultural Skills / Communication
+
+- Java
+
+- Mathematical Economics (Fourier Analysis & SDEs via R Studio)
+
+- Mathematical Engineering
+
+- Mathematical / Statistical Simulation
