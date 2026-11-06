@@ -67,3 +67,39 @@
 - Reverse Engineering (Given an Answer and then work it Backwards)
 
 - P&C Actuarial Science: Theory
+
+- Physics: Newtonian Mechanics
+
+- Psychology (MathStats)
+
+- Public Speaking
+
+- Python (NumPy, Spicy)
+
+- Quantum Mechanics (Probability [Discrete Math Notation])
+
+- Reading Scientific Papers
+
+- Regression Analysis
+
+- Results Driven
+
+- Resourceful
+
+- Snap! (Block Coding)
+
+- SAS (Programming Language)
+
+- Statistical Data Analysis
+
+- Tableau (Dashboard Creation)
+
+- Teamwork / Leadership
+
+- Technical Writing / Storytelling
+
+- Theoretical Data Science
+
+- Thermodynamics (Probability Distributions)
+
+- YouTube
