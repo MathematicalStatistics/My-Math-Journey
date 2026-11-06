@@ -39,3 +39,19 @@
 - Mathematical Engineering
 
 - Mathematical / Statistical Simulation
+
+- (Mathematical / Theoretical) CS [Formal Logic]
+
+- (Mathematical / Theoretical) Physics: Foundations
+
+- Meteorology (StatMech [Probability / MathStats])
+
+- Minecraft / GTNH
+
+- Minitab
+
+- Microblock Building
+
+- Philosophy (MathStats)
+
+- Problem Solving / Analytical Thinking / Logistical
