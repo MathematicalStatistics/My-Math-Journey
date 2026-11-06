@@ -36,6 +36,7 @@
 
 - [History Memes](https://www.reddit.com/r/historymemes/)
 - [Learn to Reason About History](https://standardgalactic.github.io/computation/version-control/git-series-plan.pdf)
+- [Ostrogothic Kingdom](https://en.wikipedia.org/wiki/Ostrogothic_Kingdom)
 
 <h1 align="center">International Relations:</h1>
 
