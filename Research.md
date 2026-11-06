@@ -106,3 +106,5 @@
 - [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
 
 - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
+
+- [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy)
