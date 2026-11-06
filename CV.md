@@ -107,28 +107,28 @@
 # <h1 align="center">Courses:</h1>
 
 - American History II (1877-Present)
-  - AMH 2020
+  - [AMH 2020](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114299)
 
 - Analysis of Variance and Design of Experiments (SAS)
-  - STAT 502
+  - [STAT 502](https://online.stat.psu.edu/stat502/)
  
 - Applied Data Mining and Statistical Learning (ML Theory) [R Studio]
-  - STAT 508
+  - [STAT 508](https://online.stat.psu.edu/stat508/)
  
 - Applied Statistics (Minitab)
-  - STA 500
+  - [STA 500](https://online.stat.psu.edu/stat500/)
  
 - Applied Time Series Analysis (Statistical Economics) [R Studio]
-  - STAT 510     
+  - [STAT 510](https://online.stat.psu.edu/stat510/)
 
 - Art and Culture (Art History)
-  - ARH 2000
+  - [ARH 2000](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116577)
  
 - Calculus 3 (Multi-Variate Calc) + Vector Calculus (Calc 3.5)
-  - MAC 2313, MAS 3156
+  - [MAC 2313](https://catalog.southflorida.edu/preview_course_nopop.php?catoid=2&coid=1437&print), [MAS 3156](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114479)
  
 - Calculus and its Applications (Calc 1 & 2)
-  - MATH08058
+  - [MATH08058](
  
 - Climate Studies (Intro Meteorology)
   - MET 4106C
