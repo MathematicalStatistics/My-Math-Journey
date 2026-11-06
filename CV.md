@@ -154,4 +154,47 @@
 - Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra)
   - MATH07003
  
--                    
+- Happiness and Well-Being (Social Work Psychology)
+  - SOW 3802
+ 
+- Introduction to Computers and Computer Programming (Python)
+  - CGS 2060
+ 
+- Introduction to Cryptography and Its Applications (Linux)
+  - MAD 2470
+ 
+- Introduction to Linear Algebra (Matrices & Proofs)
+  - MATH08057
+ 
+- Introduction to Mathematical Statistics (MathStats 3)
+  - STAT 415
+ 
+- Introduction to Mathematical Statistics 1 & 2 (Stat Theory w/ Calc 3) [Stat Inference]
+  - STA 4321, STA 4322
+ 
+- Introduction to Probability Theory (Discrete Math Notation)
+  - STA 4442
+ 
+- Introduction to Probability Theory (Probability 2)
+  - STAT 414
+ 
+- Introductory Statistics 1 & 2 (Algebra-Based)
+  - STA 2023, STA 3024
+ 
+- Mathematical Modeling (MathPhys)
+  - MAP 4103
+ 
+- Physics 1A: Foundations (Calc-Based Newtonian Mechanics)
+  - PHYS08016
+ 
+- Programming Concepts (Java)
+  - COP 2030
+ 
+- Proofs and Problem Solving (Discrete Math)
+  - MATH08059
+ 
+- Python for Business Analytics (Regression)
+  - ISM 4641
+ 
+- Regression Methods (Minitab)
+  - STAT 501                                          
