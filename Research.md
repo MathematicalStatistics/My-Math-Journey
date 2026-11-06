@@ -15,7 +15,7 @@
 
 - [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
 
-# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (Math w/ Computer or Doing Calculations by hand):
+# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (Math w/ Computer or Doing Calculations by Hand):
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning Algorithms](https://en.wikipedia.org/wiki/Machine_learning)
 
