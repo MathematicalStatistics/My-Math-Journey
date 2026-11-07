@@ -25,6 +25,8 @@
 
 - [Data Mining](https://en.wikipedia.org/wiki/Data_mining)
 
+- [Ergodic Process](https://en.wikipedia.org/wiki/Ergodic_process)
+
 - [Formal Logic for Programming](https://en.wikipedia.org/wiki/Logic)
 
 - [Numerical Partial Differential Equations](https://en.wikipedia.org/wiki/Numerical_methods_for_partial_differential_equations)
