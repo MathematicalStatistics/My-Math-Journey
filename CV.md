@@ -3,6 +3,7 @@
 - Adobe (Photoshop, InDesign, Dreamweaver)
 
 - Aerospace Engineering (Probability Distributions)
+  - [Probability Theory](https://online.stat.psu.edu/stat414/) & [MathStats](https://online.stat.psu.edu/stat415/)
 
 - AI Literacy
 
