@@ -10,6 +10,7 @@ Books:
 - [Manga Guide](https://en.wikipedia.org/wiki/The_Manga_Guides) to [Insert Topic] (Can help people learn various topics)
 - [Plastic: a Toxic Love Story](https://books.google.com/books/about/Plastic.html?id=9LyGHqqIKT4C) (talks about how microplastics cause hormone imbalance)
 - [The Biggest Bluff](https://en.wikipedia.org/wiki/The_Biggest_Bluff) (Psychology behind poker as well as [probability theory](https://en.wikipedia.org/wiki/Probability_theory))
+- [The Year of the Hangman](https://en.wikipedia.org/wiki/The_Year_of_the_Hangman)
   
 Movies:
 
