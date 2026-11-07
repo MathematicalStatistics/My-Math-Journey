@@ -30,6 +30,7 @@
 
 - [AP Chemistry](https://www.youtube.com/watch?v=wgPt8fP0IKg)
 - [Chemistryball](https://www.reddit.com/r/ChemistryballOfficial/s/vX9HLfYmyR)
+- [Compendium](https://www.reddit.com/r/ChemistryballOfficial/s/RGnjYbWQrN)
 - [NileRed](https://www.youtube.com/@nilered)
 - [Synthetic Fuel](https://www.youtube.com/watch?v=jRKbjT8AoJw)
 
