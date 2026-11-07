@@ -78,6 +78,8 @@
 
 <h1 align="center">Physics:</h1>
 
+- [Dan Fullerton](https://www.youtube.com/@DanFullerton)
+- [Flipping Physics](https://www.youtube.com/@FlippingPhysics)
 - [PhET](https://phet.colorado.edu/)
 - [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
 - [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
