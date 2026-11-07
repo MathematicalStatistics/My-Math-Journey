@@ -17,4 +17,5 @@ Some Insight:
 - Probability Theory and MathStats are the foundations for all things data and engineering.
 - AI does well with programming languages with lots of documentation and poor with little.
 - That's why so many new niche topics in STEM are being created.
-- "The universe is mathematically modeled slop w/ an error term afterall (epsilon is the slop term)" 
+- "The universe is mathematically modeled slop w/ an error term afterall (epsilon is the slop term)"
+- Life is more of a numbers game than ever (that's why stats is important)
