@@ -32,7 +32,9 @@
 - [Chemistryball](https://www.reddit.com/r/ChemistryballOfficial/s/vX9HLfYmyR)
   - [Compendium](https://perilouspokey27.github.io/ChemistryBalls-Compendium-/)
 - [NileRed](https://www.youtube.com/@nilered)
+- [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
 - [Synthetic Fuel](https://www.youtube.com/watch?v=jRKbjT8AoJw)
+- [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)
 
 <h1 align="center">Chatbots:</h1>
 
