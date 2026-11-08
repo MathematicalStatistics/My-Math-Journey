@@ -42,6 +42,10 @@
 - [Claude](https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fchats%3F)
 - [Google Gemini](https://gemini.google.com/app) (good w/ Python & R)
 
+<h1 align="center">Computer Engineering:</h1>
+
+- [Kang Shin](https://web.eecs.umich.edu/~kgshin/)
+
 <h1 align="center">Engineering:</h1>
 
 - [Sine Waves](https://mwmeyers03.github.io/)
