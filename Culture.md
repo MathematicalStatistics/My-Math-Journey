@@ -50,6 +50,10 @@ I love how each region has a unique taste in their food. I like the Sichuan regi
 
 <img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/df7e73b5-7987-47fa-a1ff-ad8290611d6b" />
 
+# <h1 align="center">Thai:</h1>
+
+The cuisine is spicy and spicy basil noodles are my favorie.
+
 # <h1 align="center">Uzbek</h1>
 
 A mixture of Russian, Arab, and Chinese influences. [Laghman(لەغمەن)](https://en.wikipedia.org/wiki/Laghman_(food)) is my favorite dish which is noodles served in a wok.
