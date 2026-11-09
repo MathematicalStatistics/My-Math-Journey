@@ -77,6 +77,8 @@
 
 - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) / [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
+- [Electrohydrodynamics](https://en.wikipedia.org/wiki/Electrohydrodynamics)
+
 - [Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
 
 - [Physics Simulations](https://phet.colorado.edu/) (CS + Physics)
