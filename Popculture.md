@@ -30,6 +30,7 @@ People:
 - [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (Philosophy)
 - [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) (Physics)
 - [Ettore Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana) (Physics)
+- [Jack Beda([MathPhys](](https://www.beda.ca/jack/research.html)
 - [Jim Simons](https://en.wikipedia.org/wiki/Jim_Simons) [(solved the market)](https://quartr.com/insights/investment-strategy/jim-simons-the-man-who-solved-the-market)
 - [Gary Stevenson](https://en.wikipedia.org/wiki/Gary_Stevenson_(campaigner)) [(wrote The Trading Game: A Confession)](https://www.amazon.com/dp/B0CBRBVVQR?lv=shuf&channelId=500&plpRedirect=mhFallback)
 
