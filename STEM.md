@@ -33,6 +33,7 @@
   - [Compendium](https://perilouspokey27.github.io/ChemistryBalls-Compendium-/)
 - [NileRed](https://www.youtube.com/@nilered)
 - [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
+- [Synthetic Elements](https://en.wikipedia.org/wiki/Synthetic_element)
 - [Synthetic Fuel](https://www.youtube.com/watch?v=jRKbjT8AoJw)
 - [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)
 
@@ -87,6 +88,7 @@
 
 - [Dan Fullerton](https://www.youtube.com/@DanFullerton)
 - [Flipping Physics](https://www.youtube.com/@FlippingPhysics)
+- [Synthetic Prequantum Field Theory](https://www.youtube.com/watch?v=_O41kh0z_UM)
 - [PhET](https://phet.colorado.edu/)
 - [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
 - [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
