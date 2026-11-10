@@ -77,17 +77,17 @@
 
 - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) / [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
-- [Electrohydrodynamics](https://en.wikipedia.org/wiki/Electrohydrodynamics)
+- [Electrohydrodynamics (EHD)](https://en.wikipedia.org/wiki/Electrohydrodynamics)
 
-- [Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
+- [Magnetohydrodynamics (MHD)](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
 
 - [Physics Simulations](https://phet.colorado.edu/) (CS + Physics)
 
 - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) 
 
-- [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
+- [Quantum Chromodynamics (QCD)](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
 
-- [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
+- [Quantum Electrodynamics (QED)](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
 
 - [Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
