@@ -34,6 +34,7 @@
 
 <h1 align="center">History (General):</h1>
 
+- [AP World: Modern - Freeman-pedia](https://www.freeman-pedia.com/apworldmodern)
 - [History Memes](https://www.reddit.com/r/historymemes/)
 - [Learn to Reason About History](https://standardgalactic.github.io/computation/version-control/git-series-plan.pdf)
 - [Ostrogothic Kingdom](https://en.wikipedia.org/wiki/Ostrogothic_Kingdom)
