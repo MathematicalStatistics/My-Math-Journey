@@ -11,8 +11,10 @@
 - [YouTube Video](https://www.youtube.com/watch?v=TE4eplsFSms) 
 
 - An application of [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics). Could be why Korea is so advanced with AI.
--
+  
 - [Romanizing](https://en.wikipedia.org/wiki/Romanization) the Korean language also gives it many different spellings.
+
+- Each character seems to represent a syllable.
 
 # <h1 align="center">Italian</h1>
 
