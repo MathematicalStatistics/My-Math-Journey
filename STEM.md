@@ -88,10 +88,11 @@
 
 - [Dan Fullerton](https://www.youtube.com/@DanFullerton)
 - [Flipping Physics](https://www.youtube.com/@FlippingPhysics)
-- [Synthetic Prequantum Field Theory](https://www.youtube.com/watch?v=_O41kh0z_UM)
 - [PhET](https://phet.colorado.edu/)
 - [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
 - [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
+- [Supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry)
+- [Synthetic Prequantum Field Theory](https://www.youtube.com/watch?v=_O41kh0z_UM)
 
 <h1 align="center">Proofs:</h1>
 
