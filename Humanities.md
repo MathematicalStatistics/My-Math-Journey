@@ -41,6 +41,7 @@
 <h1 align="center">International Relations:</h1>
 
 - [International Relations](https://en.wikipedia.org/wiki/International_relations)
+- [Martial Law in Korea](https://keia.org/analysis/martial-law-in-south-korea-understanding-the-why/)
 
 <h1 align="center">Languages:</h1>
 
