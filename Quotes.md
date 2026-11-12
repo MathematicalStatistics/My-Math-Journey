@@ -7,8 +7,7 @@ Some Insight:
 
 <h1 align="center">Math & AI:</h1>
 
-- [Shoutout to Dr. Hayford since he nails exactly how I think about AI & math](https://sites.google.com/view/nathanhayford/miscellaneous).
-
+- [Dr. Hayford (Math & AI)](https://sites.google.com/view/nathanhayford/miscellaneous).
 - There's so many cool new applied math topics being created.
 - Math is starting to fuse with so many other subjects, making more interdisciplinary subjects.
 - It's important to specialize early on, and hyper-specialization can wait.
