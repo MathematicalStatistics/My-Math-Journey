@@ -125,16 +125,13 @@
 
 - [XerographicPaper](https://xpaper.neocities.org/)
 
-<h1 align="center">YouTube:</h1>
-
-- [XerographicPaper](https://www.youtube.com/@XerographicPaper)
-- [ThatMathThing](https://www.youtube.com/ThatMathThing)
-
 <h1 align="center">YouTube Channels:</h1>
 
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
 - [Papa Flammy](https://www.youtube.com/c/papaflammy)
+- [ThatMathThing](https://www.youtube.com/ThatMathThing)
 - [Tibees](https://www.youtube.com/@tibees) ([MathPhys](https://www.youtube.com/watch?v=goNv6hRVaLU))
 - [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) (Physics)
+- [XerographicPaper](https://www.youtube.com/@XerographicPaper)
