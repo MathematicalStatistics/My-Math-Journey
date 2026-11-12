@@ -31,10 +31,12 @@
 - [AP Chemistry](https://www.youtube.com/watch?v=wgPt8fP0IKg)
 - [Chemistryball](https://www.reddit.com/r/ChemistryballOfficial/s/vX9HLfYmyR)
   - [Compendium](https://perilouspokey27.github.io/ChemistryBalls-Compendium-/)
+- [Intro to Solid State Chemistry](https://youtube.com/playlist?list=PL3B87AF6948F5E8F9&si=N9NWtit7OIgED_xc)
 - [NileRed](https://www.youtube.com/@nilered)
 - [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
 - [Synthetic Elements](https://en.wikipedia.org/wiki/Synthetic_element)
 - [Synthetic Fuel](https://www.youtube.com/watch?v=jRKbjT8AoJw)
+- [Symmetry, Structure & Tensor Properties of Material](https://youtube.com/playlist?list=PL7E7E396BF006E209&si=Zw9GLp28S63PWiVL)
 - [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)
 
 <h1 align="center">Chatbots:</h1>
@@ -50,6 +52,7 @@
 <h1 align="center">Engineering:</h1>
 
 - [Sine Waves](https://mwmeyers03.github.io/)
+- [Stat Mech](https://youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7&si=4nHi6XMkPC5B90yI)
 
 <h1 align="center">Games:</h1>
 
@@ -59,11 +62,13 @@
 <h1 align="center">Math:</h1>
 
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
+- [Discrete Stochastic Process](https://youtube.com/playlist?list=PLEEF5322B331C1B98&si=cXPtrjPJcgHMADO5)
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Geometry of Distinction](https://standardgalactic.github.io/calculus/geometry-of-distinction.pdf)
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
+- [Probabilistic Systems](https://youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&si=1jcrEt7EsQ0NL8C2)
 - [Tensor Train](https://users.math.msu.edu/users/iwenmark/Teaching/CMSE890/TENSOR_oseledets2011.pdf)
 
 <h1 align="center">Minecraft Math:</h1>
