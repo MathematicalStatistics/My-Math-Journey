@@ -62,13 +62,11 @@
 <h1 align="center">Math:</h1>
 
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
-- [Discrete Stochastic Process](https://youtube.com/playlist?list=PLEEF5322B331C1B98&si=cXPtrjPJcgHMADO5)
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Geometry of Distinction](https://standardgalactic.github.io/calculus/geometry-of-distinction.pdf)
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
-- [Probabilistic Systems](https://youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&si=1jcrEt7EsQ0NL8C2)
 - [Tensor Train](https://users.math.msu.edu/users/iwenmark/Teaching/CMSE890/TENSOR_oseledets2011.pdf)
 
 <h1 align="center">Minecraft Math:</h1>
@@ -109,8 +107,10 @@
 
 <h1 align="center">Statistics:</h1>
 
+- [Discrete Stochastic Process](https://youtube.com/playlist?list=PLEEF5322B331C1B98&si=cXPtrjPJcgHMADO5)
 - [NumerAI](https://numer.ai/) (predicts stock markets)
 - [Statology](https://www.statology.org/)
+- [Probabilistic Systems](https://youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&si=1jcrEt7EsQ0NL8C2)
 
 <h1 align="center">Technology:</h1>
 
