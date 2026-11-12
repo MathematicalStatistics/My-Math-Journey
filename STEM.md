@@ -92,7 +92,9 @@
 <h1 align="center">Physics:</h1>
 
 - [Dan Fullerton](https://www.youtube.com/@DanFullerton)
+- [Electromagnetics & Applications](https://youtube.com/playlist?list=PL502E7BF2CF94D753&si=XoryqvNaa6Iu2b1G)
 - [Flipping Physics](https://www.youtube.com/@FlippingPhysics)
+- [Intro to Quantum Mech II](https://youtube.com/playlist?list=PL958F66FFE4393435&si=23yAzfXISBhx_v6D)
 - [PhET](https://phet.colorado.edu/)
 - [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
 - [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
