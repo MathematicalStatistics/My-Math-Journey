@@ -149,13 +149,13 @@
 - Differential Equations (ODEs) [Fall 2023]
   - [MAP 2302](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114474)
  
-- Digital Identity (Discontinued) [Digital Footprints] {
+- Digital Identity (Discontinued) [Digital Footprints] {Summer 2024}
   - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
  
-- Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra)
+- Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra) [Fall 2021]
   - [MATH07003](https://www.drps.ed.ac.uk/21-22/dpt/cxmath07003.htm)
  
-- Happiness and Well-Being (Social Work Psychology)
+- Happiness and Well-Being (Social Work Psychology) [
   - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
  
 - Introduction to Computers and Computer Programming (Python)
