@@ -22,12 +22,14 @@ Movies:
 - [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) [(Alan Turing)](https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma)
   
 News:
+
 - Aljazera (Arab)
 - DW News (Dutch)
 - NHK World Japan
 - SkyNews (UK / Austrailia)
 
 People:
+
 - [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (Philosophy)
 - [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) (Physics)
 - [Ettore Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana) (Physics)
@@ -36,6 +38,7 @@ People:
 - [Gary Stevenson](https://en.wikipedia.org/wiki/Gary_Stevenson_(campaigner)) [(wrote The Trading Game: A Confession)](https://www.amazon.com/dp/B0CBRBVVQR?lv=shuf&channelId=500&plpRedirect=mhFallback)
 
 Shows:
+
 - [Agent Kim Reactivated](https://en.wikipedia.org/wiki/Agent_Kim_Reactivated) (Kim Bu-Jang is a secret double-agent for North and South Korea)
 - [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror) (Mostly accurate way to predict the future)
 - [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) [Will does a presentation about [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)]
@@ -45,7 +48,8 @@ Shows:
 - [Young Sheldon](https://en.wikipedia.org/wiki/Young_Sheldon) (I feel like the theoretical statistician version of him)
 - [3 Body Problem](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series))
 
-<h1 align="center">YouTube Channels:</h1>
+YouTube Channels:
+
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 - [Anastasia Marchenkova](https://www.youtube.com/@Anastasia-Marchenkova)
 - [Lucy Wang](https://www.youtube.com/@LucyWangYuxin) ([MathStats](https://online.stat.psu.edu/stat415/))
