@@ -44,3 +44,15 @@ Shows:
 - [Vincenzo](https://en.wikipedia.org/wiki/Vincenzo_(TV_series)) (Korean-Italian)
 - [Young Sheldon](https://en.wikipedia.org/wiki/Young_Sheldon) (I feel like the theoretical statistician version of him)
 - [3 Body Problem](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series))
+
+<h1 align="center">YouTube Channels:</h1>
+- [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
+- [Anastasia Marchenkova](https://www.youtube.com/@Anastasia-Marchenkova)
+- [Lucy Wang](https://www.youtube.com/@LucyWangYuxin) ([MathStats](https://online.stat.psu.edu/stat415/))
+- [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
+- [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
+- [Papa Flammy](https://www.youtube.com/c/papaflammy)
+- [ThatMathThing](https://www.youtube.com/ThatMathThing)
+- [Tibees](https://www.youtube.com/@tibees) ([MathPhys](https://www.youtube.com/watch?v=goNv6hRVaLU))
+- [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) (Physics)
+- [XerographicPaper](https://www.youtube.com/@XerographicPaper)
