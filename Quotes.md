@@ -18,3 +18,4 @@ Some Insight:
 - That's why so many new niche topics in STEM are being created.
 - "The universe is mathematically modeled slop w/ an error term afterall (epsilon is the slop term)"
 - Life is more of a numbers game than ever (that's why stats is important)
+- Introverts will rule the world (LinkedIn & GitHub) [Also through writing]
