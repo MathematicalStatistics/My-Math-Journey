@@ -90,12 +90,14 @@
 <h1 align="center">Physics:</h1>
 
 - [Dan Fullerton](https://www.youtube.com/@DanFullerton)
+- [EHD Jet Printing Quantum Dots](https://www.youtube.com/watch?v=QykmjEOcOGY)
 - [Electromagnetics & Applications](https://youtube.com/playlist?list=PL502E7BF2CF94D753&si=XoryqvNaa6Iu2b1G)
 - [Flipping Physics](https://www.youtube.com/@FlippingPhysics)
 - [Intro to Quantum Mech II](https://youtube.com/playlist?list=PL958F66FFE4393435&si=23yAzfXISBhx_v6D)
 - [PhET](https://phet.colorado.edu/)
 - [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
 - [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
+- [Strong-Field Magnetohydrodynamics](https://www.youtube.com/watch?v=PcUWGttYvAw)
 - [Supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry)
 - [Synthetic Prequantum Field Theory](https://www.youtube.com/watch?v=_O41kh0z_UM)
 
