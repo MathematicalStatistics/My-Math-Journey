@@ -15,7 +15,7 @@
 
 - [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
 
-# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics) (Math w/ Computer or Doing Calculations by Hand):
+# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics):
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning Algorithms](https://en.wikipedia.org/wiki/Machine_learning)
 
@@ -28,6 +28,9 @@
 - [Ergodic Process](https://en.wikipedia.org/wiki/Ergodic_process)
 
 - [Formal Logic for Programming](https://en.wikipedia.org/wiki/Logic)
+
+- [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
+  - [Newton's Method](https://en.wikipedia.org/wiki/Newton%27s_method) 
 
 - [Numerical Partial Differential Equations](https://en.wikipedia.org/wiki/Numerical_methods_for_partial_differential_equations)
 
