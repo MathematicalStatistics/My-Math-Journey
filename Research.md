@@ -42,7 +42,7 @@
 
 - [Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
 
-# Mathematical Chemistry (Intersection of Math and Chemistry):
+# [Mathematical Chemistry](https://en.wikipedia.org/wiki/Mathematical_chemistry):
 
 - [Crystallography](https://en.wikipedia.org/wiki/Crystallography) 
 
