@@ -48,7 +48,7 @@
 
 - [Organic Chemistry](https://en.wikipedia.org/wiki/Organic_chemistry) (Want to learn the methodical nomenclature of hexagons)
 
-# Mathematical Economics:
+# [Mathematical Economics](https://en.wikipedia.org/wiki/Mathematical_economics):
 
 - [Actuarial Science](https://en.wikipedia.org/wiki/Actuarial_science) (Property & Casualty)
 
