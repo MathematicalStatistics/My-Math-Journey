@@ -155,47 +155,47 @@
 - Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra) [Fall 2021]
   - [MATH07003](https://www.drps.ed.ac.uk/21-22/dpt/cxmath07003.htm)
  
-- Happiness and Well-Being (Social Work Psychology) [
+- Happiness and Well-Being (Social Work Psychology) [Fall 2023]
   - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
  
-- Introduction to Computers and Computer Programming (Python)
+- Introduction to Computers and Computer Programming (Python) [Spring 2023]
   - [CGS 2060](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
  
-- Introduction to Cryptography and Its Applications (Linux)
+- Introduction to Cryptography and Its Applications (Linux) [Fall 2024]
   - [MAD 2470](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116938)
  
-- Introduction to Linear Algebra (Matrices & Proofs)
+- Introduction to Linear Algebra (Matrices & Proofs) [Fall 2021]
   - [MATH08057](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm)
  
-- Introduction to Mathematical Statistics (MathStats 3)
+- Introduction to Mathematical Statistics (MathStats 3) [Summer 2026]
   - [STAT 415](https://online.stat.psu.edu/stat415/)
  
-- Introduction to Mathematical Statistics 1 & 2 (Stat Theory w/ Calc 3) [Stat Inference]
+- Introduction to Mathematical Statistics 1 (Fall 2024) & 2 {Spring 2025} (Stat Theory w/ Calc 3) [Stat Inference] 
   - [STA 4321](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501), [STA 4322](https://www.coursicle.com/usf/courses/STA/4322/)
  
-- Introduction to Probability Theory (Discrete Math Notation)
+- Introduction to Probability Theory (Discrete Math Notation) [Spring 2024]
   - [STA 4442](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503)
  
-- Introduction to Probability Theory (Probability 2)
+- Introduction to Probability Theory (Probability 2) [Spring 2026]
   - [STAT 414](https://online.stat.psu.edu/stat414/)
  
-- Introductory Statistics 1 & 2 (Algebra-Based)
+- Introductory Statistics 1 (Spring 2023) & 2 [Fall 2023] (Algebra-Based) 
   - [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496), [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497)
  
-- Mathematical Modeling (MathPhys)
+- Mathematical Modeling (MathPhys) [Spring 2024]
   - [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
  
-- Physics 1A: Foundations (Calc-Based Newtonian Mechanics)
+- Physics 1A: Foundations (Calc-Based Newtonian Mechanics) [Spring 2022]
   - [PHYS08016](https://www.drps.ed.ac.uk/21-22/dpt/cxphys08016.htm)
  
-- Programming Concepts (Java)
+- Programming Concepts (Java) [Fall 2024]
   - [COP 2030](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116438)
  
-- Proofs and Problem Solving (Discrete Math)
+- Proofs and Problem Solving (Discrete Math) [Spring 2022]
   - [MATH08059](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm)
  
-- Python for Business Analytics (Regression)
+- Python for Business Analytics (Regression) [Fall 2024]
   - [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878)
  
-- Regression Methods (Minitab)
+- Regression Methods (Minitab) [Fall 2025]
   - [STAT 501](https://online.stat.psu.edu/stat501/)                                          
