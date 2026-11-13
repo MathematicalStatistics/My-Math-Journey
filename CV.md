@@ -107,49 +107,49 @@
 
 # <h1 align="center">Courses:</h1>
 
-- American History II (1877-Present)
+- American History II (1877-Present) [Spring 2024]
   - [AMH 2020](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114299)
 
-- Analysis of Variance and Design of Experiments (SAS)
+- Analysis of Variance and Design of Experiments (SAS) [Spring 2026]
   - [STAT 502](https://online.stat.psu.edu/stat502/)
  
-- Applied Data Mining and Statistical Learning (ML Theory) [R Studio]
+- Applied Data Mining and Statistical Learning (ML Theory) [R Studio] {Fall 2026}
   - [STAT 508](https://online.stat.psu.edu/stat508/)
  
-- Applied Statistics (Minitab)
+- Applied Statistics (Minitab) [Fall 2025)
   - [STA 500](https://online.stat.psu.edu/stat500/)
  
-- Applied Time Series Analysis (Statistical Economics) [R Studio]
+- Applied Time Series Analysis (Statistical Economics) [R Studio] {Fall 2026}
   - [STAT 510](https://online.stat.psu.edu/stat510/)
 
-- Art and Culture (Art History)
+- Art and Culture (Art History) [Spring 2023]
   - [ARH 2000](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116577)
  
-- Calculus 3 (Multi-Variate Calc) + Vector Calculus (Calc 3.5)
+- Calculus 3 (Multi-Variate Calc) [Spring 2023] + Vector Calculus (Calc 3.5) [Fall 2023]
   - [MAC 2313](https://catalog.southflorida.edu/preview_course_nopop.php?catoid=2&coid=1437&print), [MAS 3156](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114479)
  
-- Calculus and its Applications (Calc 1 & 2)
+- Calculus and its Applications (Calc 1 & 2) [Spring 2022]
   - [MATH08058](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08058.htm)
  
-- Climate Studies (Intro Meteorology)
+- Climate Studies (Intro Meteorology) [Spring 2025]
   - [MET 4106C](https://cloud.usf.edu/academic-programs/details/prefix/MET/code/4106C)
  
-- Composition II (Technical Writing)
+- Composition II (Technical Writing) [Spring 2023]
   - [ENC 1102](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202308&subj_code_in=ENC&crse_numb_in=1102)
  
-- Computational Methods for Applied Statistics (R Studio)
+- Computational Methods for Applied Statistics (R Studio) [Spring 2024]
   - [STA 4102](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114499)
  
-- Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint])
+- Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint]) {Spring 2023}
   - [CGS 2100](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
  
-- Cooperative Internship (Global Tech Experience)
+- Cooperative Internship (Global Tech Experience) [Summer 2023]
   - [IDS 3947](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116344)
  
-- Differential Equations (ODEs)
+- Differential Equations (ODEs) [Fall 2023]
   - [MAP 2302](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114474)
  
-- Digital Identity (Discontinued) [Digital Footprints]
+- Digital Identity (Discontinued) [Digital Footprints] {
   - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
  
 - Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra)
