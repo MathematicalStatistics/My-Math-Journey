@@ -19,3 +19,4 @@ Some Insight:
 - "The universe is mathematically modeled slop w/ an error term afterall (epsilon is the slop term)"
 - Life is more of a numbers game than ever (that's why stats is important)
 - Introverts will rule the world (LinkedIn & GitHub) [Also through writing]
+- Math, stats, physics, and engineering are all very in-demand
