@@ -140,7 +140,7 @@ Spring 2023:
 - Calculus 3 (Multi-Variate Calc) 
   - [MAC 2313](https://catalog.southflorida.edu/preview_course_nopop.php?catoid=2&coid=1437&print) 
 
-- Introduction to Mathematical Statistics 1
+- Introductory Statistics 1
   - [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496)
  
 Summer 2023:
@@ -158,9 +158,34 @@ Fall 2023:
  
 - Vector Calculus (Calc 3.5) 
   - [MAS 3156](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114479)
+ 
+- Introductory Statistics 2
+  - [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497)
+
+Spring 2024:
 
 - American History II (1877-Present) 
   - [AMH 2020](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114299)
+
+- Mathematical Modeling (MathPhys)
+  - [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
+ 
+ - Computational Methods for Applied Statistics (R Studio) 
+  - [STA 4102](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114499)
+
+- Introduction to Probability Theory (Discrete Math Notation) 
+  - [STA 4442](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503)
+
+ Summer 2024:
+
+ - Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint]) 
+  - [CGS 2100](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
+
+  - Digital Identity (Discontinued) [Digital Footprints] 
+    - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
+
+
+
 
 - Analysis of Variance and Design of Experiments (SAS) 
   - [STAT 502](https://online.stat.psu.edu/stat502/)
@@ -184,18 +209,15 @@ Fall 2023:
  
 
  
-- Computational Methods for Applied Statistics (R Studio) 
-  - [STA 4102](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114499)
+
  
-- Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint]) 
-  - [CGS 2100](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
+
  
 
  
 
  
-- Digital Identity (Discontinued) [Digital Footprints] 
-  - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
+
  
 - Happiness and Well-Being (Social Work Psychology) 
   - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
@@ -213,18 +235,11 @@ Fall 2023:
      2 {Spring 2025} (Stat Theory w/ Calc 3) [Stat Inference] 
   - [STA 4321](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501), [STA 4322](https://www.coursicle.com/usf/courses/STA/4322/)
  
-- Introduction to Probability Theory (Discrete Math Notation) 
-  - [STA 4442](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503)
+
  
 - Introduction to Probability Theory (Probability 2) 
   - [STAT 414](https://online.stat.psu.edu/stat414/)
  
-- Introductory Statistics 1 (Spring 2023) & 2 [Fall 2023] (Algebra-Based) 
-  - , [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497)
- 
-
- 
-
  
 - Programming Concepts (Java) [Fall 2024]
   - [COP 2030](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116438)
