@@ -152,12 +152,12 @@ Fall 2023:
 
 - Differential Equations (ODEs) 
   - [MAP 2302](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114474)
-
-- Mathematical Modeling (MathPhys)
-  - [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
  
 - Vector Calculus (Calc 3.5) 
   - [MAS 3156](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114479)
+
+- Happiness and Well-Being (Social Work Psychology) 
+  - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
  
 - Introductory Statistics 2
   - [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497)
@@ -184,70 +184,53 @@ Spring 2024:
   - Digital Identity (Discontinued) [Digital Footprints] 
     - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
 
+Fall 2024:
 
+- Programming Concepts (Java) 
+  - [COP 2030](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116438)
 
+- Python for Business Analytics (Regression) [Fall 2024]
+  - [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878)
 
-- Analysis of Variance and Design of Experiments (SAS) 
-  - [STAT 502](https://online.stat.psu.edu/stat502/)
- 
-- Applied Data Mining and Statistical Learning (ML Theory) [R Studio] 
-  - [STAT 508](https://online.stat.psu.edu/stat508/)
- 
-- Applied Statistics (Minitab) 
-  - [STA 500](https://online.stat.psu.edu/stat500/)
- 
-- Applied Time Series Analysis (Statistical Economics) [R Studio] 
-  - [STAT 510](https://online.stat.psu.edu/stat510/)
+- Introduction to Cryptography and Its Applications (Linux)
+  - [MAD 2470](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116938)
 
+- Intro to MathStats 1
+  - [STA 4321](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501)
 
- 
-
- 
+Spring 2025:
 
 - Climate Studies (Intro Meteorology) 
   - [MET 4106C](https://cloud.usf.edu/academic-programs/details/prefix/MET/code/4106C)
- 
 
- 
+- Intro to MathStats 2
+  - [STA 4322](https://www.coursicle.com/usf/courses/STA/4322/)
 
- 
+Fall 2025:
 
- 
+- Applied Statistics (Minitab) 
+  - [STA 500](https://online.stat.psu.edu/stat500/)
 
- 
+- Regression Methods (Minitab) [Fall 2025]
+  - [STAT 501](https://online.stat.psu.edu/stat501/)    
 
- 
+Spring 2026:
 
- 
-- Happiness and Well-Being (Social Work Psychology) 
-  - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
- 
+- Introduction to Probability Theory (Probability 2) 
+  - [STAT 414](https://online.stat.psu.edu/stat414/)
 
- 
-- Introduction to Cryptography and Its Applications (Linux)
-  - [MAD 2470](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116938)
- 
+- Analysis of Variance and Design of Experiments (SAS) 
+  - [STAT 502](https://online.stat.psu.edu/stat502/)
 
- 
+Summer 2026:
+
 - Introduction to Mathematical Statistics (MathStats 3) 
   - [STAT 415](https://online.stat.psu.edu/stat415/)
  
-     2 {Spring 2025} (Stat Theory w/ Calc 3) [Stat Inference] 
-  - [STA 4321](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501), [STA 4322](https://www.coursicle.com/usf/courses/STA/4322/)
+Fall 2026
  
-
- 
-- Introduction to Probability Theory (Probability 2) 
-  - [STAT 414](https://online.stat.psu.edu/stat414/)
- 
- 
-- Programming Concepts (Java) [Fall 2024]
-  - [COP 2030](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116438)
- 
-
- 
-- Python for Business Analytics (Regression) [Fall 2024]
-  - [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878)
- 
-- Regression Methods (Minitab) [Fall 2025]
-  - [STAT 501](https://online.stat.psu.edu/stat501/)                                          
+- Applied Data Mining and Statistical Learning (ML Theory) [R Studio] 
+  - [STAT 508](https://online.stat.psu.edu/stat508/)
+  
+- Applied Time Series Analysis (Statistical Economics) [R Studio] 
+  - [STAT 510](https://online.stat.psu.edu/stat510/)
