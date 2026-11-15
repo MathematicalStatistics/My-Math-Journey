@@ -1,6 +1,5 @@
-Some Insight:
+<h1 align="center">Quotes:</h1>
 
-- Interdisciplinary math and other subjects are becoming more popular.
 - MathStats is one of the best subjects to study.
 - It's important to study what you love in this day and age.
 - Theory or practical trades are good to study nowadays.
