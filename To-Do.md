@@ -3,6 +3,8 @@
 - Add multi-factor authentications and finger prints.
 - Become a Joseon Scholar [(선비)](https://en.wikipedia.org/wiki/Seonbi).
 - Keep things as academic as possible (also remove controversial topics if necessary)
+- Learn Korean on [Duolingo](https://www.duolingo.com/)
+  - There's also chess, math, and music. 
 - Need to make my passwords super complex (worried AI might hack my accounts).
 - Speed through actuarial exams after master's.
 - Polymath ([선비](https://en.wikipedia.org/wiki/Seonbi)) Tutoring
