@@ -85,3 +85,5 @@ Has both European and Asian influences in their food. Ceviche is the Peruvian ve
 # <h1 align="center">Italian:</h1>
 
 Italian cuisine is simple but it also has a very clean taste. Spaghetti alle vongole (clam pasta) is my personal favorite.
+
+# <h1 align="center">Countries I've been to:</h1>
