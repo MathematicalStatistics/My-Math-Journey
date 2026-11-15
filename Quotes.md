@@ -6,14 +6,17 @@
 - Introverts will rule the world (LinkedIn & GitHub) [Also through writing]
 - It's important to study what you love in this day and age.
 - It's important to specialize early on, and hyper-specialization can wait.
-- Theory or practical trades are good to study nowadays.
-
-- There's so many cool new applied math topics being created.
-- Math is starting to fuse with so many other subjects, making more interdisciplinary subjects.
-
 - Make sure to study what you're passionate about since AI doesn't know empathy or creativity.
+- Math is starting to fuse with so many other subjects, making more interdisciplinary subjects.
 - MathStats is one of the best subjects to study.
 - Probability Theory and MathStats are the foundations for all things data and engineering.
+- Theory or practical trades are good to study nowadays.
+- There's so many cool new applied math topics being created.
+
+
+
+
+
 
 - That's why so many new niche topics in STEM are being created.
 - "The universe is mathematically modeled slop w/ an error term afterall (epsilon is the slop term)"
