@@ -63,15 +63,9 @@ Addon repositories:
 
 - [123Tech](https://github.com/CallmeSHaobe/123Technology)
 
-GATA GoG:
-
 [GATA GoG](https://www.youtube.com/watch?v=73hHuJtMAD4)
 
-10k EoH:
-
 [10k EoH](https://www.youtube.com/live/RW-RjN9Ya30?si=xRXPNmzVnZPzaYGw)
-
-Chemical Engineer:
 
 [Chemical Engineer](https://www.youtube.com/@Aspectsounds/featured)
 
