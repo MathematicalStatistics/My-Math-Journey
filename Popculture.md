@@ -6,7 +6,7 @@ Books:
 - [Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) (I feel similar to Holden Caulfield since I isolated myself from society by studying math for this long)
 - [Fermat Kitchen](https://en.wikipedia.org/wiki/Fermat_Kitchen) (Gaku quits studying math to become a cook)
 - [Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) (feels like the repository I made)
-- [One Piece](https://en.wikipedia.org/wiki/One_Piece) [Monkey D. Luffy](https://en.wikipedia.org/wiki/Monkey_D._Luffy) (good way to introduce yourself)
+- [One Piece](https://en.wikipedia.org/wiki/One_Piece) ([Monkey D. Luffy](https://en.wikipedia.org/wiki/Monkey_D._Luffy)) (good way to introduce yourself)
 - [Manga Guide](https://en.wikipedia.org/wiki/The_Manga_Guides) to [Insert Topic] (Can help people learn various topics)
 - [Plastic: a Toxic Love Story](https://books.google.com/books/about/Plastic.html?id=9LyGHqqIKT4C) (talks about how microplastics cause hormone imbalance)
 - [The Biggest Bluff](https://en.wikipedia.org/wiki/The_Biggest_Bluff) (Psychology behind poker as well as [probability theory](https://en.wikipedia.org/wiki/Probability_theory))
