@@ -2,6 +2,11 @@
 
 - Add multi-factor authentications and finger prints.
 - Become a Joseon Scholar [(선비)](https://en.wikipedia.org/wiki/Seonbi).
+- Do these Duolingo courses:
+  - Languages:
+    - Korean, Italian, and Russian.
+  - Misc:
+    - Math, music, and chess.    
 - Keep things as academic as possible (also remove controversial topics if necessary)
 - Learn Korean on [Duolingo](https://www.duolingo.com/)
   - There's also chess, math, and music. 
