@@ -23,10 +23,10 @@ Movies:
   
 News:
 
-- Aljazera (Arab)
-- DW News (Dutch)
-- NHK World Japan
-- SkyNews (UK / Austrailia)
+- [Aljazera](https://www.aljazeera.com/) (Arab)
+- [DW News](https://en.wikipedia.org/wiki/DW_News) (Dutch)
+- [NHK World Japan](https://en.wikipedia.org/wiki/NHK_World-Japan)
+- [Sky News](https://en.wikipedia.org/wiki/Sky_News) (UK / Austrailia)
 
 People:
 
