@@ -70,7 +70,7 @@
 # <h1 align="center">Technical Skills</h1>
 - (Applied / Computational) [Math / Stats]
 - (Inductive / Deductive) Reasoning
-- Mathematical Engineering
+- [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering)
 - Microsoft (Word, Excel, and Powerpoint)
 - [Probability Theory](https://online.stat.psu.edu/stat414/) & [MathStats](https://online.stat.psu.edu/stat415/)
 - Results-Driven
