@@ -53,6 +53,7 @@ YouTube Channels:
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 - [Anastasia Marchenkova](https://www.youtube.com/@Anastasia-Marchenkova) (Quantum Physics)
 - [blackpenredpen](https://www.youtube.com/@blackpenredpen) (crazy calc videos)
+- [Dan Fullerton](https://www.youtube.com/@DanFullerton) (AP Physics)
 - [Lucy Wang](https://www.youtube.com/@LucyWangYuxin) ([MathStats](https://online.stat.psu.edu/stat415/))
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
