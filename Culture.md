@@ -89,7 +89,7 @@ Italian cuisine is simple but it also has a very clean taste. Spaghetti alle von
 # <h1 align="center">Countries I've been to:</h1>
 
 - Canada
-  - Toronto 
+  - Vancouver 
 
 - France
   - Nice 
