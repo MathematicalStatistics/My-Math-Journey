@@ -5,7 +5,7 @@
 - [Dr. Hayford (Math & AI)](https://sites.google.com/view/nathanhayford/miscellaneous).
 - Introverts will rule the world (LinkedIn & GitHub) [Also through writing]
 - It's important to study what you love in this day and age.
-- It's important to specialize early on, and hyper-specialization can wait.
+  - You can specialize early on, and hyper-specialization can wait.
 - Life is more of a numbers game than ever (that's why stats is important)
 - Make sure to study what you're passionate about since AI doesn't know empathy or creativity (you also need to know what kind of prompts to ask AI).
 - Math is starting to fuse with so many other subjects, making more interdisciplinary subjects.
