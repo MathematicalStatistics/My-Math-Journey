@@ -30,6 +30,7 @@
 # <h1 align="center">Projects</h1>
 
 - [My Math Journey](https://github.com/MathematicalStatistics/My-Math-Journey/tree/main) (Oct 2026 - Present)
+- [YouTube Channel](https://www.youtube.com/@MathMageStatsSorcerer) (Sept 2026 - Present)
 - Microblocks (Jan 2024 - May 2025)
 - APSCP Snap! Portfolio (Aug 2019 - May 2020)
 
