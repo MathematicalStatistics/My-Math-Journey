@@ -4,6 +4,7 @@
 - AI doesn't know empathy or creativity (you also need to know what kind of prompts to ask AI).
 - AI fuses articles together and it's important to judge whether or not it is correct.
 - [Dr. Hayford (Math & AI)](https://sites.google.com/view/nathanhayford/miscellaneous).
+- Everything seems to be a hyperlink now thanks to information on the internet.
 - Introverts will rule the world (LinkedIn & GitHub) [Also through writing]
 - It's important to study what you love in this day and age.
   - You can specialize early on, and hyper-specialization can wait.
