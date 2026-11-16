@@ -22,7 +22,6 @@
 <h1 align="center">Calculus:</h1>
 
 - [MathWithMrWood](https://sites.google.com/view/mathwithmrwood/ap-calculus)
-- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
 - [Real Analysis](https://sciences.ucf.edu/math/mikusinski/real-analysis-resources/)
 
 <h1 align="center">Chemistry:</h1>
