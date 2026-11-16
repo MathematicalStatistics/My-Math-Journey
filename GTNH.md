@@ -63,19 +63,15 @@ Addon repositories:
 
 - [123Tech](https://github.com/CallmeSHaobe/123Technology)
 
-[GATA GoG](https://www.youtube.com/watch?v=73hHuJtMAD4)
+[GATA GoG (Cat's Cozy Games)](https://www.youtube.com/watch?v=73hHuJtMAD4)
 
-[10k EoH](https://www.youtube.com/live/RW-RjN9Ya30?si=xRXPNmzVnZPzaYGw)
+[10k EoH (Soycake)](https://www.youtube.com/live/RW-RjN9Ya30?si=xRXPNmzVnZPzaYGw)
 
-[Chemical Engineer](https://www.youtube.com/@Aspectsounds/featured)
+[Chemical Engineer (AspectSounds)](https://www.youtube.com/@Aspectsounds/featured)
 
-Feels like my repo:
+[Neurotic Goose (videos are like my repo)](https://www.youtube.com/@NeuroticGoose/videos)
 
-[Neurotic Goose](https://www.youtube.com/@NeuroticGoose/videos)
-
-3 time stargate:
-
-[Average Gregtech Player](https://www.youtube.com/@averagegregtechplayer)
+[Average Gregtech Player (3 time stargate)](https://www.youtube.com/@averagegregtechplayer)
 
 # Game Dev:
 
