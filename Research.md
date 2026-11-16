@@ -67,7 +67,7 @@
 
 - [Time Series Forecasting](https://en.wikipedia.org/wiki/Time_series) (for stock markets)
 
-# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering) (Engineering and Math):
+# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering):
 
 - [Control Theory](https://en.wikipedia.org/wiki/Control_theory) and [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) (EE-Adjacent)
 
@@ -79,7 +79,7 @@
 
 - [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering) (Given the answer then work it backwards)
 
-# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be) (Intersection of Math and Physics):
+# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be):
 
 - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) / [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
@@ -111,7 +111,7 @@
 
 # [Meteorology](https://en.wikipedia.org/wiki/Meteorology) ([Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics))
 
-# [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
+# [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics):
 
 - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 
