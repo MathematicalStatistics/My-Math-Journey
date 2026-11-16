@@ -89,7 +89,6 @@
 
 <h1 align="center">Physics:</h1>
 
-- [Dan Fullerton](https://www.youtube.com/@DanFullerton)
 - [EHD Jet Printing Quantum Dots](https://www.youtube.com/watch?v=QykmjEOcOGY)
 - [Electromagnetics & Applications](https://youtube.com/playlist?list=PL502E7BF2CF94D753&si=XoryqvNaa6Iu2b1G)
 - [Flipping Physics](https://www.youtube.com/@FlippingPhysics)
