@@ -2,7 +2,9 @@
 
 <h1 align="center">Math from scratch:</h1>
 
-- [Khan Academy](https://www.khanacademy.org/) (from counting all the way to calc 3 / diff eq / linear algebra) [there's many other subjects too, not just math]
+- [Khan Academy](https://www.khanacademy.org/)
+  - From counting all the way to calc 3 / diff eq / linear algebra
+  - there's many other subjects too, not just math
 
 <h1 align="center">Astronomy:</h1>
 
