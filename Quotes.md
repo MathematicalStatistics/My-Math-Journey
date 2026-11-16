@@ -15,4 +15,4 @@
 - Theory or practical trades are good to study nowadays.
 - There's so many cool new applied math topics being created.
 - That's why so many new niche topics in STEM are being created.
-- "The universe is mathematically modeled slop w/ an error term afterall ([epsilon](https://en.wikipedia.org/wiki/Epsilon) is the slop term)."
+- "The universe is mathematically modeled slop w/ an error term afterall ([epsilon](https://en.wikipedia.org/wiki/Epsilon) is the slop term)"
