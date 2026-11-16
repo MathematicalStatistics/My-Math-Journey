@@ -1,4 +1,7 @@
 # My Research Interests Include the Following:
+
+# Mathematical [Insert Subject] Means You Use Calculus Methods to Derive Equations
+
 # [Applied Math](https://en.wikipedia.org/wiki/Applied_mathematics) (Math Applied to Other Subjects) [Misc]:
 
 - [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
