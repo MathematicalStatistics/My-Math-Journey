@@ -58,6 +58,7 @@ YouTube Channels:
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
 - [Papa Flammy](https://www.youtube.com/c/papaflammy)
+- [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
 - [ThatMathThing](https://www.youtube.com/ThatMathThing)
 - [Tibees](https://www.youtube.com/@tibees) ([MathPhys](https://www.youtube.com/watch?v=goNv6hRVaLU))
