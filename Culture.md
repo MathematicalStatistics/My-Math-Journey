@@ -70,6 +70,10 @@ I love all the spices that are put in the food. It has great flavor and also tas
 
 <img width="2560" height="1721" alt="image" src="https://github.com/user-attachments/assets/fba6aae3-a143-466e-b8f5-e1165bf19ac0" />
 
+# <h1 align="center">Vietnamese</h1>
+
+Bánh Mì is my favorite.
+
 # <h1 align="center">Arabic</h1>
 
 Tastes similar to Indian cuisine but a lot less spicy. Mixed grill has a good variety of meat.
