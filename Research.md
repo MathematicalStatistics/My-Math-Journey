@@ -8,7 +8,8 @@
 
 - [Complex Analysis](https://www.youtube.com/playlist?list=PLDcSwjT2BF_UDdkQ3KQjX5SRQ2DLLwv0R) (Calculus with Imaginary Numbers)
 
-- [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model) [(Perturbation Theory)](https://en.wikipedia.org/wiki/Perturbation_theory)
+- [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model)
+  - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 
 # [Bio Math](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology): 
 
