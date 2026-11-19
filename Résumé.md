@@ -23,7 +23,7 @@
 
       Took through the IDS 3947 course at USF.
 
-        - This internship was useful since I learned about new advanced Excel techniques like ANOVA.
+        - This internship was useful since I learned about new advanced Excel techniques like [ANOVA](https://en.wikipedia.org/wiki/Analysis_of_variance).
 
         - I didn’t know about Tableau prior to this.
 
