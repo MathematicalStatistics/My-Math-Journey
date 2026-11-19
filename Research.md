@@ -97,7 +97,7 @@
 
 - [Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
-# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (Intersection of Math and Statistics):
+# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics):
 
 - [Algebraic Statistics](https://en.wikipedia.org/wiki/Dynamical_system) (Abstract Algebra applied to Stats)
 
