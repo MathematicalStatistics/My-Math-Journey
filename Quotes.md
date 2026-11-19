@@ -8,6 +8,8 @@
 - Introverts will rule the world (LinkedIn & GitHub) [Also through writing]
 - It's important to study what you love in this day and age.
   - You can specialize early on, and hyper-specialization can wait.
+- Ghosting is a form of [quantum tunneling](https://en.wikipedia.org/wiki/Quantum_tunnelling)
+  - You can check to see if people update their info based on the hyperlinks you send.   
 - Life is more of a numbers game than ever (that's why stats is important)
 - Math is starting to fuse with so many other subjects, making more interdisciplinary subjects.
 - Math, stats, physics, and engineering are all very in-demand
