@@ -50,16 +50,23 @@ Shows:
 
 YouTube Channels:
 
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown) (Visual Math)
+- [Amoeba Sisters](https://www.youtube.com/c/AmoebaSisters) (Bio)
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 - [Anastasia Marchenkova](https://www.youtube.com/@Anastasia-Marchenkova) (Quantum Physics)
 - [blackpenredpen](https://www.youtube.com/@blackpenredpen) (crazy calc videos)
 - [Dan Fullerton](https://www.youtube.com/@DanFullerton) (AP Physics)
+- [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch) (Math & Minecraft)
+- [Flipping Physics](https://www.youtube.com/@FlippingPhysics) (AP Physics)
 - [Lucy Wang](https://www.youtube.com/@LucyWangYuxin) ([MathStats](https://online.stat.psu.edu/stat415/))
+- [NileRed](https://www.youtube.com/@nilered) (Chem)
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
 - [Papa Flammy](https://www.youtube.com/c/papaflammy)
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
 - [ThatMathThing](https://www.youtube.com/ThatMathThing)
+- [Terence Tao](https://www.youtube.com/@TerenceTao27) (AI Proofs)
+- [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)
 - [Tibees](https://www.youtube.com/@tibees) ([MathPhys](https://www.youtube.com/watch?v=goNv6hRVaLU))
 - [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) (Physics)
 - [XerographicPaper](https://www.youtube.com/@XerographicPaper)
