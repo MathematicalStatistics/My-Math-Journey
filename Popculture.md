@@ -58,6 +58,7 @@ YouTube Channels:
 - [Dan Fullerton](https://www.youtube.com/@DanFullerton) (AP Physics)
 - [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch) (Math & Minecraft)
 - [Flipping Physics](https://www.youtube.com/@FlippingPhysics) (AP Physics)
+- [Jacob Clifford](https://www.youtube.com/@jacobaclifford) (Econ)
 - [Lucy Wang](https://www.youtube.com/@LucyWangYuxin) ([MathStats](https://online.stat.psu.edu/stat415/))
 - [NileRed](https://www.youtube.com/@nilered) (Chem)
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
