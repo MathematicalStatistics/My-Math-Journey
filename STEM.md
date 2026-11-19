@@ -12,7 +12,6 @@
 
 <h1 align="center">Biology:</h1>
 
-- [Amoeba Sisters](https://www.youtube.com/c/AmoebaSisters)
 - [Biocomputers](https://youtu.be/HCtwZoJ6_dw?si=cp-eAACBlgtrHGhF)
 
 <h1 align="center">Calculators:</h1>
@@ -33,11 +32,9 @@
   - [Compendium](https://perilouspokey27.github.io/ChemistryBalls-Compendium-/)
 - [Intro to Solid State Chemistry](https://youtube.com/playlist?list=PL3B87AF6948F5E8F9&si=N9NWtit7OIgED_xc)
 - [High-Entropy Alloy](https://en.wikipedia.org/wiki/High-entropy_alloy)
-- [NileRed](https://www.youtube.com/@nilered)
 - [Synthetic Elements](https://en.wikipedia.org/wiki/Synthetic_element)
 - [Synthetic Fuel](https://www.youtube.com/watch?v=jRKbjT8AoJw)
 - [Symmetry, Structure & Tensor Properties of Material](https://youtube.com/playlist?list=PL7E7E396BF006E209&si=Zw9GLp28S63PWiVL)
-- [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)
 
 <h1 align="center">Chatbots:</h1>
 
@@ -69,10 +66,6 @@
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
 - [Tensor Train](https://users.math.msu.edu/users/iwenmark/Teaching/CMSE890/TENSOR_oseledets2011.pdf)
 
-<h1 align="center">Minecraft Math:</h1>
-
-- [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch)
-
 <h1 align="center">Nomenclature Patterns:</h1>
 
 - [Metric Prefix](https://en.wikipedia.org/wiki/Metric_prefix)
@@ -91,7 +84,6 @@
 
 - [EHD Jet Printing Quantum Dots](https://www.youtube.com/watch?v=QykmjEOcOGY)
 - [Electromagnetics & Applications](https://youtube.com/playlist?list=PL502E7BF2CF94D753&si=XoryqvNaa6Iu2b1G)
-- [Flipping Physics](https://www.youtube.com/@FlippingPhysics)
 - [Intro to Quantum Mech II](https://youtube.com/playlist?list=PL958F66FFE4393435&si=23yAzfXISBhx_v6D)
 - [PhET](https://phet.colorado.edu/)
 - [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
@@ -104,7 +96,6 @@
 
 - [How to Prove It](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf)
 - [Proof without words](https://en.wikipedia.org/wiki/Proof_without_words) (visual proofs)
-- [Terence Tao](https://www.youtube.com/@TerenceTao27) (uses AI for proofs, really cool)
 
 <h1 align="center">Statistics:</h1>
 
@@ -117,10 +108,6 @@
 
 - [Digital Analog Clock](https://standardgalactic.github.io/dactyl-clock.html)
 - [Digital Oscilloscope](https://standardgalactic.github.io/alphabet/research/oscilloscope.html)
-
-<h1 align="center">Visual Math:</h1>
-
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 <h1 align="center">Websites:</h1>
 
