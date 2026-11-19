@@ -9,15 +9,15 @@
 
 # <h1 align="center">Experience</h1>
 
-- Excel and Tableau Trainee - The Global Tech Experience (May 2023 - Jul 2023) 
+- [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) and [Tableau](https://en.wikipedia.org/wiki/Tableau_Software) Trainee - The Global Tech Experience (May 2023 - Jul 2023) 
 
     This internship was 10 weeks long.
 
-  - Excel (5 weeks):
+  - [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) (5 weeks):
     
       Xlookup, A/B (hypothesis) testing, data cleaning.
 
-  - Tableau (5 weeks):
+  - [Tableau](https://en.wikipedia.org/wiki/Tableau_Software) (5 weeks):
     
       Dashboard creation (drag and drop).
 
