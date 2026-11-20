@@ -3,6 +3,9 @@
 - AI does well with programming languages with lots of documentation and poor with little.
 - AI doesn't know empathy or creativity (you also need to know what kind of prompts to ask AI).
 - AI fuses articles together and it's important to judge whether or not it is correct.
+- Don't rush through math courses.
+  - It's how you burnout.
+  - Take your time and learn the foundations well.
 - [Dr. Hayford (Math & AI)](https://sites.google.com/view/nathanhayford/miscellaneous).
 - Everything seems to be a hyperlink now thanks to information on the internet.
 - Introverts will rule the world (LinkedIn & GitHub) [Also through writing]
