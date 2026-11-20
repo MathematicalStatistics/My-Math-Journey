@@ -66,6 +66,7 @@
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Geometry of Distinction](https://standardgalactic.github.io/calculus/geometry-of-distinction.pdf)
+- [High-Temperature Probability Theory](https://youtu.be/FAKWX-jVys0?si=p8vPqrNEUtw-dhqL)
 - [Knots and 4-Manifolds](https://youtu.be/gLRh05OeZPw?si=Vvo9Om66XF7gOIx3)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
