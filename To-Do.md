@@ -11,6 +11,7 @@
 - Learn Korean on [Duolingo](https://www.duolingo.com/)
   - There's also chess, math, and music. 
 - Need to make my passwords super complex (worried AI might hack my accounts).
+- [Seoul National University](https://en.snu.ac.kr/academics/programs/undergraduate#n)
 - Speed through actuarial exams after master's.
 - Polymath ([선비](https://en.wikipedia.org/wiki/Seonbi)) Tutoring
 - [Torino Polytechnic](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning) (has some really cool programs) [I realized I did a mathematical engineering degree more or less] {do the lifelong learning program at some point?}.
