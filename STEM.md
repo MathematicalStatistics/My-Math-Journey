@@ -66,11 +66,9 @@
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Geometry of Distinction](https://standardgalactic.github.io/calculus/geometry-of-distinction.pdf)
-- [High-Temperature Probability Theory](https://youtu.be/FAKWX-jVys0?si=p8vPqrNEUtw-dhqL)
 - [Knots and 4-Manifolds](https://youtu.be/gLRh05OeZPw?si=Vvo9Om66XF7gOIx3)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
-- [SDEs & PDEs](https://youtu.be/vpRMzpTs0kk?si=83ToGGHod0MuLf90)
 - [Tensor Train](https://users.math.msu.edu/users/iwenmark/Teaching/CMSE890/TENSOR_oseledets2011.pdf)
 
 <h1 align="center">Nomenclature Patterns:</h1>
@@ -107,7 +105,9 @@
 <h1 align="center">Statistics:</h1>
 
 - [Discrete Stochastic Process](https://youtube.com/playlist?list=PLEEF5322B331C1B98&si=cXPtrjPJcgHMADO5)
+- [High-Temperature Probability Theory](https://youtu.be/FAKWX-jVys0?si=p8vPqrNEUtw-dhqL)
 - [NumerAI](https://numer.ai/) (predicts stock markets)
+- [SDEs & PDEs](https://youtu.be/vpRMzpTs0kk?si=83ToGGHod0MuLf90)
 - [Statology](https://www.statology.org/)
 - [Probabilistic Systems](https://youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&si=1jcrEt7EsQ0NL8C2)
 
