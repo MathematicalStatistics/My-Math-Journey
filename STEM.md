@@ -62,10 +62,11 @@
 
 <h1 align="center">Math:</h1>
 
+- [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Geometry of Distinction](https://standardgalactic.github.io/calculus/geometry-of-distinction.pdf)
-- [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
+- [Knots and 4-Manifolds](https://youtu.be/gLRh05OeZPw?si=Vvo9Om66XF7gOIx3)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
 - [Tensor Train](https://users.math.msu.edu/users/iwenmark/Teaching/CMSE890/TENSOR_oseledets2011.pdf)
