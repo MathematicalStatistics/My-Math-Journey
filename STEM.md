@@ -62,6 +62,7 @@
 
 <h1 align="center">Math:</h1>
 
+- [Algebraic Combinatorics & Geometry](https://youtu.be/kAqAV4vKGTQ?si=j0pJgflCAu837Ch8)
 - [Cognitive Topology](https://standardgalactic.github.io/spherepop/dynamics/Cognitive_Topology.pdf)
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
