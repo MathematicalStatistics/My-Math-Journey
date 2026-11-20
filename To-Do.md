@@ -7,9 +7,7 @@
     - Korean, Italian, and Russian.
   - Misc:
     - Math, music, and chess.    
-- Keep things as academic as possible (also remove controversial topics if necessary)
-- Learn Korean on [Duolingo](https://www.duolingo.com/)
-  - There's also chess, math, and music. 
+- Keep things as academic as possible (also remove controversial topics if necessary) 
 - Need to make my passwords super complex (worried AI might hack my accounts).
 - [Seoul National University](https://en.snu.ac.kr/academics/programs/undergraduate#n)
 - Speed through actuarial exams after master's.
