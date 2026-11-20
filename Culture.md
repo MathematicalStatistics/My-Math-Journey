@@ -38,7 +38,9 @@ Rough Translation:
 
 [Algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology), [algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology), [algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology) is a branch of math that applies instruments of [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra) that studies [topological spaces](https://en.wikipedia.org/wiki/Topological_space). There are two principal areas of [unintelligible translation error (I can’t figure it out)]. Or more generally, the theory of [homeopathy](https://en.wikipedia.org/wiki/Homeopathy) or use the [homologous group](https://en.wikipedia.org/wiki/Homologous_series). And [Cohomology](https://en.wikipedia.org/wiki/Cohomology). Before starting [algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology), [proetio spazio?]. [Klein flask](https://en.wikipedia.org/wiki/Klein_bottle). [Nastro ???]
 
-I tried my best (also I think the AI hallucinated when trying to translate it).
+AI hallucinated for sure.
+
+I did my best translating it.
 
 # International Cuisine:
 
