@@ -4,7 +4,7 @@
 
 - [Khan Academy](https://www.khanacademy.org/)
   - From counting all the way to calc 3 / diff eq / linear algebra
-  - there's many other subjects too, not just math
+  - There's many other subjects too, not just math
 
 <h1 align="center">Astronomy:</h1>
 
