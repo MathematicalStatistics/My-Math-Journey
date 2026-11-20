@@ -69,6 +69,7 @@
 - [Knots and 4-Manifolds](https://youtu.be/gLRh05OeZPw?si=Vvo9Om66XF7gOIx3)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
+- [SDEs & PDEs](https://youtu.be/vpRMzpTs0kk?si=83ToGGHod0MuLf90)
 - [Tensor Train](https://users.math.msu.edu/users/iwenmark/Teaching/CMSE890/TENSOR_oseledets2011.pdf)
 
 <h1 align="center">Nomenclature Patterns:</h1>
