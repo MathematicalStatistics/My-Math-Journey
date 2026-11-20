@@ -15,7 +15,6 @@ Books:
 Movies:
 
 - [Barbie](https://en.wikipedia.org/wiki/Barbie) (Gender differences)
-- [Beef](https://en.wikipedia.org/wiki/Beef_(TV_series)) (Korean culture)
 - [Good Will Hunting](https://en.wikipedia.org/wiki/Good_Will_Hunting) ([polymath](https://en.wikipedia.org/wiki/Polymath) who wants to learn organic chemistry) [[Srinivasa Ramanujan:](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) the guy who dreamed math]
 - [M3GAN](https://en.wikipedia.org/wiki/M3GAN) (When AI goes rogue)
 - [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film)) (Theory can only get you so far [I realized this after taking 3 courses in [MathStats](https://online.stat.psu.edu/stat415/)])
@@ -40,6 +39,7 @@ People:
 Shows:
 
 - [Agent Kim Reactivated](https://en.wikipedia.org/wiki/Agent_Kim_Reactivated) (Kim Bu-Jang is a secret double-agent for North and South Korea)
+- [Beef](https://en.wikipedia.org/wiki/Beef_(TV_series)) (Korean culture)
 - [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror) (Mostly accurate way to predict the future)
 - [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) [Will does a presentation about [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)]
 - [The Queen's Gambit](https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)) (Probability behind chess movements)
