@@ -46,6 +46,10 @@
 
 - [Kang Shin](https://web.eecs.umich.edu/~kgshin/)
 
+<h1 align="center">Economics:</h1>
+
+- [The Math of Insider Trading](https://youtu.be/B14bCtLuJC8?si=WF1lOFavMFmpfyjM)
+
 <h1 align="center">Engineering:</h1>
 
 - [Sine Waves](https://mwmeyers03.github.io/)
