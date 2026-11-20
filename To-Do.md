@@ -10,6 +10,7 @@
 - Keep things as academic as possible (also remove controversial topics if necessary) 
 - Need to make my passwords super complex (worried AI might hack my accounts).
 - [Seoul National University](https://en.snu.ac.kr/academics/programs/undergraduate#n) [(Math)](https://www.math.snu.ac.kr/)
+  - [Videos](https://www.math.snu.ac.kr/bbs/board.php?bo_table=Math_Video) 
 - Speed through actuarial exams after master's.
 - Polymath ([선비](https://en.wikipedia.org/wiki/Seonbi)) Tutoring
 - [Torino Polytechnic](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning) 
