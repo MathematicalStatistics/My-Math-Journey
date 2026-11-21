@@ -66,6 +66,10 @@
 
 - [Religion](https://en.wikipedia.org/wiki/Religion)
 
+<h1 align="center">Traveling:</h1>
+
+- [Every Country in the World Blog](https://onestep4ward.com/my-journey-to-every-country-in-the-world-country-list-and-faq/)
+
 <h1 align="center">Urbanizaton:</h1>
 
 - [Affordable Housing](https://www.chicagotribune.com/2025/04/10/opinion-mobile-homes-threatented-private-equity/?fbclid=IwY2xjawKOFFJleHRuA2FlbQIxMQBicmlkETFkVnRJbTR4MVVzZDBjcU1vAR7YMYKtFSGUlS0xecXRELBMHlL5oJ9a_ygiLYES3-t4UQRs6BXCViNqB01Ujw_aem_NnkZH-gGrSBQyaTsn_s8HA)
