@@ -107,25 +107,98 @@
 
 # <h1 align="center">Courses:</h1>
 
-Fall 2021 (Freshman Undergrad):
-
-- Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra) 
-  - [MATH07003](https://www.drps.ed.ac.uk/21-22/dpt/cxmath07003.htm)
+Fall 2026 (Second-Year Master's):
  
-- Introduction to Linear Algebra (Matrices & Proofs) 
-  - [MATH08057](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm)
+- Applied Data Mining and Statistical Learning (ML Theory) [R Studio] 
+  - [STAT 508](https://online.stat.psu.edu/stat508/)
+  
+- Applied Time Series Analysis (Statistical Economics) [R Studio] 
+  - [STAT 510](https://online.stat.psu.edu/stat510/)
 
-Spring 2022 (Freshman Undergrad):
+Summer 2026 (First-Year Master's):
 
-- Calculus and its Applications (Calc 1 & 2) 
-  - [MATH08058](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08058.htm)
-
-- Proofs and Problem Solving (Discrete Math)
-  - [MATH08059](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm)
+- Introduction to Mathematical Statistics (MathStats 3) 
+  - [STAT 415](https://online.stat.psu.edu/stat415/)
  
-- Physics 1A: Foundations (Calc-Based Newtonian Mechanics) 
-  - [PHYS08016](https://www.drps.ed.ac.uk/21-22/dpt/cxphys08016.htm)
+Spring 2026 (First-Year Master's):
 
+- Introduction to Probability Theory (Probability 2) 
+  - [STAT 414](https://online.stat.psu.edu/stat414/)
+
+- Analysis of Variance and Design of Experiments (SAS) 
+  - [STAT 502](https://online.stat.psu.edu/stat502/)
+ 
+Fall 2025 (First-Year Master's):
+
+- Applied Statistics (Minitab) 
+  - [STA 500](https://online.stat.psu.edu/stat500/)
+
+- Regression Methods (Minitab) [Fall 2025]
+  - [STAT 501](https://online.stat.psu.edu/stat501/)
+ 
+Spring 2025 (Senior Undergrad):
+
+- Climate Studies (Intro Meteorology) 
+  - [MET 4106C](https://cloud.usf.edu/academic-programs/details/prefix/MET/code/4106C)
+
+- Intro to MathStats 2
+  - [STA 4322](https://www.coursicle.com/usf/courses/STA/4322/)
+ 
+Fall 2024 (Senior Undergrad):
+
+- Programming Concepts (Java) 
+  - [COP 2030](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116438)
+
+- Python for Business Analytics (Regression) [Fall 2024]
+  - [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878)
+
+- Introduction to Cryptography and Its Applications (Linux)
+  - [MAD 2470](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116938)
+
+- Intro to MathStats 1
+  - [STA 4321](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501)
+ 
+ Summer 2024 (Junior Undergrad):
+
+ - Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint]) 
+  - [CGS 2100](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
+
+  - Digital Identity (Discontinued) [Digital Footprints] 
+    - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
+   
+Spring 2024 (Junior Undergrad):
+
+- American History II (1877-Present) 
+  - [AMH 2020](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114299)
+
+- Mathematical Modeling (MathPhys)
+  - [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
+ 
+ - Computational Methods for Applied Statistics (R Studio) 
+  - [STA 4102](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114499)
+
+- Introduction to Probability Theory (Discrete Math Notation) 
+  - [STA 4442](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503)
+ 
+Fall 2023 (Junior Undergrad):
+
+- Differential Equations (ODEs) 
+  - [MAP 2302](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114474)
+ 
+- Vector Calculus (Calc 3.5) 
+  - [MAS 3156](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114479)
+
+- Happiness and Well-Being (Social Work Psychology) 
+  - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
+ 
+- Introductory Statistics 2
+  - [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497)
+ 
+Summer 2023 (Sophomore Undergrad):
+
+- Cooperative Internship (Global Tech Experience) 
+  - [IDS 3947](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116344)
+ 
 Spring 2023 (Sophomore Undergrad):
 
 - Art and Culture (Art History)
@@ -143,94 +216,21 @@ Spring 2023 (Sophomore Undergrad):
 - Introductory Statistics 1
   - [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496)
  
-Summer 2023 (Sophomore Undergrad):
+Spring 2022 (Freshman Undergrad):
 
-- Cooperative Internship (Global Tech Experience) 
-  - [IDS 3947](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116344)
+- Calculus and its Applications (Calc 1 & 2) 
+  - [MATH08058](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08058.htm)
+
+- Proofs and Problem Solving (Discrete Math)
+  - [MATH08059](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08059.htm)
  
-Fall 2023 (Junior Undergrad):
+- Physics 1A: Foundations (Calc-Based Newtonian Mechanics) 
+  - [PHYS08016](https://www.drps.ed.ac.uk/21-22/dpt/cxphys08016.htm)
 
-- Differential Equations (ODEs) 
-  - [MAP 2302](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114474)
+Fall 2021 (Freshman Undergrad):
+
+- Fundamentals of Algebra and Calculus (Calc 1 + Matrix Algbra) 
+  - [MATH07003](https://www.drps.ed.ac.uk/21-22/dpt/cxmath07003.htm)
  
-- Vector Calculus (Calc 3.5) 
-  - [MAS 3156](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114479)
-
-- Happiness and Well-Being (Social Work Psychology) 
-  - [SOW 3802](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116728)
- 
-- Introductory Statistics 2
-  - [STA 3024](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114497)
-
-Spring 2024 (Junior Undergrad):
-
-- American History II (1877-Present) 
-  - [AMH 2020](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114299)
-
-- Mathematical Modeling (MathPhys)
-  - [MAP 4103](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
- 
- - Computational Methods for Applied Statistics (R Studio) 
-  - [STA 4102](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114499)
-
-- Introduction to Probability Theory (Discrete Math Notation) 
-  - [STA 4442](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503)
-
- Summer 2024 (Junior Undergrad):
-
- - Computers in Business (Microsoft [Teams, Word, Excel, and Powerpoint]) 
-  - [CGS 2100](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=115722)
-
-  - Digital Identity (Discontinued) [Digital Footprints] 
-    - [EME 4390](https://usfonline.admin.usf.edu/pls/prod/bwckctlg.p_disp_course_detail?cat_term_in=202401&subj_code_in=EME&crse_numb_in=4390)
-
-Fall 2024 (Senior Undergrad):
-
-- Programming Concepts (Java) 
-  - [COP 2030](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116438)
-
-- Python for Business Analytics (Regression) [Fall 2024]
-  - [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878)
-
-- Introduction to Cryptography and Its Applications (Linux)
-  - [MAD 2470](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116938)
-
-- Intro to MathStats 1
-  - [STA 4321](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501)
-
-Spring 2025 (Senior Undergrad):
-
-- Climate Studies (Intro Meteorology) 
-  - [MET 4106C](https://cloud.usf.edu/academic-programs/details/prefix/MET/code/4106C)
-
-- Intro to MathStats 2
-  - [STA 4322](https://www.coursicle.com/usf/courses/STA/4322/)
-
-Fall 2025 (First-Year Master's):
-
-- Applied Statistics (Minitab) 
-  - [STA 500](https://online.stat.psu.edu/stat500/)
-
-- Regression Methods (Minitab) [Fall 2025]
-  - [STAT 501](https://online.stat.psu.edu/stat501/)    
-
-Spring 2026 (First-Year Master's):
-
-- Introduction to Probability Theory (Probability 2) 
-  - [STAT 414](https://online.stat.psu.edu/stat414/)
-
-- Analysis of Variance and Design of Experiments (SAS) 
-  - [STAT 502](https://online.stat.psu.edu/stat502/)
-
-Summer 2026 (First-Year Master's):
-
-- Introduction to Mathematical Statistics (MathStats 3) 
-  - [STAT 415](https://online.stat.psu.edu/stat415/)
- 
-Fall 2026 (Second-Year Master's):
- 
-- Applied Data Mining and Statistical Learning (ML Theory) [R Studio] 
-  - [STAT 508](https://online.stat.psu.edu/stat508/)
-  
-- Applied Time Series Analysis (Statistical Economics) [R Studio] 
-  - [STAT 510](https://online.stat.psu.edu/stat510/)
+- Introduction to Linear Algebra (Matrices & Proofs) 
+  - [MATH08057](https://www.drps.ed.ac.uk/21-22/dpt/cxmath08057.htm)
