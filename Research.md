@@ -11,7 +11,7 @@
 - [Mathematical Modeling](https://en.wikipedia.org/wiki/Mathematical_model)
   - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 
-# [Bio Math](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology): 
+# [Bio Math:](https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology) 
 
 - [Molecular Set Theory](https://en.wikipedia.org/wiki/Anthony_Bartholomay)
 
@@ -19,7 +19,7 @@
 
 - [Biostats](https://en.wikipedia.org/wiki/Biostatistics)
 
-# [Computational Math](https://en.wikipedia.org/wiki/Computational_mathematics):
+# [Computational Math:](https://en.wikipedia.org/wiki/Computational_mathematics)
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Machine Learning Algorithms](https://en.wikipedia.org/wiki/Machine_learning)
 
@@ -46,13 +46,13 @@
 
 - [Theoretical Data Science](https://en.wikipedia.org/wiki/Data_science)
 
-# [Mathematical Chemistry](https://en.wikipedia.org/wiki/Mathematical_chemistry):
+# [Mathematical Chemistry:](https://en.wikipedia.org/wiki/Mathematical_chemistry)
 
 - [Crystallography](https://en.wikipedia.org/wiki/Crystallography) 
 
 - [Organic Chemistry](https://en.wikipedia.org/wiki/Organic_chemistry) (Want to learn the methodical nomenclature of hexagons)
 
-# [Mathematical Economics](https://en.wikipedia.org/wiki/Mathematical_economics):
+# [Mathematical Economics:](https://en.wikipedia.org/wiki/Mathematical_economics)
 
 - [Actuarial Science](https://en.wikipedia.org/wiki/Actuarial_science) (Property & Casualty)
 
@@ -68,7 +68,7 @@
 
 - [Time Series Forecasting](https://en.wikipedia.org/wiki/Time_series) (for stock markets)
 
-# [Mathematical Engineering](https://en.wikipedia.org/wiki/Mathematical_engineering):
+# [Mathematical Engineering:](https://en.wikipedia.org/wiki/Mathematical_engineering)
 
 - [Control Theory](https://en.wikipedia.org/wiki/Control_theory) and [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) (EE-Adjacent)
 
@@ -80,7 +80,7 @@
 
 - [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering) (Given the answer then work it backwards)
 
-# [Mathematical Physics](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be):
+# [Mathematical Physics:](https://www.youtube.com/watch?si=xF3gmR_suUsvfjQx&v=goNv6hRVaLU&feature=youtu.be)
 
 - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system) / [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
@@ -98,7 +98,7 @@
 
 - [Three-Body Problem](https://en.wikipedia.org/wiki/Three-body_problem)
 
-# [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics):
+# [Mathematical Statistics:](https://en.wikipedia.org/wiki/Mathematical_statistics)
 
 - [Algebraic Statistics](https://en.wikipedia.org/wiki/Dynamical_system) (Abstract Algebra applied to Stats)
 
@@ -112,7 +112,7 @@
 
 # [Meteorology](https://en.wikipedia.org/wiki/Meteorology) ([Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics))
 
-# [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics):
+# [Pure Mathematics:](https://en.wikipedia.org/wiki/Pure_mathematics)
 
 - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 
