@@ -107,6 +107,8 @@
 
 # <h1 align="center">Courses:</h1>
 
+# <h1 align="center">[PSU MAS:](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics)</h1>
+
 Fall 2026 (Second-Year Master's):
  
 - Applied Data Mining and Statistical Learning (ML Theory) [R Studio] 
@@ -135,6 +137,8 @@ Fall 2025 (First-Year Master's):
 
 - Regression Methods (Minitab) [Fall 2025]
   - [STAT 501](https://online.stat.psu.edu/stat501/)
+
+# <h1 align="center">[USF B.S. Mathematics: Computational & Applied:](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237)</h1>
  
 Spring 2025 (Senior Undergrad):
 
@@ -215,6 +219,8 @@ Spring 2023 (Sophomore Undergrad):
 
 - Introductory Statistics 1
   - [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496)
+
+# <h1 align="center">[UoE - BsC (Honours) - Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)</h1>
  
 Spring 2022 (Freshman Undergrad):
 
