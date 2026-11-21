@@ -1,5 +1,7 @@
 # <h1 align="center">Skills:</h1>
 
+- A/B (Hypothesis) Testing
+
 - Adobe (Photoshop, InDesign, Dreamweaver)
 
 - Aerospace Engineering (Probability Distributions)
@@ -13,7 +15,11 @@
 
 - Business Analytics
 
+- Calculus
+
 - Computer Software / Technology (General)
+
+- Computational (Linguistics / Neuroscience) [Probability + MathStats]
 
 - Cryptograpgy (Linux)
 
@@ -33,7 +39,13 @@
 
 - Intercultural Skills / Communication
 
+- Industrial Engineering: Theory
+
+- Intercultural Skills / Communication
+
 - Java
+
+- Linear Algebra
 
 - Mathematical Economics (Fourier Analysis & SDEs via R Studio)
 
@@ -61,6 +73,8 @@
 
 - (Mathematical / Theoretical) Stats [Advanced Calc Methods]
 
+- Ordinary Differential Equations
+
 - R Studio (ggplot2, Tidyverse)
 
 - Resume Writing (GitHub)
@@ -69,7 +83,11 @@
 
 - P&C Actuarial Science: Theory
 
+- Philosophy (MathStats)
+
 - Physics: Newtonian Mechanics
+
+- Problem Solving / Analytical Thinking / Logistical
 
 - Psychology (MathStats)
 
@@ -90,6 +108,8 @@
 - Snap! (Block Coding)
 
 - SAS (Programming Language)
+
+- StatCrunch (Software)
 
 - Statistical Data Analysis
 
