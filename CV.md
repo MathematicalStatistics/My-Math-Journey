@@ -220,7 +220,7 @@ Spring 2023 (Sophomore Undergrad):
 - Introductory Statistics 1
   - [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496)
 
-# <h1 align="center">[UoE - BsC (Honours) - Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)</h1>
+# <h1 align="center">[UoE - BSc (Honours) - Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)</h1>
  
 Spring 2022 (Freshman Undergrad):
 
