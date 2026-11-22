@@ -53,6 +53,7 @@ Websites:
 
 - [AP World: Modern - Freeman-pedia](https://www.freeman-pedia.com/apworldmodern)
 - [JB Statistics](https://www.jbstatistics.com/)
+- [XerographicPaper](https://xpaper.itch.io/)
 
 YouTube Channels:
 
