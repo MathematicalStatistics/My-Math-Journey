@@ -49,6 +49,9 @@ Shows:
 - [Young Sheldon](https://en.wikipedia.org/wiki/Young_Sheldon) (I feel like the theoretical statistician version of him)
 - [3 Body Problem](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series))
 
+Websites:
+- [JB Statistics](https://www.jbstatistics.com/)
+
 YouTube Channels:
 
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown) (Visual Math)
