@@ -60,7 +60,7 @@ I love how each region has a unique taste in their food. I like the Sichuan regi
 
 # <h1 align="center">Thai:</h1>
 
-The cuisine is spicy and spicy basil noodles are my favorie.
+The cuisine is spicy and spicy basil noodles are my favorite.
 
 # <h1 align="center">Uzbek</h1>
 
