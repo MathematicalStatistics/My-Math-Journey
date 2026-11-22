@@ -50,6 +50,8 @@ Shows:
 - [3 Body Problem](https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series))
 
 Websites:
+
+- [AP World: Modern - Freeman-pedia](https://www.freeman-pedia.com/apworldmodern)
 - [JB Statistics](https://www.jbstatistics.com/)
 
 YouTube Channels:
