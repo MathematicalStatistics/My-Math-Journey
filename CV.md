@@ -127,7 +127,7 @@
 
 # <h1 align="center">Courses:</h1>
 
-# <h1 align="center">[PSU MAS:](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics)</h1>
+# <h1 align="center">[PSU MAS (Master's of Applied Statistics):](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics)</h1>
 
 Fall 2026 (Second-Year Master's):
  
@@ -240,7 +240,7 @@ Spring 2023 (Sophomore Undergrad):
 - Introductory Statistics 1
   - [STA 2023](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114496)
 
-# <h1 align="center">[UoE - BSc (Honours) - Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)</h1>
+# <h1 align="center">[University of Edinburgh - BSc (Honours) - Mathematical Physics](https://www.drps.ed.ac.uk/26-27/dpt/utmapyb.htm#dpt-year-1)</h1>
  
 Spring 2022 (Freshman Undergrad):
 
