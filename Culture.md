@@ -48,7 +48,7 @@ When terms get so technical in Italian, it's almost the same as in English.
 
 # <h1 align="center">Korean:</h1>
 
-I enjoy the complexity of the food that is prepared and it has a spicy twist to most of their dishes. [Jjamppong (짬뽕)](https://en.wikipedia.org/wiki/Jjamppong) (spicy seafood noodle soup) is my favorite dish (it's actually [Korean-Chinese](https://en.wikipedia.org/wiki/Korean_Chinese_cuisine)).
+I enjoy the complexity of the food that is prepared and it has a spicy twist to most of their dishes. [Jjamppong (짬뽕)](https://en.wikipedia.org/wiki/Jjamppong) (spicy seafood noodle soup) [it's actually [Korean-Chinese](https://en.wikipedia.org/wiki/Korean_Chinese_cuisine)].
 
 <img width="996" height="947" alt="image" src="https://github.com/user-attachments/assets/c3fe1801-a44f-42fd-8dcc-bcaf61d68bbc" />
 
@@ -60,17 +60,17 @@ I love how each region has a unique taste in their food. I like the Sichuan regi
 
 # <h1 align="center">Thai:</h1>
 
-The cuisine is spicy and spicy basil noodles are my favorite.
+The cuisine is spicy and here's spicy basil noodles.
 
 # <h1 align="center">Uzbek</h1>
 
-A mixture of Russian, Arab, and Chinese influences. [Laghman(لەغمەن)](https://en.wikipedia.org/wiki/Laghman_(food)) is my favorite dish which is noodles served in a wok.
+A mixture of Russian, Arab, and Chinese influences. [Laghman(لەغمەن)](https://en.wikipedia.org/wiki/Laghman_(food)) is noodles served in a wok.
 
 <img width="269" height="270" alt="image" src="https://github.com/user-attachments/assets/e420f5c0-c231-4996-bf3e-f56e74c12d71" />
 
 # <h1 align="center">Indian</h1>
 
-I love all the spices that are put in the food. It has great flavor and also tastes good when it's spicy. [Jalfrezi(ঝালফ্রেজী)](https://en.wikipedia.org/wiki/Jalfrezi) is my favorite.
+I love all of the spices their cuisine uses. [Jalfrezi(ঝালফ্রেজী)](https://en.wikipedia.org/wiki/Jalfrezi).
 
 <img width="2560" height="1721" alt="image" src="https://github.com/user-attachments/assets/fba6aae3-a143-466e-b8f5-e1165bf19ac0" />
 
@@ -92,7 +92,7 @@ Has both European and Asian influences in their food. Ceviche is the Peruvian ve
 
 # <h1 align="center">Italian:</h1>
 
-Italian cuisine is simple but it also has a very clean taste. Spaghetti alle vongole (clam pasta) is my personal favorite.
+Italian cuisine is simple but it also has a very clean taste. Spaghetti alle vongole (clam pasta).
 
 # <h1 align="center">Countries I've been to:</h1>
 
