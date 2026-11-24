@@ -42,7 +42,7 @@ AI hallucinated for sure.
 
 I did my best translating it.
 
-When terms get so technical in Italian, it's almost the same as in English.
+When terms get so technical in Italian, it's almost the same as in English because it's Latin-based.
 
 # International Cuisine:
 
