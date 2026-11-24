@@ -16,7 +16,7 @@
   
 - [Romanizing](https://en.wikipedia.org/wiki/Romanization) the Korean language also gives it many different spellings.
 
-- Each character to represents a syllable.
+- Each character represents a syllable.
 
 # <h1 align="center">Italian</h1>
 
