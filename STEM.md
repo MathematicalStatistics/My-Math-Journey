@@ -22,8 +22,8 @@
 
 <h1 align="center">Calculus:</h1>
 
-- [MathWithMrWood](https://sites.google.com/view/mathwithmrwood/ap-calculus)
 - [Real Analysis](https://sciences.ucf.edu/math/mikusinski/real-analysis-resources/)
+- [Integration by Parts (Modpack)](https://www.curseforge.com/minecraft/modpacks/integration-by-parts)
 
 <h1 align="center">Chemistry:</h1>
 
