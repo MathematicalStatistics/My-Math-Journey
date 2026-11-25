@@ -71,6 +71,7 @@ YouTube Channels:
 - [NileRed](https://www.youtube.com/@nilered) (Chem)
 - [Physics Girl](https://www.youtube.com/@physicsgirl/videos) (Physics + [EE](https://en.wikipedia.org/wiki/Electrical_engineering))
 - [Storytime With Jeff](https://www.youtube.com/@storytimewithjeff) (Physics)
+- [Study to Success](https://www.youtube.com/@StudyToSuccess)
 - [Papa Flammy](https://www.youtube.com/c/papaflammy) (Math)
   - [Flammy's Wood](https://www.youtube.com/channel/UCPctvztDTC3qYa2amc8eTrg) (Woodworking) 
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
