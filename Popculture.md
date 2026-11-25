@@ -4,9 +4,7 @@ Books:
 
 - [A Doll's House](https://en.wikipedia.org/wiki/A_Doll's_House) (Torvold is an [incel](https://en.wikipedia.org/wiki/Incel))
 - [Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) (I feel similar to Holden Caulfield since I isolated myself from society by studying math for this long)
-- [Fermat Kitchen](https://en.wikipedia.org/wiki/Fermat_Kitchen) (Gaku quits studying math to become a cook)
 - [Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) (feels like the repository I made)
-- [One Piece](https://en.wikipedia.org/wiki/One_Piece) ([Monkey D. Luffy](https://en.wikipedia.org/wiki/Monkey_D._Luffy)) [good way to introduce yourself]
 - [Manga Guide](https://en.wikipedia.org/wiki/The_Manga_Guides) to [Insert Topic] (Can help people learn various topics)
 - [Plastic: a Toxic Love Story](https://books.google.com/books/about/Plastic.html?id=9LyGHqqIKT4C) (talks about how microplastics cause hormone imbalance)
 - [The Biggest Bluff](https://en.wikipedia.org/wiki/The_Biggest_Bluff) (Psychology behind poker as well as [probability theory](https://en.wikipedia.org/wiki/Probability_theory))
@@ -42,6 +40,8 @@ Shows:
 - [Agent Kim Reactivated](https://en.wikipedia.org/wiki/Agent_Kim_Reactivated) (Kim Bu-Jang is a secret double-agent for North and South Korea)
 - [Beef](https://en.wikipedia.org/wiki/Beef_(TV_series)) (Korean culture)
 - [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror) (Mostly accurate way to predict the future)
+- [Fermat Kitchen](https://en.wikipedia.org/wiki/Fermat_Kitchen) (Gaku quits studying math to become a cook)
+- [One Piece](https://en.wikipedia.org/wiki/One_Piece) ([Monkey D. Luffy](https://en.wikipedia.org/wiki/Monkey_D._Luffy)) [good way to introduce yourself]
 - [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) [Will does a presentation about [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)]
 - [The Queen's Gambit](https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)) (Probability behind chess movements)
 - [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)) (Quantum somewhere)
