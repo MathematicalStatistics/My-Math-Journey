@@ -63,6 +63,7 @@ YouTube Channels:
 - [Amoeba Sisters](https://www.youtube.com/c/AmoebaSisters) (Bio)
 - [Andrew Dotson](https://www.youtube.com/@AndrewDotsonvideos/) (Particle Physics)
 - [Anastasia Marchenkova](https://www.youtube.com/@Anastasia-Marchenkova) (Quantum Physics)
+- [Apop World History](https://www.youtube.com/channel/UC6KTWOZ_bqibjA9PbMBHxRA)
 - [blackpenredpen](https://www.youtube.com/@blackpenredpen) (crazy calc videos)
 - [Dan Fullerton](https://www.youtube.com/@DanFullerton) (AP Physics)
 - [Dr. Weselcouch](https://www.youtube.com/c/DrWeselcouch) (Math & Minecraft)
