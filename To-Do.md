@@ -16,5 +16,6 @@
 - Polymath ([선비](https://en.wikipedia.org/wiki/Seonbi)) Tutoring
 - [Torino Polytechnic](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning) 
     - Has some really cool programs
-    - I realized I did a [mathematical engineering (bachelor's)](https://www.polito.it/didattica/corsi-di-laurea/matematica-per-l-ingegneria/piano-di-studi) degree more or less
+    - I realized I did a [Mathematical Engineering (Bachelor's)](https://www.polito.it/didattica/corsi-di-laurea/matematica-per-l-ingegneria/piano-di-studi) degree more or less.
+    - [Mathematical Engineering Master's](https://www.polito.it/didattica/corsi-di-laurea-magistrale/ingegneria-matematica)
     - Do the lifelong learning program at some point?
