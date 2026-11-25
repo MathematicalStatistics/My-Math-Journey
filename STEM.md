@@ -95,6 +95,7 @@
 - [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
 - [Strong-Field Magnetohydrodynamics](https://www.youtube.com/watch?v=PcUWGttYvAw)
 - [Supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry)
+- [Symmetry Operations](https://youtu.be/so-O_0FjL_I)
 - [Synthetic Prequantum Field Theory](https://www.youtube.com/watch?v=_O41kh0z_UM)
 
 <h1 align="center">Proofs:</h1>
