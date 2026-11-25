@@ -91,7 +91,6 @@
 - [EHD Jet Printing Quantum Dots](https://www.youtube.com/watch?v=QykmjEOcOGY)
 - [Electromagnetics & Applications](https://youtube.com/playlist?list=PL502E7BF2CF94D753&si=XoryqvNaa6Iu2b1G)
 - [Intro to Quantum Mech II](https://youtube.com/playlist?list=PL958F66FFE4393435&si=23yAzfXISBhx_v6D)
-- [PhET](https://phet.colorado.edu/)
 - [Physics After Spacetime](https://standardgalactic.github.io/research-projects/Physics%20After%20Spacetime.pdf)
 - [Radiative Switch Computation](https://github.com/standardgalactic/computation/blob/main/radiative-switch/README.md)
 - [Strong-Field Magnetohydrodynamics](https://www.youtube.com/watch?v=PcUWGttYvAw)
@@ -116,7 +115,3 @@
 
 - [Digital Analog Clock](https://standardgalactic.github.io/dactyl-clock.html)
 - [Digital Oscilloscope](https://standardgalactic.github.io/alphabet/research/oscilloscope.html)
-
-<h1 align="center">Websites:</h1>
-
-- [XerographicPaper](https://xpaper.neocities.org/)
