@@ -67,6 +67,7 @@
 - [Continuation Geometry](https://standardgalactic.github.io/computation/continuation_geometry_monograph.pdf)
 - [Geometry of Control](https://standardgalactic.github.io/kitbash/paperbot/geometry-of-control.pdf)
 - [Geometry of Distinction](https://standardgalactic.github.io/calculus/geometry-of-distinction.pdf)
+- [Kippenhahn Curves of Low Rank Partial Isometries](https://link.springer.com/epdf/10.1007/s00020-026-02846-w?sharing_token=HNwQSIxdM-9cTaISgdEZvPe4RwlQNchNByi7wbcMAY57F8K34V_fia17yI9IHZhffBE5j6rYIoB8CTMiOtjU-vmr0PAv4CY_4WpDm3qGV_oUw2Oi8vN2QYJiNv4DbMisdq1nQR6nFTAvltrlO8DGJCjO9KZBn2_rO-uvHptBF3c%3D )
 - [Knots and 4-Manifolds](https://youtu.be/gLRh05OeZPw?si=Vvo9Om66XF7gOIx3)
 - [Monotonic Continuation](https://standardgalactic.github.io/computation/monotonic-continuation.pdf)
 - [Never Predict Noise](https://standardgalactic.github.io/alphabet/Never-Predict-Noise.pdf)
