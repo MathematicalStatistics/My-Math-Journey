@@ -54,6 +54,7 @@ Websites:
 - [AP World: Modern - Freeman-pedia](https://www.freeman-pedia.com/apworldmodern)
 - [JB Statistics](https://www.jbstatistics.com/)
 - [MathWithMrWood](https://sites.google.com/view/mathwithmrwood/ap-calculus)
+- [PhET](https://phet.colorado.edu/) (Physics simulations)
 - [XerographicPaper](https://xpaper.itch.io/)
 
 YouTube Channels:
