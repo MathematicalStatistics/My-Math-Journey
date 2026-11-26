@@ -98,6 +98,7 @@
 - [Supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry)
 - [Symmetry Operations](https://youtu.be/so-O_0FjL_I)
 - [Synthetic Prequantum Field Theory](https://www.youtube.com/watch?v=_O41kh0z_UM)
+- [The Caldera Reactor](https://standardgalactic.github.io/caldera-reactor/Caldera_Field_Dynamics.pdf)
 
 <h1 align="center">Proofs:</h1>
 
